@@ -29,5 +29,5 @@ Review and practice of basic calculation rules as well as function with focus on
 
 --------------------------
 
-Exercises for recitation.
+[Exercises for recitation](https://viaucdk-my.sharepoint.com/:b:/g/personal/rib_viauc_dk/EY7WcLodEshGuFo8tq2CEAwBbfsS-EADe3BtTjyrMKi2Sw?e=upqiOX)
 
