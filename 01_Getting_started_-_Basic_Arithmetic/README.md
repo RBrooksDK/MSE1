@@ -1,7 +1,7 @@
 # 01 Getting started - Basic Arithmetic
 
 Introduction to the course
-
+1
 Review and practice of basic calculation rules as well as function with focus on
 
 - Power rules
