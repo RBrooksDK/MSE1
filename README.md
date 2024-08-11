@@ -13,14 +13,14 @@ Click on a session below to access a plan of a specific session and additional r
 | Session | Week | Topic |
 |---------|------|-------|
 | 01      | 36   | [Introduction: Basic Arithmetic and Functions](https://github.com/RBrooksDK/MSE1/blob/main/01_Getting_started_-_Basic_Arithmetic/README.md) |
-| 02      | 37   | [Number systems](https://github.com/RBrooksDK/MSE1/blob/main/02_Number_systems/README.md) |
+| 02      | 37   | [Fundamental Concepts in Number Theory](https://github.com/RBrooksDK/MSE1/blob/main/02_Number_systems/README.md) |
 | 03      | 38   | [Boolean Algebra](https://github.com/RBrooksDK/MSE1/blob/main/03_Boolean_Algebra/README.md) |
-| 04      | 39   | [Combinatorics and Probability Theory](https://github.com/RBrooksDK/MSE1/blob/main/04_Combinatorics_and_Probability_Theory/README.md) |
+| 04      | 39   | [Introduction to Combinatorics and Probability Theory](https://github.com/RBrooksDK/MSE1/blob/main/04_Combinatorics_and_Probability_Theory/README.md) |
 | 05      | 40   | [Conditional Probability and Bayes Theorem](https://github.com/RBrooksDK/MSE1/blob/main/05_Conditional_Probability_and_Bayes_Theorem/README.md) |
 | 06      | 41   | [Linear Equations in Linear Algebra](https://github.com/RBrooksDK/MSE1/blob/main/06_Linear_Equations_in_Linear_Algebra/README.md) |
 | 07      | 43   | [Solution Sets and Linear Dependence](https://github.com/RBrooksDK/MSE1/blob/main/07_Solution_Sets_and_Linear_Dependence/README.md) |
 | 08      | 44   | [Matrix Algebra](https://github.com/RBrooksDK/MSE1/blob/main/08_Matrix_Algebra/README.md) |
-| 09      | 45   | [Eigenvalues and Eigenvectors](https://github.com/RBrooksDK/MSE1/blob/main/09_Eigenvalues_and_Eigenvectors/README.md) |
+| 09      | 45   | [Eigenvalues, Eigenvectors, and Diagonalization](https://github.com/RBrooksDK/MSE1/blob/main/09_Eigenvalues_and_Eigenvectors/README.md) |
 | 10      | 46   | [Asymptotic analysis and Big O notation](https://github.com/RBrooksDK/MSE1/blob/main/10_Asymptotic_analysis_and_Big_O_notation/README.md) |
 | 11      | 47   | [Functions and Loops in Programming](https://github.com/RBrooksDK/MSE1/blob/main/11_Functions_and_Loops_in_Programming/README.md) |
 | 12      | 48   | [Exam Preparation and Q/A](https://github.com/RBrooksDK/MSE1/blob/main/12_Exam_Preparation_and_Q/A/README.md) |
