@@ -1,4 +1,4 @@
-# Session 1: Introduction and Fundamental Concepts
+# 1. Introduction: Basic Arithmetic and Functions
 
 **Session Preparation:**
 
