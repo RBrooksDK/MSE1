@@ -1,4 +1,4 @@
-# 01 Getting started - Basic Arithmetic
+# Session 1: Introduction and Fundamental Concepts
 
 **Session Preparation:**
 
@@ -14,16 +14,19 @@ We will not be going through the arithmetic part, but we will be doing examples 
 
 --------------------------
 
-Introduction to the course
+In this first session, we will lay the groundwork for our study of mathematics within the context of software engineering. The session will begin with an overview of the course structure, objectives, and expectations. Following this, we will review and practice essential calculation rules and the basic properties of functions. These fundamental concepts are critical as they form the basis for more advanced topics that will be covered later in the course.
 
-Review and practice of basic calculation rules as well as function with focus on
+The focus will be on understanding and applying the power rules, radicals, exponents, and logarithms. We will also explore the definition and types of functions, delving into their domains, codomains, and ranges. Finally, we'll introduce the concepts of inverse and composite functions, which will be important for later discussions.
 
+#### Key Concepts:
+- Introduction to the course
+- Review of basic calculation rules
 - Power rules
-- Radicals ( = "roots")
+- Radicals (roots)
 - Exponents
 - Logarithms
-- Definition of a function
-- Domain, codomain and range
+- Definition and types of functions
+- Domain, codomain, and range
 - Inverse function
 - Composite functions
 
