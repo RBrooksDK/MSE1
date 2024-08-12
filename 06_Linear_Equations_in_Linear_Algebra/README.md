@@ -8,9 +8,9 @@ Note: Please make sure you have a working version of Python 3.7 (or higher) and 
 
 **Session Material:**
 
-[Session notes](https://drive.google.com/file/d/10DUxd8bwDvTrlXp2k5O9uYZmjONJIeNO/view?usp=sharing)
+[Session notes]()
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EghXF8209dVDlt1O_HZ1pBQBlAJpOv9rY2FdTBL7wytBfw?e=4BfKeR)
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eg__7CNZHU5GnvVSwtsKTGQBykXb7nnGszwkBzJSdf6-WA?e=L2PuYs)
 
 --------------------------
 
@@ -30,4 +30,4 @@ This session introduces the fundamental concepts of linear algebra, focusing on 
 
 --------------------------
 
-[Exercises for recitation](https://viaucdk-my.sharepoint.com/:b:/g/personal/rib_viauc_dk/EY7WcLodEshGuFo8tq2CEAwBbfsS-EADe3BtTjyrMKi2Sw?e=upqiOX)
+[Exercises for recitation]()

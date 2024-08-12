@@ -6,9 +6,9 @@ Brooks: Chapter 4-5.
 
 **Session Material:**
 
-[Session notes](https://drive.google.com/file/d/10DUxd8bwDvTrlXp2k5O9uYZmjONJIeNO/view?usp=sharing)
+[Session notes]()
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EghXF8209dVDlt1O_HZ1pBQBlAJpOv9rY2FdTBL7wytBfw?e=4BfKeR)
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EsJDXlP48H5Nnak20uj9FMYBWN_47BOjpk_K1Lso5NxBoA?e=0mp31Z)
 
 --------------------------
 
@@ -23,4 +23,4 @@ Building on our introduction to probability, this session delves deeper into the
 
 --------------------------
 
-[Exercises for recitation](https://viaucdk-my.sharepoint.com/:b:/g/personal/rib_viauc_dk/EY7WcLodEshGuFo8tq2CEAwBbfsS-EADe3BtTjyrMKi2Sw?e=upqiOX)
+[Exercises for recitation]()
