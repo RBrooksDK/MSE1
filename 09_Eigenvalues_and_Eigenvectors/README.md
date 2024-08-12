@@ -6,9 +6,9 @@ Brooks: Chapter 9.
 
 **Session Material:**
 
-[Session notes](https://drive.google.com/file/d/10DUxd8bwDvTrlXp2k5O9uYZmjONJIeNO/view?usp=sharing)
+[Session notes]()
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EghXF8209dVDlt1O_HZ1pBQBlAJpOv9rY2FdTBL7wytBfw?e=4BfKeR)
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EpGNNUp8hjpPn6niIxD8hT4BdSOLqNwtdY91GTRCdj7D_g?e=2DwW6Q)
 
 --------------------------
 
@@ -23,4 +23,4 @@ In this session, we will explore some of the most fundamental concepts in linear
 - Diagonalization
 --------------------------
 
-[Exercises for recitation](https://viaucdk-my.sharepoint.com/:b:/g/personal/rib_viauc_dk/EY7WcLodEshGuFo8tq2CEAwBbfsS-EADe3BtTjyrMKi2Sw?e=upqiOX)
+[Exercises for recitation]()

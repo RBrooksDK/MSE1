@@ -8,7 +8,7 @@ Brooks: Chapter 8.
 
 [Session notes](https://drive.google.com/file/d/10DUxd8bwDvTrlXp2k5O9uYZmjONJIeNO/view?usp=sharing)
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EghXF8209dVDlt1O_HZ1pBQBlAJpOv9rY2FdTBL7wytBfw?e=4BfKeR)
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ep-kuPOC2r5NsJOp-SzZ1U8BsPWE1ZL0SEZTvJ8NXxrsHQ?e=SrV1vE)
 
 --------------------------
 

@@ -6,9 +6,9 @@ Brooks: Chapter 10.
 
 **Session Material:**
 
-[Session notes](https://drive.google.com/file/d/10DUxd8bwDvTrlXp2k5O9uYZmjONJIeNO/view?usp=sharing)
+[Session notes]()
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EghXF8209dVDlt1O_HZ1pBQBlAJpOv9rY2FdTBL7wytBfw?e=4BfKeR)
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EnwGIx3PNuJHmDljj0r5POsB2j5n658Vxcqrw0s2iVcznQ?e=p5WKpf)
 
 --------------------------
 
@@ -24,4 +24,4 @@ In this session, we focus on two fundamental concepts in programming: functions 
 - Applications of Hash Functions
 --------------------------
 
-[Exercises for recitation](https://viaucdk-my.sharepoint.com/:b:/g/personal/rib_viauc_dk/EY7WcLodEshGuFo8tq2CEAwBbfsS-EADe3BtTjyrMKi2Sw?e=upqiOX)
+[Exercises for recitation]()
