@@ -14,6 +14,7 @@ Click on a session below to access a plan of a specific session and additional r
 |---------|------|-------|
 | 01      | 36   | [Introduction: Basic Arithmetic and Functions](https://github.com/RBrooksDK/MSE1/blob/main/01_Getting_started_-_Basic_Arithmetic/README.md) |
 | 02      | 37   | [Fundamental Concepts in Number Theory](https://github.com/RBrooksDK/MSE1/blob/main/02_Number_systems/README.md) |
+| 02      | 37   | [Numeral Systems](https://github.com/RBrooksDK/MSE1/blob/main/03_Numeral_systems/README.md) |
 | 03      | 38   | [Boolean Algebra](https://github.com/RBrooksDK/MSE1/blob/main/03_Boolean_Algebra/README.md) |
 | 04      | 39   | [Introduction to Combinatorics and Probability Theory](https://github.com/RBrooksDK/MSE1/blob/main/04_Combinatorics_and_Probability_Theory/README.md) |
 | 05      | 40   | [Conditional Probability and Bayes Theorem](https://github.com/RBrooksDK/MSE1/blob/main/05_Conditional_Probability_and_Bayes_Theorem/README.md) |
