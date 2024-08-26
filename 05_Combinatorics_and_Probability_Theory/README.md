@@ -1,8 +1,8 @@
-# 4. Introduction to Combinatorics and Probability Theory
+# 5. Introduction to Combinatorics and Probability Theory
 
 **Session Preparation:**
 
-Brooks: Chapter 4-5.
+Brooks: Chapter 5-6.
 
 **Session Material:**
 

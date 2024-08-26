@@ -1,8 +1,8 @@
-# 5. Conditional Probability and Bayes Theorem
+# 6. Conditional Probability and Bayes Theorem
 
 **Session Preparation:**
 
-Brooks: Chapter 4-5.
+Brooks: Chapter 5-6.
 
 **Session Material:**
 

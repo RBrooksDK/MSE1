@@ -1,8 +1,8 @@
-# 3. Boolean Algebra
+# 4. Boolean Algebra
 
 **Session Preparation:**
 
-Brooks: Chapter 3.
+Brooks: Chapter 4.
 
 **Session Material:**
 

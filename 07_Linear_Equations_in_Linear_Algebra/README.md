@@ -1,8 +1,8 @@
-# 6. Linear Equations in Linear Algebra
+# 7. Linear Equations in Linear Algebra
 
 **Session Preparation:**
 
-Brooks: Chapter 6.
+Brooks: Chapter 7.
 
 Note: Please make sure you have a working version of Python 3.7 (or higher) and Jupyter Notebook installed **before** this session. I recommend using VS code with the Jupyter Notebook plugin.
 

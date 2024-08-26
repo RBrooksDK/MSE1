@@ -2,7 +2,7 @@
 
 **Session Preparation:**
 
-Brooks: Chapter 10.
+Brooks: Chapter 11.
 
 **Session Material:**
 
