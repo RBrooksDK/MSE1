@@ -14,14 +14,15 @@ Brooks: Chapter 2.
 
 In this session, we delve into the foundational aspects of number theory, which is essential for understanding the mathematical underpinnings of algorithms and data structures in software engineering. We will start by exploring different types of numbers, such as natural numbers, integers, rational numbers, irrational numbers, and real numbers. 
 
-Next, we will cover the process of prime factorisation and its significance, along with the Fundamental Theorem of Arithmetic. Modular arithmetic will also be introduced. Finally, we will discuss various number systems, including binary, decimal, octal, and hexadecimal, and their importance in computing.
+Next, we will cover the process of prime factorisation and its significance, along with the Fundamental Theorem of Arithmetic. Modular arithmetic will also be introduced.
 
 #### Key Concepts:
 - Overview of number types
 - Prime factorisation
+- Highest and least common factors
 - Fundamental Theorem of Arithmetic
+- Divisors and remainders
 - Modular arithmetic
-- Introduction to number systems (binary, decimal, octal, hexadecimal)
 
 
 --------------------------
