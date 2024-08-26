@@ -32,5 +32,5 @@ The focus will be on understanding and applying the power rules, radicals, expon
 
 --------------------------
 
-[Exercises for recitation](https://github.com/RBrooksDK/MSE1/blob/main/01_Getting_started_-_Basic_Arithmetic/01_Getting_started_-_Basic_Arithmetic/01_Exercises.md)
+[Exercises for recitation](01_Getting_started_-_Basic_Arithmetic/README.md)
 
