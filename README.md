@@ -13,7 +13,7 @@ Click on a session below to access a plan of a specific session and additional r
 | Session | Week | Topic |
 |---------|------|-------|
 | 01      | 36   | [Introduction: Basic Arithmetic and Functions](https://github.com/RBrooksDK/MSE1/blob/main/01_Getting_started_-_Basic_Arithmetic/README.md) |
-| 02      | 37   | [Fundamental Concepts in Number Theory](https://github.com/RBrooksDK/MSE1/blob/main/02_Number_systems/README.md) |
+| 02      | 37   | [Fundamental Concepts in Number Theory](02_Fundemental_concepts_in_number_theory\README.md) |
 | 03      | 37   | [Numeral Systems](https://github.com/RBrooksDK/MSE1/blob/main/03_Numeral_systems/README.md) |
 | 04      | 38   | [Boolean Algebra](https://github.com/RBrooksDK/MSE1/blob/main/03_Boolean_Algebra/README.md) |
 | 05      | 39   | [Introduction to Combinatorics and Probability Theory](https://github.com/RBrooksDK/MSE1/blob/main/04_Combinatorics_and_Probability_Theory/README.md) |
