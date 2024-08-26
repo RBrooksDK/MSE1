@@ -8,7 +8,7 @@ We will not be going through the arithmetic part, but we will be doing examples 
 
 **Session Material:**
 
-[Session notes](01_Getting_started_-_Basic_Arithmetic/01_Exercises.md)
+[Session notes]()
 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtdW6vDKB6FHsPZdtO6XUhMB5n3uwC00IoyfXj5g1O6JlA?e=vAY78F)
 
@@ -32,5 +32,5 @@ The focus will be on understanding and applying the power rules, radicals, expon
 
 --------------------------
 
-[Exercises for recitation]()
+[Exercises for recitation](01_Getting_started_-_Basic_Arithmetic/01_Exercises.md)
 
