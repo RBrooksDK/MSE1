@@ -8,7 +8,7 @@ Brooks: Chapter 2.
 
 [Session notes]()
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqAdL2IjxBJIuhBYvL12T8QBaS3fV4FBRbkdF18Koob8sQ?e=EYK2t4)
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Esf4RiApcghJpRmy7bEe1G8B_1Ljm4UIQ35KHm9GY7qCWw?e=ocpgVw)
 
 --------------------------
 
