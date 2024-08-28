@@ -2,7 +2,7 @@
 
 **Session Preparation:**
 
-Brooks: Chapter 1.
+Brooks: [Chapter 1](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing).
 
 We will not be going through the arithmetic part, but we will be doing examples and exercises in arithmetic. So you need to prepare this on your own before classes.
 
