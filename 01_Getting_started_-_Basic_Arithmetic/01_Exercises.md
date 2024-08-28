@@ -22,7 +22,7 @@ b. $\quad -2+2 \ln 3 x=17$
 <details>
 
 <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $x=\frac{e^{\frac{19}{2}}}{3}$
 
@@ -33,7 +33,7 @@ $x=\frac{e^{\frac{19}{2}}}{3}$
 c. $\quad \ln (x+1)^2=2$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $x= \pm e-1$
 
@@ -44,7 +44,7 @@ $x= \pm e-1$
 d. $\quad \ln \left(x^2+1\right)=8$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $x= \pm \sqrt{-1+e^8}$
 
@@ -55,7 +55,7 @@ $x= \pm \sqrt{-1+e^8}$
 e. $\quad 5^{3 x+2}=25^{x-1}$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $x=-4$
 
@@ -79,7 +79,7 @@ $c$ is the speed of light in a vacuum.
 a. Make $v$ the subject of the formula given $v>0$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $v=c \cdot \sqrt{1-\left(\frac{m_0}{m}\right)^2}$
 
@@ -90,7 +90,7 @@ $v=c \cdot \sqrt{1-\left(\frac{m_0}{m}\right)^2}$
 b. Find the speed necessary to increase the mass of a particle to three times its rest mass. Give the value for $v$ as a fraction of $c$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $v=0.943 c$
 
@@ -104,7 +104,7 @@ Determine the domain and range of each of the real functions below. It is a good
 a. $\quad f(x)=\frac{1}{x-7}$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 Domain: $\mathbb{R} \backslash\{7\}$;
 Range: $\mathbb{R} \backslash\{0\}$
@@ -116,7 +116,7 @@ Range: $\mathbb{R} \backslash\{0\}$
 b. $\quad f(x)=\sqrt{x+3}$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 Domain: $\mathbb{R}_ {\geq-3}$;
 Range: $\mathbb{R}_ {\geq 0}$
@@ -131,7 +131,7 @@ Find each of the following composite functions:
 a. $\quad g \circ f$ when $f(x)=3 x+1$ and $g(x)=x^2$.
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $(g \circ f)(x)=9 x^2+1+6 x$
 
@@ -142,7 +142,7 @@ $(g \circ f)(x)=9 x^2+1+6 x$
 b. $f \circ g$ when $f(x)=x^2+1$ and $g(x)=\frac{1}{x}$.
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $(f \circ g)(x)=\frac{1}{x^2}+1$
 
@@ -154,7 +154,7 @@ $(f \circ g)(x)=\frac{1}{x^2}+1$
 c. $\quad g \circ f$ when $f$ and $g$ are defined as in exercise (b).
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $(g \circ f)(x)=\frac{1}{x^2+1}$
 
@@ -167,7 +167,7 @@ $(g \circ f)(x)=\frac{1}{x^2+1}$
 a. $\quad f(x)=\frac{6}{5-x}$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $f^{-1}(x)=5-\frac{6}{x}$
 
@@ -178,7 +178,7 @@ $f^{-1}(x)=5-\frac{6}{x}$
 b. $\quad f(x)=-\ln (1-2 x)+1$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $f^{-1}(x)=\left(1-e^{1-x}\right) / 2$
 
@@ -190,7 +190,7 @@ $f^{-1}(x)=\left(1-e^{1-x}\right) / 2$
 c. $\quad f(x)=2 \cdot 10^{3 x}-1$
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $f^{-1}(x)=\frac{\log \left(\frac{x+1}{2}\right)}{3}$
 
@@ -205,7 +205,7 @@ A bacteria culture starts with 1000 bacteria at time $t=0$ and the number double
 a. Find a functional expression for the number of bacteria at time $t$ (measured in minutes).
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $f(t)=1000 \cdot 2^{t / 40}$
 
@@ -216,7 +216,7 @@ $f(t)=1000 \cdot 2^{t / 40}$
 b. Find the number of bacteria after one hour.
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 $f(60) \approx 2828$
 
@@ -227,7 +227,7 @@ $f(60) \approx 2828$
 c. After how many minutes will there be 50000 bacteria?
 
 <details> <br>
-  <summary>Show Solution</summary>
+  <summary> </summary>
 
 225.75 minutes
 
