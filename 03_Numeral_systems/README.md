@@ -2,7 +2,7 @@
 
 **Session Preparation:**
 
-Brooks: <a href="https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing">Chapter 3</a>
+Brooks: <a href="https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing#page=4">Chapter 3</a>
 
 
 **Session Material:**
