@@ -2,7 +2,7 @@
 
 **Session Preparation:**
 
-Brooks: [Chapter 3](/Mathematics_for_Software_Engineering.pdf)
+Brooks: [Chapter 3](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing).
 
 
 **Session Material:**
