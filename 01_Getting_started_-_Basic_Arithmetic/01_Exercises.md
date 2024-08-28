@@ -9,6 +9,7 @@ a. $\quad 2-\frac{4 x+3}{x+x^2}=\frac{2 x}{x+1}-\frac{5}{x}$
 <details>
 
 <br>
+<summary> </summary>
 
 $x=-\frac{2}{3}$
 
