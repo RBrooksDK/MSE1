@@ -118,8 +118,8 @@ b. $\quad f(x)=\sqrt{x+3}$
 <details> <br>
   <summary>Show Solution</summary>
 
-Domain: $\mathbb{R} _{\geq-3}$;
-Range: $\mathbb{R} _ {\geq 0}$
+Domain: $\mathbb{R}_ {\geq-3}$;
+Range: $\mathbb{R}_ {\geq 0}$
 
 </details>
 
