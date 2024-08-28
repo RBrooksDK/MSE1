@@ -2,7 +2,7 @@
 
 **Session Preparation:**
 
-Brooks: <a href="Mathematics_for_Software_Engineering.pdf#page=4">Chapter 3</a>
+Brooks: [Chapter 3](/Mathematics_for_Software_Engineering.pdf)
 
 
 **Session Material:**
