@@ -118,8 +118,8 @@ b. $\quad f(x)=\sqrt{x+3}$
 <details> <br>
   <summary>Show Solution</summary>
 
-Domain: $\mathbb{R}_{\geq-3}$;
-Range: $\mathbb{R}_{\geq 0}$
+Domain: $\mathbb{R} _{\geq-3}$;
+Range: $\mathbb{R} _ {\geq 0}$
 
 </details>
 
@@ -128,7 +128,7 @@ Range: $\mathbb{R}_{\geq 0}$
 ### Exercise 4
 Find each of the following composite functions:
 
-a. $\quad (g \circ f$ when $f(x)=3 x+1$ and $g(x)=x^2$.
+a. $\quad g \circ f$ when $f(x)=3 x+1$ and $g(x)=x^2$.
 
 <details> <br>
   <summary>Show Solution</summary>
@@ -139,7 +139,7 @@ $(g \circ f)(x)=9 x^2+1+6 x$
 
 <br>
 
-b. $\quad (f \circ g)(x)=\frac{1}{x^2}+1$
+b. $f \circ g$ when $f(x)=x^2+1$ and $g(x)=\frac{1}{x}$.
 
 <details> <br>
   <summary>Show Solution</summary>
