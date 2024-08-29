@@ -27,4 +27,4 @@ Next, we will cover the process of prime factorisation and its significance, alo
 
 --------------------------
 
-[Exercises for recitation](02_Fundemental_concepts_in_number_theory/02_Exercises.md)
+[Exercises for recitation](/02_Fundemental_concepts_in_number_theory/02_Exercises.md)
