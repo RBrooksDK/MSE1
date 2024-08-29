@@ -87,7 +87,7 @@ $v=c \cdot \sqrt{1-\left(\frac{m_0}{m}\right)^2}$
 
 <br>
 
-b. Find the speed necessary to increase the mass of a particle to three times its rest mass. Give the value for $v$ as a fraction of $c$
+b. Find the speed necessary to increase the mass of a particle to three times its rest mass. Give the value for $v$ as a fraction of $c$ (or as a decimal).
 
 <details> <br>
   <summary> </summary>
@@ -163,6 +163,7 @@ $(g \circ f)(x)=\frac{1}{x^2+1}$
 <br>
 
 ### Exercise 5
+Find the inverse
 
 a. $\quad f(x)=\frac{6}{5-x}$
 
@@ -229,7 +230,7 @@ c. After how many minutes will there be 50000 bacteria?
 <details> <br>
   <summary> </summary>
 
-225.75 minutes
+approx. 225.75 minutes
 
 </details>
 
