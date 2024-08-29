@@ -4,54 +4,63 @@
 
 Find all the divisors of the following numbers:
 
-<table>
-<tr>
-<td style="vertical-align: top; padding-right: 20px;">
+a. $10$
+<details>
 
-a. $10$  
-<details>  
-<summary> </summary>  
-$1,2,5,10$  
-</details>  
+<br>
+<summary> </summary>
+
+$1,2,5,10$
+
+</details>
+
 <br>
 
-b. $11$  
-<details>  
-<summary> </summary>  
-$1,11$  
-</details>  
+b. $11$
+
+<details>
+
+<br>
+  <summary> </summary>
+
+$1,11$
+
+</details>
+
 <br>
 
-c. $12$  
-<details>  
-<summary> </summary>  
-$1,2,3,4,6,12$  
-</details>  
+c. $12$
+
+<details> <br>
+  <summary> </summary>
+
+$1,2,3,4,6,12$
+
+</details>
+
 <br>
 
-</td>
+d. $99$
 
-<td style="vertical-align: top; padding-left: 200px;">
+<details> <br>
+  <summary> </summary>
 
-d. $99$  
-<details>  
-<summary> </summary>  
-$1,3,9,11,33,99$  
-</details>  
+$1,3,9,11,33,99$
+
+</details>
+
 <br>
 
-e. $100$  
-<details>  
-<summary> </summary>  
-$1,2,4,5,10,20,25,50,100$  
-</details>  
+e. $100$
+
+<details> <br>
+  <summary> </summary>
+
+$1,2,4,5,10,20,25,50,100$
+
+</details>
+
 <br>
-
-</td>
-</tr>
-</table>
-
-
 
 ### Exercise 2: Prime Numbers
 
