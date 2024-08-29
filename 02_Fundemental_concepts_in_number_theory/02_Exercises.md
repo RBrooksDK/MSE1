@@ -4,13 +4,12 @@
 
 Find all the divisors of the following numbers:
 
-<div style="display: flex; justify-content: space-between;">
-
-<div style="flex: 1; padding-right: 10px;">
+<table>
+<tr>
+<td style="vertical-align: top; padding-right: 20px;">
 
 a. $10$  
 <details>  
-<br>  
 <summary> </summary>  
 $1,2,5,10$  
 </details>  
@@ -18,7 +17,6 @@ $1,2,5,10$
 
 b. $11$  
 <details>  
-<br>  
 <summary> </summary>  
 $1,11$  
 </details>  
@@ -26,18 +24,17 @@ $1,11$
 
 c. $12$  
 <details>  
-<br>  
 <summary> </summary>  
 $1,2,3,4,6,12$  
 </details>  
 <br>
-</div>
 
-<div style="flex: 1; padding-left: 10px;">
+</td>
+
+<td style="vertical-align: top; padding-left: 200px;">
 
 d. $99$  
 <details>  
-<br>  
 <summary> </summary>  
 $1,3,9,11,33,99$  
 </details>  
@@ -45,14 +42,15 @@ $1,3,9,11,33,99$
 
 e. $100$  
 <details>  
-<br>  
 <summary> </summary>  
 $1,2,4,5,10,20,25,50,100$  
 </details>  
 <br>
-</div>
 
-</div>
+</td>
+</tr>
+</table>
+
 
 
 ### Exercise 2: Prime Numbers
