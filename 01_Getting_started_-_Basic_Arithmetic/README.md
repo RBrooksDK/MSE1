@@ -8,7 +8,7 @@ We will not be going through the arithmetic part, but we will be doing examples 
 
 **Session Material:**
 
-[Session notes]()
+[Session notes](https://drive.google.com/file/d/1IXTVyUP_TeX4co_uwSSlf6AHYYrln1fL/view?usp=drive_link)
 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtdW6vDKB6FHsPZdtO6XUhMB5n3uwC00IoyfXj5g1O6JlA?e=vAY78F)
 
