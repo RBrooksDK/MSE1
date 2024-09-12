@@ -371,7 +371,7 @@ a. 80 hours after it reads 11:00 AM?
 <details> <br>
   <summary> </summary>
 
-$7 PM$
+7 PM
 
 </details>
 
@@ -382,7 +382,7 @@ b. 40 hours after it reads 12:00 PM?
 <details> <br>
   <summary> </summary>
 
-$4:00 AM$
+4:00 AM
 
 </details>
 
@@ -393,7 +393,7 @@ c. 100 hours after it reads 6:00 AM?
 <details> <br>
   <summary> </summary>
 
-$10:00 AM$
+10:00 AM
 
 </details>
 
