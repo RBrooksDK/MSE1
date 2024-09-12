@@ -34,4 +34,4 @@ The focus will be on understanding and applying the power rules, radicals, expon
 
 [Exercises for recitation](https://github.com/RBrooksDK/MSE1/blob/main/01_Getting_started_-_Basic_Arithmetic/01_Exercises.md)
 
-[Notes from recitation](https://drive.google.com/file/d/1TuoR-r_5MOwMaTuILtashDqZtp2ZeKk1/view?usp=sharing)
+[Notes from recitation](https://drive.google.com/file/d/1wDoPLD34pPfCy0JqtNpFQ9sGq8FMTWM2/view?usp=sharing)
