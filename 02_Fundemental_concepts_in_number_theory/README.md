@@ -27,4 +27,6 @@ Next, we will cover the process of prime factorisation and its significance, alo
 
 --------------------------
 
+[Notes from recitation](https://drive.google.com/file/d/1KlkWpS85xng2tzWh82pv8H42aFKg_eLv/view?usp=sharing)
+
 [Exercises for recitation](/02_Fundemental_concepts_in_number_theory/02_Exercises.md)
