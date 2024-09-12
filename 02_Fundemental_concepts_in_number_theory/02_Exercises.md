@@ -364,36 +364,36 @@ $8$
 <br>
 
 ### Exercise 7: Modulo Arithmetic
-What time does a 24-hour clock read 
+What time does a 12-hour clock read 
 
-a. 80 hours after it reads 11:00?
+a. 80 hours after it reads 11:00 AM?
 
 <details> <br>
   <summary> </summary>
 
-$19:00$
+$7 PM$
 
 </details>
 
 <br>
 
-b. 40 hours after it reads 12:00?
+b. 40 hours after it reads 12:00 PM?
 
 <details> <br>
   <summary> </summary>
 
-$16:00$
+$4:00 AM$
 
 </details>
 
 <br>
 
-c. 100 hours after it reads 6:00?
+c. 100 hours after it reads 6:00 AM?
 
 <details> <br>
   <summary> </summary>
 
-$10:00$
+$10:00 AM$
 
 </details>
 
