@@ -364,7 +364,7 @@ $8$
 <br>
 
 ### Exercise 7: Modulo Arithmetic
-What time does a 12-hour clock read 
+What time does a 24-hour clock read 
 
 a. 80 hours after it reads 11:00?
 
