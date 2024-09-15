@@ -39,4 +39,4 @@ These numeral systems are used to simplify data representation, processing, and 
 
 --------------------------
 
-[Exercises for recitation]()
+[Exercises for recitation](03_Exercises.md)
