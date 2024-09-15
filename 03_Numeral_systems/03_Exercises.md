@@ -199,11 +199,12 @@ Solve the “crossbins” below. The clues are in hexadecimal, and the answers s
 <details> <br>
   <summary> </summary>
 
-<br>
-
 <img src="crossbin2sol-1.jpg" alt="Crossbin 2" width="350"/>
 
+</details> 
+
 <br>
+
 
 ### Exercise 6: Hex and Binary
 
@@ -211,4 +212,22 @@ Let $S$ be the set of all binary numbers with 7 characters, and let $f$ be a fun
 
 a. Determine $f(111010)$.
 
-b. The order of a set is number of elements in a set. For instance the order of ${1, 5, 7, 19, 27, 39} is 6. Determine the order of the set $S$
+<details> <br>
+  <summary> </summary>
+
+58
+
+</details> 
+
+<br>
+
+b. The order of a set is number of elements in a set. For instance the order of ${1, 5, 7, 19, 27, 39} is 6. Determine the order of the set $S$.
+
+<details> <br>
+  <summary> </summary>
+
+128
+
+</details> 
+
+<br>
