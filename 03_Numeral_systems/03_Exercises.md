@@ -183,9 +183,10 @@ $425$
 Solve the “crossbins” below. The clues are in hexadecimal, and the answers should be in binary.  
 **Note**: If your number is too short, add zeros in front!
 
-![Crossbin 1](crossbin1.png)
+<img src="crossbin1.png" alt="Crossbin 1" width="400"/>
 
-![Crossbin 2](crossbin2.png)
+<img src="crossbin2.png" alt="Crossbin 2" width="350"/>
+
 
 
 Find the least common multiple.
