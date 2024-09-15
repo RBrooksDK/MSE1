@@ -185,145 +185,30 @@ Solve the “crossbins” below. The clues are in hexadecimal, and the answers s
 
 <img src="crossbin1.png" alt="Crossbin 1" width="400"/>
 
+<details> <br>
+  <summary> </summary>
+
+<img src="crossbin1sol-1.jpg" alt="Crossbin 1" width="400"/>
+
+</details>
+
+<br>
+
 <img src="crossbin2.png" alt="Crossbin 2" width="350"/>
 
-
-
-Find the least common multiple.
-
-a. $\text{lcm}(6,9)$
-
 <details> <br>
   <summary> </summary>
-
-$18$
-
-</details>
 
 <br>
 
-b. $\text{lcm}(20,50)$
-
-<details> <br>
-  <summary> </summary>
-
-$100$
-
-</details>
+<img src="crossbin2sol-1.jpg" alt="Crossbin 2" width="350"/>
 
 <br>
 
-c. $\text{lcm}(120,375)$
+### Exercise 6: Hex and Binary
 
-<details> <br>
-  <summary> </summary>
+Let $S$ be the set of all binary numbers with 7 characters, and let $f$ be a function from $S$ to $\mathbb{Z}$ given by $f(x) = x_{10}$.
 
-$3000$
+a. Determine $f(111010)$.
 
-</details>
-
-<br>
-
-d. Calculate the product $120 \cdot 375$. 
-
-<details> <br>
-  <summary> </summary>
-
-$45000$
-
-</details>
-
-### Exercise 6: Modulo Arithmetic
-
-Find the remainder after division.
-
-a. $10 \mod 4$
-
-<details> <br>
-  <summary> </summary>
-
-$2$
-
-</details>
-
-<br>
-
-b. $10 \mod 5$
-
-<details> <br>
-  <summary> </summary>
-
-$0$
-
-</details>
-
-<br>
-
-c. $53 \mod 4$
-
-<details> <br>
-  <summary> </summary>
-
-$1$
-
-</details>
-
-<br>
-
-d. $55 \mod 4$
-
-<details> <br>
-  <summary> </summary>
-
-$3$
-
-</details>
-
-<br>
-
-e. $332 \mod 12$
-
-<details> <br>
-  <summary> </summary>
-
-$8$
-
-</details>
-
-<br>
-
-### Exercise 7: Modulo Arithmetic
-What time does a 12-hour clock read 
-
-a. 80 hours after it reads 11:00 AM?
-
-<details> <br>
-  <summary> </summary>
-
-7 PM
-
-</details>
-
-<br>
-
-b. 40 hours after it reads 12:00 PM?
-
-<details> <br>
-  <summary> </summary>
-
-4:00 AM
-
-</details>
-
-<br>
-
-c. 100 hours after it reads 6:00 AM?
-
-<details> <br>
-  <summary> </summary>
-
-10:00 AM
-
-</details>
-
-<br>
+b. The order of a set is number of elements in a set. For instance the order of ${1, 5, 7, 19, 27, 39} is 6. Determine the order of the set $S$
