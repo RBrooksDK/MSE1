@@ -14,7 +14,7 @@ $2$
 
 <br>
 
-Two numbers, $a$ and $b$, are called *relatively* prime if $\operatorname{gcd}(a, b)=1$. Based on this concept, answer b-c.
+Two numbers, $a$ and $b$, are called *relatively* prime if gcd$(a, b)=1$. Based on this concept, answer b-c.
 
 b. Is 2 relatively prime to 5?
 <details>
