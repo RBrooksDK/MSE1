@@ -122,7 +122,7 @@ $4982_{10}$
 ### Exercise 3: Decimal to Binary
 State the binary expansion of the following values and then state the number in binary. 
 
-a. $49$
+a. $49_{10}$
 
 <details> <br>
   <summary> </summary>
@@ -135,7 +135,7 @@ $110001$
 
 <br>
 
-b. $212$
+b. $212_{10}$
 
 <details> <br>
   <summary> </summary>
@@ -208,7 +208,7 @@ Solve the “crossbins” below. The clues are in hexadecimal, and the answers s
 
 ### Exercise 6: Hex and Binary
 
-Let $S$ be the set of all binary numbers with 7 characters, and let $f$ be a function from $S$ to $\mathbb{Z}$ given by $f(x) = x_{10}$.
+Let $S$ be the set of all binary numbers with 7 characters, and let $f$ be a function from $S$ to $\mathbb{Z}$ given by $f(x_2) = x_{10}$.
 
 a. Determine $f(111010)$.
 
