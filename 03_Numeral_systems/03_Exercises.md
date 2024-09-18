@@ -60,7 +60,7 @@ e. What is $\varphi(14)$?
 <br>
 <summary> </summary>
 
-7
+6
 
 </details>
 
