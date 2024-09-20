@@ -39,18 +39,19 @@ Before session 06, make sure you install a working version of Jupyter Notebook a
 
 All hand-ins will be made during the recitations and must be handed in at the end of recitation.
 
-| Hand-in | Solution | Manual Solution |
-|---------|----------|-----------------|
-| 1       | [Hand_in_1](/Hand_ins/Hand_in_01/MSE_Hand_in_1.pdf) | [Hand_in_1_Manual](/Hand_ins/Hand_in_01/MSE_Hand_in_1-%20solution.pdf) |
-| 2       | [Hand_in_2](Hand_ins/Hand_in_02/MSE_Hand_in_2.pdf) | [Hand_in_2_Manual]() |
-| 3       | [Hand_in_3]() | [Hand_in_3_Manual]() |
-| 4       | [Hand_in_4]() | [Hand_in_4_Manual]() |
-| 5       | [Hand_in_5]() | [Hand_in_5_Manual]() |
-| 6       | [Hand_in_6]() | [Hand_in_6_Manual]() |
-| 7       | [Hand_in_7]() | [Hand_in_7_Manual]() |
-| 8       | [Hand_in_8]() | [Hand_in_8_Manual]() |
-| 9       | [Hand_in_9]() | [Hand_in_9_Manual]() |
-| 10      | [Hand_in_10]() | [Hand_in_10_Manual]() |
+| Hand-in          | Solution        | Manual Solution         |
+|------------------|-----------------|-------------------------|
+| [Hand_in_1](/Hand_ins/Hand_in_01/MSE_Hand_in_1.pdf)    | [Solution 1](/Hand_ins/Hand_in_01/MSE_Hand_in_1-%20solution.pdf)  | [Solution 1 - Manual](/Hand_ins/Hand_in_01/Løsning_Aflevering1.pdf) |
+| [Hand_in_2](/Hand_ins/Hand_in_02/MSE_Hand_in_2.pdf)    | [Solution 2]()  | [Solution 2 - Manual]() |
+| [Hand_in_3]()    | [Solution 3]()  | [Solution 3 - Manual]() |
+| [Hand_in_4]()    | [Solution 4]()  | [Solution 4 - Manual]() |
+| [Hand_in_5]()    | [Solution 5]()  | [Solution 5 - Manual]() |
+| [Hand_in_6]()    | [Solution 6]()  | [Solution 6 - Manual]() |
+| [Hand_in_7]()    | [Solution 7]()  | [Solution 7 - Manual]() |
+| [Hand_in_8]()    | [Solution 8]()  | [Solution 8 - Manual]() |
+| [Hand_in_9]()    | [Solution 9]()  | [Solution 9 - Manual]() |
+| [Hand_in_10]()   | [Solution 10]() | [Solution 10 - Manual]() |
+
 
 
 
