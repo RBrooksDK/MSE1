@@ -40,8 +40,18 @@ Before session 06, make sure you install a working version of Jupyter Notebook a
 All hand-ins will be made during the recitations and must be handed in at the end of recitation.
 
 | Hand-in | Solution | Manual Solution |
-|---------|------|-------|
-| 1      | [Hand_in_1]()   | [Hand_in_2]() |
+|---------|----------|-----------------|
+| 1       | [Hand_in_1]() | [Hand_in_1_Manual]() |
+| 2       | [Hand_in_2]() | [Hand_in_2_Manual]() |
+| 3       | [Hand_in_3]() | [Hand_in_3_Manual]() |
+| 4       | [Hand_in_4]() | [Hand_in_4_Manual]() |
+| 5       | [Hand_in_5]() | [Hand_in_5_Manual]() |
+| 6       | [Hand_in_6]() | [Hand_in_6_Manual]() |
+| 7       | [Hand_in_7]() | [Hand_in_7_Manual]() |
+| 8       | [Hand_in_8]() | [Hand_in_8_Manual]() |
+| 9       | [Hand_in_9]() | [Hand_in_9_Manual]() |
+| 10      | [Hand_in_10]() | [Hand_in_10_Manual]() |
+
 
 
 
