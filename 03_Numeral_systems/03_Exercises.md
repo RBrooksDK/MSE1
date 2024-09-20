@@ -199,7 +199,7 @@ Solve the “crossbins” below. The clues are in hexadecimal, and the answers s
 <details> <br>
   <summary> </summary>
 
-<img src="crossbin2sol-1.jpg" alt="Crossbin 2" width="350"/>
+<img src="crossbinsol-1 1.jpg" alt="Crossbin 2" width="350"/>
 
 </details> 
 
