@@ -41,8 +41,8 @@ All hand-ins will be made during the recitations and must be handed in at the en
 
 | Hand-in | Solution | Manual Solution |
 |---------|----------|-----------------|
-| 1       | [Hand_in_1]() | [Hand_in_1_Manual]() |
-| 2       | [Hand_in_2]() | [Hand_in_2_Manual]() |
+| 1       | [Hand_in_1](/Hand_ins/Hand_in_01/MSE_Hand_in_1.pdf) | [Hand_in_1_Manual](/Hand_ins/Hand_in_01/MSE_Hand_in_1-%20solution.pdf) |
+| 2       | [Hand_in_2](Hand_ins/Hand_in_02/MSE_Hand_in_2.pdf) | [Hand_in_2_Manual]() |
 | 3       | [Hand_in_3]() | [Hand_in_3_Manual]() |
 | 4       | [Hand_in_4]() | [Hand_in_4_Manual]() |
 | 5       | [Hand_in_5]() | [Hand_in_5_Manual]() |
