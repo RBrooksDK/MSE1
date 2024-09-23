@@ -275,6 +275,6 @@ c. $x y z+\overline{x y z}$
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit7.png" width = "300">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit7.png" width = "400">
 </details>
 <br>
