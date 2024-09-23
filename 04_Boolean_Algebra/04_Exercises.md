@@ -241,7 +241,7 @@ b. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit4.png">
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(7).svg">
+$\overline{\bar{x} \cdot y z} \cdot(\bar{x}+y+\bar{z})$
 </details>
 <br>
 
