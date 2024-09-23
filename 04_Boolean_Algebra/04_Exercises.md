@@ -195,7 +195,9 @@ g. $(x \cdot \overline{y}) + (\overline{x} \cdot y)$
 <details>
 <br>
 <summary> </summary>
+
 $(x \cdot \overline{y}) + (\overline{x} \cdot y)$
+
 </details>
 <br>
 
@@ -233,7 +235,9 @@ a. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit3.png">
 <details>
 <br>
 <summary> </summary>
+
 $\overline{x \cdot y}+(\overline{z}+x)$
+
 </details>
 <br>
 
@@ -241,7 +245,9 @@ b. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit4.png">
 <details>
 <br>
 <summary> </summary>
+
 $\overline{\bar{x} \cdot y z} \cdot(\bar{x}+y+\bar{z})$
+
 </details>
 <br>
 
