@@ -178,7 +178,16 @@ b. $\overline{xy}$ $+(\overline{x} \cdot \overline{y})$
 <br>
 <summary> </summary>
 
-$\overline{xy}$
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mover>
+    <mrow>
+      <mi>x</mi>
+      <mi>y</mi>
+    </mrow>
+    <mo>‾</mo>
+  </mover>
+</math>
+
 
 </details>
 <br>
