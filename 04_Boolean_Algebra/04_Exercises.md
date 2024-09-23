@@ -152,7 +152,7 @@ $y$
 </details>
 <br>
 
-b. $\overline{xy}+(\overline{x} \cdot \overline{y})$
+b. $(\overline{xy})+(\overline{x} \cdot \overline{y})$
 
 <details>
 <br>
