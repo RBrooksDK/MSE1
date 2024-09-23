@@ -160,7 +160,7 @@ b. $\overline{xy}$ $+(\overline{x} \cdot \overline{y})$
 <br>
 <summary> </summary>
 
-$$ \overline{xy} $$
+\\[ \overline{xy} \\]
 
 
 </details>
