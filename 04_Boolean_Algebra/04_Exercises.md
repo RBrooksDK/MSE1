@@ -233,7 +233,7 @@ a. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit3.png">
 <details>
 <br>
 <summary> </summary>
-$\overline{xy}+(\overline{z}+x)$
+$\overline{x \cdot y}+(\overline{z}+x)$
 </details>
 <br>
 
