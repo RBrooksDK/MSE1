@@ -1,8 +1,9 @@
 
 ## Exercises: Boolean Algebra
 
-$\overline{xy}$ $+(\overline{x} \cdot \overline{y})$
-
+```math
+\overline{xy}$ $+(\overline{x} \cdot \overline{y})
+```
 
 ### Exercise 1: Numeral Systems Recap
 
