@@ -148,17 +148,20 @@ a. $(x + \overline{x}) \cdot y$
 <details>
 <br>
 <summary> </summary>
+
 $y$
+
 </details>
 <br>
 
-b. $(\overline{xy})+(\overline{x} \cdot \overline{y})$
+b. $(\overline{\text{xy}})+(\overline{x} \cdot \overline{y})$
 
 <details>
 <br>
 <summary> </summary>
 
-$\overline{xy}$
+<span style="text-decoration: overline;">xy</span>
+
 
 </details>
 <br>
