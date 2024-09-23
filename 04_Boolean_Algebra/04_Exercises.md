@@ -218,7 +218,7 @@ Let $B$ be 1 if the police sees you, 0 if not.
 
 Let $C$ be 1 if your car is faster than the police car, 0 if not.
 
-a. Create a function $F$ that returns 1 if you get a speeding ticket, 0 if you do not.
+Create a function $F$ that returns 1 if you get a speeding ticket, 0 if you do not.
 <details>
 <br>
 <summary> </summary>
