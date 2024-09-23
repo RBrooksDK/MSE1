@@ -24,4 +24,4 @@ In this session, we introduce the foundational concepts of Boolean algebra, whic
 
 --------------------------
 
-[Exercises for recitation]()
+[Exercises for recitation](04_Exercises.md)
