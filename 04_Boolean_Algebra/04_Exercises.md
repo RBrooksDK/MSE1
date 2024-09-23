@@ -2,7 +2,7 @@
 ## Exercises: Boolean Algebra
 
 ```math
-\overline{xy}$ $+(\overline{x} \cdot \overline{y})
+\overline{xy}+(\overline{x} \cdot \overline{y})
 ```
 
 ### Exercise 1: Numeral Systems Recap
