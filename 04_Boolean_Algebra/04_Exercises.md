@@ -154,13 +154,13 @@ $y$
 </details>
 <br>
 
-b. $\overline{x} \overline{y}$ $+(\overline{x} \cdot \overline{y})$
+b. $\overline{xy}$ $+(\overline{x} \cdot \overline{y})$
 
 <details>
 <br>
 <summary> </summary>
 
-<span style="text-decoration: overline;">xy</span>
+\[ \bar{abc} \overline{abc} \]
 
 
 </details>
