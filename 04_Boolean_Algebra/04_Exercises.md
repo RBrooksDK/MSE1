@@ -179,29 +179,33 @@ b. $\overline{xy}$ $+(\overline{x} \cdot \overline{y})$
 <summary> </summary>
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mover>
+  <mover accent="true" accentunder="false">
     <mrow>
       <mi>x</mi>
       <mi>y</mi>
     </mrow>
-    <mo accent="true">¯</mo>
+    <mo accent="false">¯</mo>
   </mover>
   <mo>+</mo>
-  <mo stretchy="true">(</mo>
+  <mo stretchy="false">(</mo>
   <mrow>
-    <mover>
-      <mi>x</mi>
-      <mo stretchy="true">¯</mo>
+    <mover accent="true" accentunder="false">
+      <mrow>
+        <mi>x</mi>
+      </mrow>
+      <mo stretchy="false">¯</mo>
     </mover>
   </mrow>
   <mo>⋅</mo>
   <mrow>
-    <mover>
-      <mi>y</mi>
-      <mo stretchy="true">¯</mo>
+    <mover accent="true" accentunder="false">
+      <mrow>
+        <mi>y</mi>
+      </mrow>
+      <mo stretchy="false">¯</mo>
     </mover>
   </mrow>
-  <mo stretchy="true">)</mo>
+  <mo stretchy="false">)</mo>
 </math>
 
 </details>
