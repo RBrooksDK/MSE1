@@ -152,7 +152,7 @@ $y$
 </details>
 <br>
 
-b. \(\overline{x \cdot y}+(\bar{x} \cdot \bar{y})\)
+b. $$\overline{x \cdot y}+(\bar{x} \cdot \bar{y})$$
 <details>
 <br>
 <summary> </summary>
