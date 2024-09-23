@@ -267,7 +267,7 @@ b. $xy + \overline{x}y$
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit6.png" width = "500">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit6.png" width = "400">
 </details>
 <br>
 
@@ -275,6 +275,6 @@ c. $x y z+\overline{x y z}$
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit7.png">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit7.png" width = "300">
 </details>
 <br>
