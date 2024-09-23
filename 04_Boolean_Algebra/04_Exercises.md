@@ -157,7 +157,9 @@ b. $(\overline{xy})+(\overline{x} \cdot \overline{y})$
 <details>
 <br>
 <summary> </summary>
+
 $\overline{xy}$
+
 </details>
 <br>
 
