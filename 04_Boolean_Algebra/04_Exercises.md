@@ -9,7 +9,9 @@ a. What is the maximum decimal value for any of the RGB channels?
 <details>
 <br>
 <summary> </summary>
+
 $255$
+
 </details>
 <br>
 
@@ -17,7 +19,9 @@ b. What is the cardinality (or the order) of the set of all possible RGB colors?
 <details>
 <br>
 <summary> </summary>
+
 $16^{6} = 16 777 216$
+
 </details>
 <br>
 
@@ -25,7 +29,9 @@ c. What is the cardinality (or the order) of the set of all possible RGBA colors
 <details>
 <br>
 <summary> </summary>
+
 $16^{6} \cdot (16^2-1) + 1 = 16 777 216 \cdot 255 + 1 = 4 278 190 081$
+
 </details>
 <br>
 
@@ -33,7 +39,9 @@ d. Express an opacity level of $0.8$ in binary.
 <details>
 <br>
 <summary> </summary>
+
 $255 \cdot 0.8 = 204_{10} = 11001100_2$
+
 </details>
 <br>
 
@@ -41,7 +49,9 @@ e. What is the hexadecimal value for an opacity of $0.5$?
 <details>
 <br>
 <summary> </summary>
+
 $\approx 79$ or $80$
+
 </details>
 <br>
 
@@ -53,7 +63,9 @@ a. $1 \cdot \overline{1}$
 <details>
 <br>
 <summary> </summary>
+
 $0$
+
 </details>
 <br>
 
@@ -61,7 +73,9 @@ b. $\overline{1} + \overline{0}$
 <details>
 <br>
 <summary> </summary>
+
 $1$
+
 </details>
 <br>
 
@@ -69,7 +83,9 @@ c. $=\overline{0 \cdot(1+0)}$
 <details>
 <br>
 <summary> </summary>
+
 $1$
+
 </details>
 <br>
 
@@ -77,7 +93,9 @@ d. $\overline{1} + (0 \cdot 1)$
 <details>
 <br>
 <summary> </summary>
+
 $0$
+
 </details>
 <br>
 
@@ -170,7 +188,9 @@ c. $x \cdot (y + \overline{x})$
 <details>
 <br>
 <summary> </summary>
+
 $x \cdot y$
+
 </details>
 <br>
 
@@ -178,7 +198,9 @@ d. $\overline{(x+y) \cdot \overline{(x+z)}}$
 <details>
 <br>
 <summary> </summary>
+
 $x + \overline{y} + z$
+
 </details>
 <br>
 
@@ -186,7 +208,9 @@ e. $x \cdot y + \overline{x} \cdot y$
 <details>
 <br>
 <summary> </summary>
+
 $y$
+
 </details>
 <br>
 
@@ -194,7 +218,9 @@ f. $x + y \cdot (\overline{x} + \overline{y})$
 <details>
 <br>
 <summary> </summary>
+
 $x + y$
+
 </details>
 <br>
 
@@ -212,7 +238,9 @@ h. $x \cdot y \cdot z+\overline{x \cdot y \cdot z}$
 <details>
 <br>
 <summary> </summary>
+
 $1$
+
 </details>
 <br>
 
@@ -228,9 +256,11 @@ Create a function $F$ that returns 1 if you get a speeding ticket, 0 if you do n
 <details>
 <br>
 <summary> </summary>
+
 $F(A,B,C) = A \cdot B \cdot \overline{C}$
 
 $F(A,B,C) = A \cdot B \cdot 1$ if you are not into car chases.
+
 </details>
 <br>
 
