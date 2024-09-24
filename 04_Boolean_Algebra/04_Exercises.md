@@ -9,9 +9,7 @@ a. What is the maximum decimal value for any of the RGB channels?
 <details>
 <br>
 <summary> </summary>
-
 $255$
-
 </details>
 <br>
 
@@ -19,9 +17,7 @@ b. What is the cardinality (or the order) of the set of all possible RGB colors?
 <details>
 <br>
 <summary> </summary>
-
 $16^{6} = 16 777 216$
-
 </details>
 <br>
 
@@ -29,9 +25,7 @@ c. What is the cardinality (or the order) of the set of all possible RGBA colors
 <details>
 <br>
 <summary> </summary>
-
 $16^{6} \cdot (16^2-1) + 1 = 16 777 216 \cdot 255 + 1 = 4 278 190 081$
-
 </details>
 <br>
 
@@ -39,9 +33,7 @@ d. Express an opacity level of $0.8$ in binary.
 <details>
 <br>
 <summary> </summary>
-
 $255 \cdot 0.8 = 204_{10} = 11001100_2$
-
 </details>
 <br>
 
@@ -49,9 +41,7 @@ e. What is the hexadecimal value for an opacity of $0.5$?
 <details>
 <br>
 <summary> </summary>
-
-$\approx 79$ or $80$
-
+$\approx 7F$ or $80$
 </details>
 <br>
 
@@ -63,9 +53,7 @@ a. $1 \cdot \overline{1}$
 <details>
 <br>
 <summary> </summary>
-
 $0$
-
 </details>
 <br>
 
@@ -73,19 +61,15 @@ b. $\overline{1} + \overline{0}$
 <details>
 <br>
 <summary> </summary>
-
 $1$
-
 </details>
 <br>
 
-c. $=\overline{0 \cdot(1+0)}$
+c. ![$\overline{0 \cdot (1 + 0)}$](https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(5).svg)
 <details>
 <br>
 <summary> </summary>
-
 $1$
-
 </details>
 <br>
 
@@ -93,9 +77,7 @@ d. $\overline{1} + (0 \cdot 1)$
 <details>
 <br>
 <summary> </summary>
-
 $0$
-
 </details>
 <br>
 
@@ -106,9 +88,8 @@ a. $F(x) = x + (x \cdot \overline{x})$
 
 | $x$ | $\overline{x}$ | $(x \cdot \overline{x})$ | $F(x) = x + (x \cdot \overline{x})$ |
 |:-:|:------------------:|:--------------------------:|:---------------------------------------:|
-|   |         &nbsp;          |                          |                                     |
-|   |         &nbsp;          |                          |                                     |
-
+|  |         &nbsp;          |                         |                                     |
+|  |         &nbsp;          |                          |                                     |
 
 <details>
 <br>
@@ -166,48 +147,15 @@ a. $(x + \overline{x}) \cdot y$
 <details>
 <br>
 <summary> </summary>
-
 $y$
-
 </details>
 <br>
 
-b. $\overline{xy}$ $+(\overline{x} \cdot \overline{y})$
-
+b. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(10).svg">
 <details>
 <br>
 <summary> </summary>
-
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mover accent="true" accentunder="false">
-    <mrow>
-      <mi>x</mi>
-      <mi>y</mi>
-    </mrow>
-    <mo accent="false">¯</mo>
-  </mover>
-  <mo>+</mo>
-  <mo stretchy="false">(</mo>
-  <mrow>
-    <mover accent="true" accentunder="false">
-      <mrow>
-        <mi>x</mi>
-      </mrow>
-      <mo stretchy="false">¯</mo>
-    </mover>
-  </mrow>
-  <mo>⋅</mo>
-  <mrow>
-    <mover accent="true" accentunder="false">
-      <mrow>
-        <mi>y</mi>
-      </mrow>
-      <mo stretchy="false">¯</mo>
-    </mover>
-  </mrow>
-  <mo stretchy="false">)</mo>
-</math>
-
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/equation_0.svg">
 </details>
 <br>
 
@@ -215,19 +163,15 @@ c. $x \cdot (y + \overline{x})$
 <details>
 <br>
 <summary> </summary>
-
 $x \cdot y$
-
 </details>
 <br>
 
-d. $\overline{(x+y) \cdot \overline{(x+z)}}$
+d. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(9).svg">
 <details>
 <br>
 <summary> </summary>
-
 $x + \overline{y} + z$
-
 </details>
 <br>
 
@@ -235,9 +179,7 @@ e. $x \cdot y + \overline{x} \cdot y$
 <details>
 <br>
 <summary> </summary>
-
 $y$
-
 </details>
 <br>
 
@@ -245,9 +187,7 @@ f. $x + y \cdot (\overline{x} + \overline{y})$
 <details>
 <br>
 <summary> </summary>
-
 $x + y$
-
 </details>
 <br>
 
@@ -255,21 +195,19 @@ g. $(x \cdot \overline{y}) + (\overline{x} \cdot y)$
 <details>
 <br>
 <summary> </summary>
-
 $(x \cdot \overline{y}) + (\overline{x} \cdot y)$
-
 </details>
 <br>
 
-h. $x \cdot y \cdot z+\overline{x \cdot y \cdot z}$
+h. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(8).svg">
 <details>
 <br>
 <summary> </summary>
-
 $1$
-
 </details>
 <br>
+
+More simplification: https://www.boolean-algebra.com/quiz/
 
 ### Exercise 5: Problem
 
@@ -279,15 +217,13 @@ Let $B$ be 1 if the police sees you, 0 if not.
 
 Let $C$ be 1 if your car is faster than the police car, 0 if not.
 
-Create a function $F$ that returns 1 if you get a speeding ticket, 0 if you do not.
+a. Create a function $F$ that returns 1 if you get a speeding ticket, 0 if you do not.
 <details>
 <br>
 <summary> </summary>
-
 $F(A,B,C) = A \cdot B \cdot \overline{C}$
 
 $F(A,B,C) = A \cdot B \cdot 1$ if you are not into car chases.
-
 </details>
 <br>
 
@@ -299,9 +235,7 @@ a. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit3.png">
 <details>
 <br>
 <summary> </summary>
-
-$\overline{x \cdot y}+(\overline{z}+x)$
-
+$\overline{xy}+(\overline{z}+x)$
 </details>
 <br>
 
@@ -309,9 +243,7 @@ b. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit4.png">
 <details>
 <br>
 <summary> </summary>
-
-$\overline{\bar{x} \cdot y z} \cdot(\bar{x}+y+\bar{z})$
-
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(7).svg">
 </details>
 <br>
 
@@ -320,25 +252,25 @@ $\overline{\bar{x} \cdot y z} \cdot(\bar{x}+y+\bar{z})$
 Draw the circuits for
 
 a. $x + y \cdot (\overline{x} + \overline{y})$
-
 <details>
+<br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit5.png" width="500">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit5.png">
 </details>
-
+<br>
 
 b. $xy + \overline{x}y$
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit6.png" width = "400">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit6.png">
 </details>
 <br>
 
-c. $x y z+\overline{x y z}$
+c. ![$xyz + \overline{xyz}$](https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(6).svg)
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit7.png" width = "400">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit7.png">
 </details>
 <br>
