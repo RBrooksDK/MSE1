@@ -255,7 +255,7 @@ a. $x + y \cdot (\overline{x} + \overline{y})$
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit5.png" width = "400">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit5.png" width = "500">
 </details>
 <br>
 
