@@ -207,8 +207,6 @@ $1$
 </details>
 <br>
 
-More simplification: https://www.boolean-algebra.com/quiz/
-
 ### Exercise 5: Problem
 
 Let $A$ be 1 if you exceed the speed limit, 0 if not.
