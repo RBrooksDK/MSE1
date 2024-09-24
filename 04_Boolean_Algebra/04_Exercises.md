@@ -255,7 +255,7 @@ a. $x + y \cdot (\overline{x} + \overline{y})$
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit5.png">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit5.png" width = "400">
 </details>
 <br>
 
@@ -263,7 +263,7 @@ b. $xy + \overline{x}y$
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit6.png">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit6.png" width = "400">
 </details>
 <br>
 
@@ -271,6 +271,6 @@ c. ![$xyz + \overline{xyz}$](https://github.com/jakobmwang/MSE1/blob/main/src/eq
 <details>
 <br>
 <summary> </summary>
-<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit7.png">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit7.png" width = "400">
 </details>
 <br>
