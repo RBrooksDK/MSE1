@@ -42,7 +42,7 @@ All hand-ins will be made during the recitations and must be handed in at the en
 | Hand-in          | Solution        | Manual Solution         |
 |------------------|-----------------|-------------------------|
 | [Hand_in_1](/Hand_ins/Hand_in_01/MSE_Hand_in_1.pdf)    | [Solution 1](/Hand_ins/Hand_in_01/MSE_Hand_in_1-%20solution.pdf)  | [Solution 1 - Manual](/Hand_ins/Hand_in_01/Løsning_Aflevering1.pdf) |
-| [Hand_in_2](/Hand_ins/Hand_in_02/MSE_Hand_in_2.pdf)    | [Solution 2]()  | [Solution 2 - Manual]() |
+| [Hand_in_2](/Hand_ins/Hand_in_02/MSE_Hand_in_2.pdf)    | [Solution 2](/Hand_ins/Hand_in_02/MSE_Hand_in_2_solutions.pdf)  | [Solution 2 - Manual]() |
 | [Hand_in_3]()    | [Solution 3]()  | [Solution 3 - Manual]() |
 | [Hand_in_4]()    | [Solution 4]()  | [Solution 4 - Manual]() |
 | [Hand_in_5]()    | [Solution 5]()  | [Solution 5 - Manual]() |
