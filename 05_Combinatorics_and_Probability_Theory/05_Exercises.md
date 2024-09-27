@@ -189,12 +189,9 @@ a. Draw a Venn diagram showing the sample space and each of the events A and B.
 <details>
 <br>
 <summary> </summary>
-<img src="/05_Combinatorics_and_Probability_Theory/venn1.png" width = "200">
+<img src="/05_Combinatorics_and_Probability_Theory/venn1.png" width = "300">
 </details>
 <br>
-
-
-
 
 b. Determine each of the following probabilities:
 
@@ -203,6 +200,17 @@ $P(B)$
 $P(\overline{A})$  
 $P(A \cup B)$  
 $P(A \cap B)$
+
+<details>
+<br>
+<summary> </summary>
+$P(A) = \frac{2}{5}$  
+$P(B) = \frac{3}{5}$  
+$P(\overline{A}) = \frac{3}{5}$  
+$P(A \cup B) = 1$  
+$P(A \cap B) = 0$
+</details>
+<br>
 
 ### Exercise 8: Challenge Exercise
 8)	A computer password consists of 4 characters, each one of 26 lowercase letters or 26 uppercase letters or an integer between 0 and 9. If the password must contain at least one letter and at least one integer, how many different passwords are possible?
