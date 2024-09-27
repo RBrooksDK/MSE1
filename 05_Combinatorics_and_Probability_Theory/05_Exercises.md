@@ -214,8 +214,18 @@ $P(\overline{A}) = \frac{3}{5}$
 $P(A \cup B) = 1$  
 
 $P(A \cap B) = 0$
+
 </details>
 <br>
 
 ### Exercise 8: Challenge Exercise
-8)	A computer password consists of 4 characters, each one of 26 lowercase letters or 26 uppercase letters or an integer between 0 and 9. If the password must contain at least one letter and at least one integer, how many different passwords are possible?
+A computer password consists of 4 characters, each one of 26 lowercase letters or 26 uppercase letters or an integer between 0 and 9. If the password must contain at least one letter and at least one integer, how many different passwords are possible?
+
+<details>
+<br>
+<summary> </summary>
+
+Answer: The easiest way to calculate this, is to first calculate the number of 4-character passwords, and then subtract those that do not fulfill the rule, i.e. the passwords that do either only contain letters or only numbers: $62^4-52^4-10^4=7,454,720$
+
+</details>
+<br>
