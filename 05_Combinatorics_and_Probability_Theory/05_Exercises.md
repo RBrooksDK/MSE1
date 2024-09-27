@@ -16,6 +16,6 @@ b. Reduce the expression as much as possible and create the corresponding logic 
 <details>
 <br>
 <summary> </summary>
-<img src="/05_Combinatorics_and_Probability_Theory/logic1.png" width = "500">
+<img src="/05_Combinatorics_and_Probability_Theory/logic1.png" width = "200">
 </details>
 <br>
