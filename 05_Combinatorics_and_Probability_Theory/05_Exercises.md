@@ -19,3 +19,16 @@ b. Reduce the expression as much as possible and create the corresponding logic 
 <img src="/05_Combinatorics_and_Probability_Theory/logic1.png" width = "200">
 </details>
 <br>
+
+c. Use Boolean algebra to simplify the following logic gate circuit and state the result as a boolean algebra expression.
+
+<img src="/05_Combinatorics_and_Probability_Theory/logic2.png" width = "200">
+
+<details>
+<br>
+<summary> </summary>
+
+
+
+</details>
+<br>
