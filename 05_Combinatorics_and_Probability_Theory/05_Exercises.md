@@ -4,7 +4,7 @@
 
 Consider the Boolean function $F(x, y, z)=x y+y(z+x)$. 
 
-a. State the truth table for this function. If the table is constructed correctly, the last column will contain $F$ and will have 8 rows. Reading the rows from the botton up will give you a binary value. Convert this value to decimal and state this as your result.
+a. State the truth table for this function. If the table is constructed correctly, the last column will contain $F$ and will have 8 rows. Reading the rows from the bottom up will give you a binary value. Convert this value to decimal and state this as your result.
 <details>
 <br>
 <summary> </summary>
@@ -123,7 +123,7 @@ $\frac{52!}{(52-5)!\cdot 5!}=2,598,960$
 
 ### Exercise 5: Garage Doors and Burglars Revisited
 
-Recall the garage doors from Exercise 2. What is the probability that a burglar guesses the right code in 3 tries?
+Recall the garage doors from Exercise 2b. What is the probability that a burglar guesses the right code in 3 tries?
 
 <details>
 <br>
@@ -225,7 +225,7 @@ A computer password consists of 4 characters, each one of 26 lowercase letters o
 <br>
 <summary> </summary>
 
-Answer: The easiest way to calculate this, is to first calculate the number of 4-character passwords, and then subtract those that do not fulfill the rule, i.e. the passwords that do either only contain letters or only numbers: $62^4-52^4-10^4=7,454,720$
+The easiest way to calculate this, is to first calculate the number of 4-character passwords, and then subtract those that do not fulfill the rule, i.e. the passwords that do either only contain letters or only numbers: $62^4-52^4-10^4=7,454,720$
 
 </details>
 <br>
