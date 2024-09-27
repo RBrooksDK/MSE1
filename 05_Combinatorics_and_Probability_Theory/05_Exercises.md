@@ -204,10 +204,14 @@ $P(A \cap B)$
 <details>
 <br>
 <summary> </summary>
-$P(A) = \frac{2}{5}$  
+$P(A) = \frac{2}{5}$
+
 $P(B) = \frac{3}{5}$  
+
 $P(\overline{A}) = \frac{3}{5}$  
+
 $P(A \cup B) = 1$  
+
 $P(A \cap B) = 0$
 </details>
 <br>
