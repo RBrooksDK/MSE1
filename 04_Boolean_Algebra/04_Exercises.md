@@ -272,3 +272,51 @@ c. ![$xyz + \overline{xyz}$](https://github.com/jakobmwang/MSE1/blob/main/src/eq
 <img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit7.png" width = "400">
 </details>
 <br>
+
+### Exercise 8: Challenge
+
+The VIA building has implemented a new area access system:
+
+Everyone can access the lobby. <br>
+To access the cafeteria, it has to be before 14:00. <br>
+To access the classrooms, you have to be a student or a teacher. <br>
+Everyone can access the elevators. <br>
+To access the study rooms, you have to be a student. <br>
+To access the offices, it has to be before 14:00, and you have to be a teacher. <br>
+To access the luxurious lounge, it has to be after 14:00, and you have to be a teacher. <br>
+To access the secret room, it has to be after 14:00, and you have to be both a student and a teacher. <br>
+
+a. Define the boolean variables necessary to represent all of the above criteria for access.
+<details>
+<br>
+<summary> </summary>
+$A$: lobby <br>
+$B$: cafeteria <br>
+$C$: classrooms <br>
+$D$: elevators <br>
+$E$: study rooms <br>
+$F$: offices <br>
+$G$: luxurious lounge <br>
+$H$: secret room <br>
+$I$: student <br>
+$J$: teacher <br>
+$K$: before 14:00,
+$\overline{K}$: after 14:00 <br>
+</details>
+<br>
+b. Create a single boolean function that accepts the above variables to precisely evaluate whether access is granted or not, covering all cases.
+<details>
+<br>
+<summary> </summary>
+$f(A,B,C,D,E,F,G,H,I,J,K)=A+BK+C(I+J)+D+EI+FJK+GJ\overline{K}+HIJ\overline{K}$
+</details>
+<br>
+c. Reduce the footprint of the access system by simplifying into a minimum of variables and terms.
+<details>
+<br>
+<summary> </summary>
+$f(A,B,C,D,E,F)=ABD+\overline{A}\overline{B}+C\overline{A}\overline{F}+AEF\overline{C}+DEF\overline{B}+BE\overline{C}\overline{F}$
+
+(Note: This function is equivalent to the function in (b) but the variables do not correspond to the variables in (a).)
+</details>
+<br>
