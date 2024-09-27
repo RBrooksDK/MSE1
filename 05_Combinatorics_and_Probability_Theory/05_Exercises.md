@@ -28,7 +28,7 @@ c. Use Boolean algebra to simplify the following logic gate circuit and state th
 <br>
 <summary> </summary>
 
-
+$AB+AC$
 
 </details>
 <br>
