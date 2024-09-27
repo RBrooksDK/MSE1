@@ -204,6 +204,7 @@ $P(A \cap B)$
 <details>
 <br>
 <summary> </summary>
+
 $P(A) = \frac{2}{5}$
 
 $P(B) = \frac{3}{5}$  
