@@ -7,7 +7,7 @@ Brooks: [Chapter 5](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FF
 
 **Session Material:**
 
-[Session notes]()
+[Session notes](https://drive.google.com/file/d/1JEGYxtYoyv02IglZAgLSkDse-5DkRTLy/view?usp=sharing)
 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EsJDXlP48H5Nnak20uj9FMYBWN_47BOjpk_K1Lso5NxBoA?e=0mp31Z)
 
