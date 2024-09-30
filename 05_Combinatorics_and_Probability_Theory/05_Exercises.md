@@ -55,7 +55,7 @@ i. How many possible codes are there?
 <br>
 <summary> </summary>
 
-$2^12 = 4096$ 
+$2^{12} = 4096$ 
 
 </details>
 <br>
