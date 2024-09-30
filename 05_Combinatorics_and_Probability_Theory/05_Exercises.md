@@ -123,7 +123,7 @@ $\frac{52!}{(52-5)!\cdot 5!}=2,598,960$
 
 ### Exercise 5: Garage Doors and Burglars Revisited
 
-Recall the garage doors from Exercise 2b. What is the probability that a burglar guesses the right code in 3 tries?
+Recall the garage doors from Exercise 2b. What is the probability that a burglar guesses the right code in 3 tries, assuming that the guesses happen with replacement, i.e. that the probability for each try is the same?
 
 <details>
 <br>
@@ -154,12 +154,12 @@ b.	 The webpage only allows passwords from set $B$.
 <br>
 <summary> </summary>
 
-$\frac{1}{10,000}=$
+$\frac{1}{10,000}$
 
 </details>
 <br>
 
-c. The webpage only allows passwords from set $A \cup B$.
+c.  The webpage allows all passwords from set $C$
 
 <details>
 <br>
@@ -170,7 +170,7 @@ $\frac{1}{7,321,616}$
 </details>
 <br>
 
-d. The webpage allows all passwords from set $C$
+d. The webpage only allows passwords from set $A \cup B$.
 
 <details>
 <br>
