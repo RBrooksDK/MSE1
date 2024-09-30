@@ -182,7 +182,7 @@ $\frac{1}{14,776,336}$
 <br>
 
 ### Exercise 7: Probability
-The possible five outcomes of a random experiment are equally likely. The sample space is ${a,b,c,d,e}$. Let \(A\) denote the event ${a,b}$, and $B$ denote the event ${c,d,e}$.
+The possible five outcomes of a random experiment are equally likely. The sample space is ${a,b,c,d,e}$. Let $A$ denote the event ${a,b}$, and $B$ denote the event ${c,d,e}$.
 
 a. Draw a Venn diagram showing the sample space and each of the events A and B.
 
