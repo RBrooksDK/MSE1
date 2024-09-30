@@ -27,4 +27,4 @@ In this session, we delve into the basics of combinatorics and probability theor
 
 --------------------------
 
-[Exercises for recitation]()
+[Exercises for recitation](/05_Combinatorics_and_Probability_Theory/05_Exercises.md)
