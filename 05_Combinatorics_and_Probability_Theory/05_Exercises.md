@@ -159,7 +159,7 @@ $\frac{1}{10,000}$
 </details>
 <br>
 
-c.  The webpage allows all passwords from set $C$
+c. The webpage only allows passwords from set $A \cup B$.
 
 <details>
 <br>
@@ -170,7 +170,7 @@ $\frac{1}{7,321,616}$
 </details>
 <br>
 
-d. The webpage only allows passwords from set $A \cup B$.
+d. The webpage allows all passwords from set $C$
 
 <details>
 <br>
