@@ -67,7 +67,7 @@ ii. What is the probability that a burglar guesses the right code in the first t
 <br>
 <summary> </summary>
 
-$\frac{1}{4096} = 0.000244 = 0.0244%$
+$\frac{1}{4096} = 0.000244 = 0.0244\\%$
 
 </details>
 <br>
