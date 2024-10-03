@@ -104,7 +104,7 @@ c.	What is the probability that the group will consist of the three kids Xavier,
 <br>
 <summary> </summary>
 
-$\frac{1}{455}=\frac{6}{2730}=0.00220 = 0.220 \%$
+$\frac{1}{455}=\frac{6}{2730}=0.00220 = 0.220\\%$
 
 </details>
 <br>
