@@ -170,7 +170,7 @@ $\frac{1}{7,321,616}$
 </details>
 <br>
 
-d. 
+d. What is the probability that the hacker guesses the correct password in the first attempt if the webpage allows passwords from set $C$?
 
 <details>
 <br>
