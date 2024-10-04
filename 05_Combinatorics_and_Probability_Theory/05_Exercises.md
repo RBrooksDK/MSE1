@@ -8,7 +8,7 @@ a. State the truth table for this function. If the table is constructed correctl
 <details>
 <br>
 <summary> </summary>
-19
+200
 </details>
 <br>
 
