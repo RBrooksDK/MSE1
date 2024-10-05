@@ -23,4 +23,4 @@ Building on our introduction to probability, this session delves deeper into the
 
 --------------------------
 
-[Exercises for recitation]()
+[Exercises for recitation](06_Exercises.md)
