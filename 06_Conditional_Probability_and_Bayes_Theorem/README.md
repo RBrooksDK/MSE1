@@ -6,7 +6,7 @@ Brooks: Chapter 5-6.
 
 **Session Material:**
 
-[Session notes]()
+[Session notes](https://drive.google.com/file/d/1wAMVD7qDRDlnW3YCHzxZjgo79k14Z6uz/view?usp=sharing)
 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/El6TyZ3UNqZDmv4WaAnaxdQBqhXftjEPeBzsfKRGOU6lDg?e=8E2jvl)
 
