@@ -7,57 +7,68 @@ Try to do the exercises without using ChatGPT. If you get stuck, you can use Cha
 Let $A$ and $B$ be two events such that:
 
 $$
-P(A)=0.4, \quad P(B)=0.7, \quad P(A \cup B)=0.9
+P(A)=0.3, \quad P(B)=0.2, \quad P(A \cap B)=0.1
 $$
 
 Find the probabilities below. State your answers as correct to one decimal place.
 
 
-a. Find $P(A \cap B)$.
+a. Find $P(A^c)$.
 
 <details>
 <br>
 <summary> </summary>
 
-$P(A \cap B)=\underline{\underline{0.2}}$.
+$P(A^c)=\underline{\underline{0.7}}$.
 
 </details>
 <br>
 
-b. Find $P\left(A^c \cap B\right)$.
+b. Find $P\left(A \cup B\right)$.
 
 <details>
 <br>
 <summary> </summary>
 
-$P\left(A^c \cap B\right)=\underline{\underline{0.5}}$.
+$P\left(A \cup B\right)=\underline{\underline{0.4}}$.
 
 </details>
 <br>
 
-c. Find $P(A-B)$.
+c. Find $P\left(A^c \cap B\right)$.
 
 <details>
 <br>
 <summary> </summary>
 
-$P(A-B)=\underline{\underline{0.2}}$
+$P\left(A^c \cap B\right)=\underline{\underline{0.1}}$
 
 </details>
 <br>
 
-d. Find $P\left(A^c-B\right)$.
+d. Find $P\left(A \cap B^c\right)$.
 
 <details>
 <br>
 <summary> </summary>
 
-$P\left(A^c-B\right)=\underline{\underline{0.1}}$.
+$P\left(A \cap B^c\right)=\underline{\underline{0.2}}$.
 
 </details>
 <br>
 
-e. Find $P\left(A^c \cup B\right)$.
+e. Find $P\left((A \cup B)^c\right)$.
+
+<details>
+<br>
+<summary> </summary>
+
+$P\left((A \cup B)^c\right)=\underline{\underline{0.6}}$.
+
+</details>
+<br>
+
+f. Find $P\left(A^c \cup B\right)$.
 
 <details>
 <br>
@@ -68,39 +79,39 @@ $P\left(A^c \cup B\right)=\underline{\underline{0.8}}$.
 </details>
 <br>
 
-f. Find $P\left(A \cap\left(B \cup A^c\right)\right)$.
+### Exercise 2: Rolling Fair Die
+
+I roll a fair die twice and obtain two numbers: $X_1=$ result of the first roll, $X_2=$ result of the second roll.
+
+a. Find the probability that $X_2=4$.
 
 <details>
 <br>
 <summary> </summary>
 
-$P\left(A \cap\left(B \cup A^c\right)\right)=\underline{\underline{0.2}}$.
+$\underline{\underline{\dfrac{1}{6}}}$
 
 </details>
 <br>
 
-### Exercise 2: Heart Failure
-
-Heart failures are due to either natural occurrences $(87 \%)$ or outside factors $(13 \%)$. Outside factors are related to induced substances ( $73 \%$ ) or foreign objects ( $27 \%$ ). Natural occurrences are caused by arterial blockage ( $56 \%$ ), disease ( $27 \%$ ), and infection (e.g., staph infection) ( $17 \%$ ). State your answers as correct to four decimal places.
-
-a. Determine the probability that a failure is due to an induced substance.
+b. Find the probability that $X_1+X_2=7$.
 
 <details>
 <br>
 <summary> </summary>
 
-$0.13 \times 0.73=\underline{\underline{0.0949}}$
+$\underline{\underline{\dfrac{1}{6}}}$
 
 </details>
 <br>
 
-b. Determine the probability that a failure is due to disease or infection.
+c. Find the probability that $X_1 \neq 2$ and $X_2 \geq 4$.
 
 <details>
 <br>
 <summary> </summary>
 
- $0.87 \times(0.27+0.17)=\underline{\underline{0.3828}}$
+$\underline{\underline{\dfrac{5}{12}}}$
 
 </details>
 <br>
