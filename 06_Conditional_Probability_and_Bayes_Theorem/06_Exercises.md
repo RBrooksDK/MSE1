@@ -12,14 +12,13 @@ $$
 
 Find the probabilities below. State your answers as correct to one decimal place.
 
-
 a. Find $P(A^c)$.
 
 <details>
 <br>
 <summary> </summary>
 
-$P(A^c)=\underline{\underline{0.7}}$.
+$P(A^c)=0.7$.
 
 </details>
 <br>
@@ -30,7 +29,7 @@ b. Find $P\left(A \cup B\right)$.
 <br>
 <summary> </summary>
 
-$P\left(A \cup B\right)=\underline{\underline{0.4}}$.
+$P\left(A \cup B\right)=0.4$.
 
 </details>
 <br>
@@ -41,7 +40,7 @@ c. Find $P\left(A^c \cap B\right)$.
 <br>
 <summary> </summary>
 
-$P\left(A^c \cap B\right)=\underline{\underline{0.1}}$
+$P\left(A^c \cap B\right)=0.1$
 
 </details>
 <br>
@@ -52,7 +51,7 @@ d. Find $P\left(A \cap B^c\right)$.
 <br>
 <summary> </summary>
 
-$P\left(A \cap B^c\right)=\underline{\underline{0.2}}$.
+$P\left(A \cap B^c\right)=0.2$.
 
 </details>
 <br>
@@ -63,7 +62,7 @@ e. Find $P\left((A \cup B)^c\right)$.
 <br>
 <summary> </summary>
 
-$P\left((A \cup B)^c\right)=\underline{\underline{0.6}}$.
+$P\left((A \cup B)^c\right)=0.6$.
 
 </details>
 <br>
@@ -74,7 +73,7 @@ f. Find $P\left(A^c \cup B\right)$.
 <br>
 <summary> </summary>
 
-$P\left(A^c \cup B\right)=\underline{\underline{0.8}}$.
+$P\left(A^c \cup B\right)=0.8$.
 
 </details>
 <br>
@@ -89,7 +88,7 @@ a. Find the probability that $X_2=4$.
 <br>
 <summary> </summary>
 
-$\underline{\underline{\dfrac{1}{6}}}$
+$\dfrac{1}{6}$
 
 </details>
 <br>
@@ -100,7 +99,7 @@ b. Find the probability that $X_1+X_2=7$.
 <br>
 <summary> </summary>
 
-$\underline{\underline{\dfrac{1}{6}}}$
+$\dfrac{1}{6}$
 
 </details>
 <br>
@@ -111,7 +110,7 @@ c. Find the probability that $X_1 \neq 2$ and $X_2 \geq 4$.
 <br>
 <summary> </summary>
 
-$\underline{\underline{\dfrac{5}{12}}}$
+$\dfrac{5}{12}$
 
 </details>
 <br>
