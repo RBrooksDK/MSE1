@@ -301,3 +301,5 @@ has real solutions?
 [solution](Solution7.pdf)
 
 [Some Python Solutions](some_solutions.ipynb)
+
+[Solutions made in class](https://drive.google.com/open?id=1lCgiFIzOLAuDSEQjUyeZiyWsWt63Ex8d&usp=drive_fs)
