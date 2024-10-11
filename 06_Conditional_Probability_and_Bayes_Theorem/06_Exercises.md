@@ -299,3 +299,5 @@ $$
 has real solutions?
 
 [solution](Solution7.pdf)
+
+[Some Python Solutions](some_solutions.ipynb)
