@@ -298,4 +298,4 @@ $$
 
 has real solutions?
 
-[solution](https://www.uio.no/studier/emner/matnat/math/STK1100/h20/eksamen/losningsforslag/eksamen-2020-12-15.pdf)
+[solution](Solution7.pdf)
