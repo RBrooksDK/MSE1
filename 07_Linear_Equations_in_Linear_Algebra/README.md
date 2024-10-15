@@ -7,8 +7,11 @@ Brooks: Chapter 7.
 Note: Please make sure you have a working version of Python 3.7 (or higher) and Jupyter Notebook installed **before** this session. I recommend using VS code with the Jupyter Notebook plugin.
 
 [”Visual Studio Code” (Frontpage)](https://code.visualstudio.com/)
+
 [”Visual Studio Code” (YouTube)](https://www.youtube.com/@code)
+
 [“Learn Visual Studio Code in 7min (Official Beginner Tutorial)”](https://www.youtube.com/watch?v=B-s71n0dHUk)
+
 [”Get started with Jupyter Notebooks in less than 4 minutes”](https://www.youtube.com/watch?v=h1sAzPojKMg)
 
 **Session Material:**
