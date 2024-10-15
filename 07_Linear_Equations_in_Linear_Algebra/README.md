@@ -22,9 +22,6 @@ This session introduces the fundamental concepts of linear algebra, focusing on 
 - Echelon Form and Reduced Echelon Form
 - Pivot Positions and Pivot Columns
 - Basic Variables and Free Variables
-- Vectors and Matrices
-- Solution Set of a Linear System
-- Linear Independence and Dependence
 - Introduction to Python for Linear Algebra
 - Working with Matrices in Python using NumPy
 - Symbolic Computation with SymPy

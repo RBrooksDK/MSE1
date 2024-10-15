@@ -1,4 +1,4 @@
-# 9. Eigenvalues, Eigenvectors, and Diagonalization
+# 9. Matrix Algebra, Determinants, and Eigenvalues
 
 **Session Preparation:**
 
@@ -12,15 +12,19 @@ Brooks: Chapter 9.
 
 --------------------------
 
-In this session, we will explore some of the most fundamental concepts in linear algebra, particularly focusing on eigenvalues, eigenvectors, and the process of diagonalization. These concepts are essential for understanding the behavior of linear transformations and play a crucial role in various applications, from solving systems of differential equations to analyzing stability in dynamic systems. We will begin by defining eigenvalues and eigenvectors, and then move on to discuss the eigenspace associated with an eigenvalue. The session will also cover the characteristic equation, a key tool for finding eigenvalues. Finally, we will examine triangular matrices and the process of diagonalization, which simplifies many problems in linear algebra.
+In this session, we will delve into the foundational aspects of matrix algebra. We begin with the definitions and properties of various types of matrices, including diagonal, zero, and identity matrices. We will learn how to perform basic matrix operations such as scalar multiplication and matrix addition, and how to compute matrix multiplication using both the definition and the row-column rule. The session will also cover the concepts of powers and the transpose of a matrix. We will explore several important theorems that describe the properties of matrix operations, including the definition and properties of invertible matrices. We will learn how to compute the inverse of a matrix and understand the significance of The Invertible Matrix Theorem. Finally, we will introduce determinants for 2 x 2 matrices and provide a brief overview of eigenvalues and eigenvectors.
 
 #### Key Concepts:
-- Eigenvalues
-- Eigenvectors
-- Eigenspace
-- The Characteristic Equation
-- Triangular Matrices
-- Diagonalization
+- Definitions of Diagonal Matrices, Zero Matrices, and Identity Matrices
+- Scalar Multiplication and Matrix Addition
+- Computing Matrix Multiplication (by Definition and Row-Column Rule)
+- Definitions of Powers and Transpose of a Matrix
+- Theorems on the Properties of Matrix Operations
+- Definition of Invertible Matrix
+- Additional Theorems on Invertibility 
+- Computing the Inverse of a Matrix
+- Determinants
+- Short introduction to Eigenvalues and Eigenvectors
 --------------------------
 
 [Exercises for recitation]()
