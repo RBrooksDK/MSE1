@@ -33,7 +33,7 @@ All literature will be made available to the student.
 
 ## Software
 
-Before session 06, make sure you install a working version of Jupyter Notebook and Python version 3.7 or higher. The easiest way to install Python and Jupyter is using [Anaconda Distribution](https://www.anaconda.com/products/distribution). You can choose whichever framework you want to work in as long as it can handle Jupyter Notebooks. Installing VS Code with a Jupyter Notebook extension seems to be a popular choice..
+Before session 07, make sure you install a working version of Jupyter Notebook and Python version 3.7 or higher. The easiest way to install Python and Jupyter is using [Anaconda Distribution](https://www.anaconda.com/products/distribution). You can choose whichever framework you want to work in as long as it can handle Jupyter Notebooks. Installing VS Code with a Jupyter Notebook extension seems to be a popular choice..
 
 ## Hand-ins
 
