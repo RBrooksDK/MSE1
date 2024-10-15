@@ -22,7 +22,7 @@ Note: Please make sure you have a working version of Python 3.7 (or higher) and 
 
 --------------------------
 
-This session introduces the fundamental concepts of linear algebra, focusing on systems of linear equations and their solutions. We will learn how to represent these systems using coefficient matrices and augmented matrices, and how to manipulate them using elementary row operations. We will explore the concepts of echelon forms, pivot positions, and the row reduction algorithm, which are essential for solving linear systems. By the end of this session, students should be able to solve linear systems using row reduction and understand the geometric interpretation of span in \( \mathbb{R}^2 \) and \( \mathbb{R}^3 \).
+This session introduces the fundamental concepts of linear algebra, focusing on systems of linear equations and their solutions. We will learn how to represent these systems using coefficient matrices and augmented matrices, and how to manipulate them using elementary row operations. We will explore the concepts of echelon forms, pivot positions, and the row reduction algorithm, which are essential for solving linear systems. By the end of this session, students should be able to solve linear systems using row reduction and understand the geometric interpretation of span in $\mathbb{R}^2$ and $\mathbb{R}^3$.
 
 #### Key Concepts:
 - Coefficient Matrix and Augmented Matrix
