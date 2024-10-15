@@ -2,7 +2,7 @@
 
 **Session Preparation:**
 
-Brooks: Chapter 7.
+Brooks: [Chapter 7](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing). You should begin reading before class as it will aid your understanding as the topics get more complex.
 
 Note: Please make sure you have a working version of Python 3.7 (or higher) and Jupyter Notebook installed **before** this session. I recommend using VS code with the Jupyter Notebook plugin.
 

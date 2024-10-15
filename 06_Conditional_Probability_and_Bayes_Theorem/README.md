@@ -2,7 +2,7 @@
 
 **Session Preparation:**
 
-Brooks: Chapter 5-6.
+Brooks: [Chapter 6](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing). You should begin reading before class as it will aid your understanding as the topics get more complex.
 
 **Session Material:**
 
