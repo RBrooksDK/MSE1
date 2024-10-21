@@ -18,7 +18,7 @@ Note: Please make sure you have a working version of Python 3.7 (or higher) and 
 
 [Session notes](https://drive.google.com/file/d/1sCxNPidcijgYbLLYf5Y51u1fOjVbV59Y/view?usp=sharing)
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eg__7CNZHU5GnvVSwtsKTGQBykXb7nnGszwkBzJSdf6-WA?e=LwyzQm)
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EkjUOJhNa7lFscFUs9rWtwsB_2p-THcKaRcRj3M3LYR99g?e=EEL3eg)
 
 --------------------------
 
