@@ -53,23 +53,28 @@ Determine whether the following matrices are in reduced echelon form, echelon fo
 ```math
 a. \begin{bmatrix}1&0&2&1\\0&1&-3&0\end{bmatrix}
 
+
 b. \begin{bmatrix} 1 & 2 & -2 & 5\\
                     0 & 1 &  0 & -1\\
                     0 & 0 &  1 & 3 \\
                     0 & 0 &  0 & 1\end{bmatrix}
 
+
 c. \begin{bmatrix} -1 & 0\\
                     0 & 4\\
                     0 & 0 \end{bmatrix}
+
 
 d. \begin{bmatrix} 1 & 0 & 1 & 0 & -1\\
                     0 & 1 & 1 & 0 & 0\\
                     0 & 0 & 0 & 0 & 0\\
                     0 & 0 & 0 & 1 & -1\end{bmatrix}
 
+
 e. \begin{bmatrix} 0 & 3 & 0 & 4\\
                     0 & 0 & -2 & -2\\
                     0 & 0 & 0 & 7\end{bmatrix}
+                    
 
 f. \begin{bmatrix} 1 & 0 & 0 & 1\\
                     0 & 0 & 1 & -2\\
