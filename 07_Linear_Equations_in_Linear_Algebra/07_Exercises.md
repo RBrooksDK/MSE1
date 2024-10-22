@@ -48,30 +48,17 @@ $0.333 = 33.3 \%$
 
 
 ### Exercise 2: Echelon and Reduced Echelon Form
-Determine whether the following matrices are in reduced echelon form, echelon form, or neither.
-```math
-a. \begin{bmatrix} 1 & 0 & 2 & 1 \\ 0 & 1 & -3 & 0 \end{bmatrix}
-```
+a. $\left[\begin{array}{cccc} 1 & 0 & 2 & 1 \\ 0 & 1 & -3 & 0 \end{array}\right]$
 
-```math
-b. \begin{bmatrix} 1 & 2 & -2 & 5 \\ 0 & 1 & 0 & -1 \\ 0 & 0 & 1 & 3 \\ 0 & 0 & 0 & 1 \end{bmatrix}
-```
+b. $\left[\begin{array}{cccc} 1 & 2 & -2 & 5 \\ 0 & 1 & 0 & -1 \\ 0 & 0 & 1 & 3 \\ 0 & 0 & 0 & 1 \end{array}\right]$
 
-```math
-c. \begin{bmatrix} -1 & 0 \\ 0 & 4 \\ 0 & 0 \end{bmatrix}
-```
+c. $\left[\begin{array}{cc} -1 & 0 \\ 0 & 4 \\ 0 & 0 \end{array}\right]$
 
-```math
-d. \begin{bmatrix} 1 & 0 & 1 & 0 & -1 \\ 0 & 1 & 1 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 1 & -1 \end{bmatrix}
-```
+d. $\left[\begin{array}{ccccc} 1 & 0 & 1 & 0 & -1 \\ 0 & 1 & 1 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 1 & -1 \end{array}\right]$
 
-```math
-e. \begin{bmatrix} 0 & 3 & 0 & 4 \\ 0 & 0 & -2 & -2 \\ 0 & 0 & 0 & 7 \end{bmatrix}
-```
+e. $\left[\begin{array}{cccc} 0 & 3 & 0 & 4 \\ 0 & 0 & -2 & -2 \\ 0 & 0 & 0 & 7 \end{array}\right]$
 
-```math
-f. \begin{bmatrix} 1 & 0 & 0 & 1 \\ 0 & 0 & 1 & -2 \\ 0 & 0 & 0 & 1 \end{bmatrix}
-```
+f. $\left[\begin{array}{cccc} 1 & 0 & 0 & 1 \\ 0 & 0 & 1 & -2 \\ 0 & 0 & 0 & 1 \end{array}\right]$
 
 <details>
 
