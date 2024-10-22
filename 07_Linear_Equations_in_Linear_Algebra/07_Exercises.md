@@ -50,6 +50,7 @@ $0.333 = 33.3 \%$
 ### Exercise 2: Echelon and Reduced Echelon Form
 Determine whether the following matrices are in reduced echelon form, echelon form, or neither.
 
+```math
 a.$\begin{bmatrix}1&0&2&1\\0&1&-3&0\end{bmatrix}$
 
 b. $\begin{bmatrix} 1 & 2 & -2 & 5\\
@@ -73,7 +74,7 @@ e. $\begin{bmatrix} 0 & 3 & 0 & 4\\
 f. $\begin{bmatrix} 1 & 0 & 0 & 1\\
                     0 & 0 & 1 & -2\\
                     0 & 0 & 0 & 1\end{bmatrix}$
-
+```
 
 <details>
 
