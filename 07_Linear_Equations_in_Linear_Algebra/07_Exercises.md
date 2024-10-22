@@ -1,6 +1,7 @@
 ## Exercises: Linear Equations in Linear Algebra
 
 
+
 ### Exercise 1: Recap Conditional Probability
 In a town of 20,000 people, a crime was committed. Evidence suggests that the perpetrator must be someone from the town. The police have found blood at the crime scene, and they are sure that this blood belongs to the perpetrator. The probability that a random innocent person matches the blood type of the evidence is 0.01. 
 
@@ -49,7 +50,7 @@ $0.333 = 33.3 \%$
 ### Exercise 2: Echelon and Reduced Echelon Form
 Determine whether the following matrices are in reduced echelon form, echelon form, or neither.
 
-a. $\begin{bmatrix} 1 & 0 & 2 & 1\\ 
+a. $\begin{bmatrix} 1 & 0 & 2 & 1\\\ 
                     0 & 1 & -3 & 0\end{bmatrix}$
 
 b. $\begin{bmatrix} 1 & 2 & -2 & 5\\
