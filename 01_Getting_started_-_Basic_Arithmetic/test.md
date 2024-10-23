@@ -48,7 +48,7 @@ $0.333 = 33.3 \%$
 
 
 ### Exercise 2: Echelon and Reduced Echelon Form
-<img src="src/7.1.png" alt="Description of the image" width="500"/>
+<img src="src/7.1.png" alt="Description of the image" width="300"/>
 
 
 <details>
