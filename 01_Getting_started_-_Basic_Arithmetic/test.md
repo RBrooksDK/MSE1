@@ -77,6 +77,7 @@ f. echelon form
 Explain which row operations are used in the calculations below.
 
 <img src="src/7.3a.png" alt="Description of the image" width="350"/>
+
 <details>
 <br>
 <summary></summary>
@@ -86,17 +87,8 @@ Swap: $r_1 \leftrightarrow r_3$
 </details>
 <br>
 
-b. $\begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    3 & 1 & -5 & 6 \\
-    4 & -3 & 1 & 2 \\
-    \end{bmatrix}
-    \sim
-    \begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    0 & -2 & -11 & -6 \\
-    4 & -3 & 1 & 2 \\
-    \end{bmatrix}$
+<img src="src/7.3b.png" alt="Description of the image" width="350"/>
+
 
 <details>
 <br>
@@ -107,17 +99,7 @@ Replacement: $r_2 \rightarrow r_2 - 3r_1$
 </details>
 <br>
 
-c. $\begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    0 & -2 & -11 & -6 \\
-    4 & -3 & 1 & 2 \\
-    \end{bmatrix}
-    \sim
-    \begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    0 & -2 & -11 & -6 \\
-    0 & -7 & -7 & -14 \\
-    \end{bmatrix}$
+<img src="src/7.3c.png" alt="Description of the image" width="350"/>
 
 <details>
 <br>
@@ -128,17 +110,7 @@ Replacement: $r_3 \rightarrow r_3 - 4r_1$
 </details>
 <br>
 
-d. $\begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    0 & -2 & -11 & -6 \\
-    0 & -7 & -7 & -14 \\
-    \end{bmatrix}
-    \sim
-    \begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    0 & -2 & -11 & -6 \\
-    0 & 1 & 1 & 2 \\
-    \end{bmatrix}$
+<img src="src/7.3d.png" alt="Description of the image" width="350"/>
 
 <details>
 <br>
@@ -149,17 +121,7 @@ Scaling: $r_3 \rightarrow -\frac{1}{7}r_3$
 </details>
 <br>
 
-e. $\begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    0 & -2 & -11 & -6 \\
-    0 & 1 & 1 & 2 \\
-    \end{bmatrix}
-    \sim
-    \begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    0 & 1 & 1 & 2 \\
-    0 & -2 & -11 & -6 \\
-    \end{bmatrix}$
+<img src="src/7.3d.png" alt="Description of the image" width="350"/>
 
 <details>
 <br>
