@@ -166,11 +166,7 @@ a. Write down the augmented matrix for the system.
 <br>
 <summary> </summary>
 
-$\begin{bmatrix}
-    2 & -4 & 6 & 2\\
-    1 & 0  & 1 & 3\\
-    -4& 2  & 0 & 2
-\end{bmatrix}$
+<img src="src/7.4a.png" alt="Description of the image" width="350"/>
 
 </details>
 <br>
