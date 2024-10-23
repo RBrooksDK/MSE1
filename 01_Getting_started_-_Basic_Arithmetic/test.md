@@ -162,6 +162,7 @@ x_1+x_3 = 3 \\
 -4x_1 + 2x_2 = 2$
 
 a. Write down the augmented matrix for the system.
+
 <details>
 <br>
 <summary> </summary>
