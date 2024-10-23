@@ -121,7 +121,7 @@ Scaling: $r_3 \rightarrow -\frac{1}{7}r_3$
 </details>
 <br>
 
-<img src="src/7.3d.png" alt="Description of the image" width="350"/>
+<img src="src/7.3e.png" alt="Description of the image" width="350"/>
 
 <details>
 <br>
