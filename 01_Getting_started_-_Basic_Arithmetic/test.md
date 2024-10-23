@@ -78,7 +78,7 @@ x_1 + x_3 &= 3 \\
 \end{align*}
 $$
 
-$
+$$
 \left[
 \begin{array}{cccc}
         0 & 3 & -2 & 1\\
@@ -86,6 +86,16 @@ $
         0 & 0  & 0 & 0
 \end{array}
 \right]
+$$
+
+$
+\begin{aligned}
+\begin{bmatrix}
+    0 & 3 & -2 & 1\\
+    0 & 0  & -1 & 4\\
+    0 & 0  & 0 & 0
+\end{bmatrix}
+\end{aligned}
 $
 
 <details>
