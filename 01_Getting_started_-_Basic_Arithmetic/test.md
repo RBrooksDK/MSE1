@@ -48,8 +48,8 @@ $0.333 = 33.3 \%$
 
 
 ### Exercise 2: Echelon and Reduced Echelon Form
-a. $$ \begin{bmatrix} 1 & 0 & 2 & 1\\ 
-                    0 & 1 & -3 & 0\end{bmatrix} $$
+a. $\begin{bmatrix} 1 & 0 & 2 & 1\\ 
+                    0 & 1 & -3 & 0\end{bmatrix}$
 
 b. $\left[\begin{array}{cccc} 1 & 2 & -2 & 5 \\ 0 & 1 & 0 & -1 \\ 0 & 0 & 1 & 3 \\ 0 & 0 & 0 & 1 \end{array}\right]$
 
