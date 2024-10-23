@@ -273,11 +273,14 @@ d. $\begin{bmatrix}
     0 & 1 
 \end{bmatrix}$
 
-e. $\begin{bmatrix}
+e. 
+```math
+\begin{bmatrix}
     -3 & 0 & 0 & 9\\
     0 & 1  & 0 & 0\\
     0 & 0  & 4 & 0
-\end{bmatrix}$
+\end{bmatrix}
+```
 
 f. $\begin{bmatrix}
     0 & 0 & 6 & 3
