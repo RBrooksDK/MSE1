@@ -78,6 +78,14 @@ x_1 + x_3 &= 3 \\
 \end{align*}
 $$
 
+$$
+\begin{align*}
+2x_1 - 4x_2 + 6x_3 &= 2 \\
+x_1 + x_3 &= 3 \\
+-4x_1 + 2x_2 &= 2
+\end{align*}
+$$
+
 <details>
 
 <br>
