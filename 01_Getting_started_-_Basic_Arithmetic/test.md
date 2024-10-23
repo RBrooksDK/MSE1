@@ -249,31 +249,42 @@ x_3 \text{ free}
 Which of the augmented matrices below represent an inconsistens system of equations?
 
 a. 
-$\begin{bmatrix}
+```math
+\begin{bmatrix}
     0 & 3 & -2 & 1\\
     0 & 0  & -1 & 4\\
     0 & 0  & 0 & 0
-\end{bmatrix}$
+\end{bmatrix}
+```
 
-b. $\begin{bmatrix}
+b.
+```math
+\begin{bmatrix}
     -1 & 3 & 1 \\
     0 & 5  & 3 \\
     0 & 0  & 6 
-\end{bmatrix}$
+\end{bmatrix}
+```
 
-c. $\begin{bmatrix}
+c.
+```math
+\begin{bmatrix}
     7 & 1 & 1 \\
     0 & 2  & 2 \\
     0 & 0  & 3 \\
     0 & 0  & 0
-\end{bmatrix}$
+\end{bmatrix}
+```
 
-d. $\begin{bmatrix}
+d. 
+```math
+\begin{bmatrix}
     1 & 0 \\
     0 & 1 
-\end{bmatrix}$
+\end{bmatrix}
+```
 
-e. 
+e.
 ```math
 \begin{bmatrix}
     -3 & 0 & 0 & 9\\
@@ -282,9 +293,12 @@ e.
 \end{bmatrix}
 ```
 
-f. $\begin{bmatrix}
+f.
+```math
+\begin{bmatrix}
     0 & 0 & 6 & 3
-\end{bmatrix}$
+\end{bmatrix}
+```
 
 
 <details>
@@ -308,23 +322,32 @@ g. For the consistens systems find the general solution.
 <br>
 <summary> </summary>
 
-a. $\begin{cases}
+a.
+```math	
+\begin{cases}
 x_1  \text{ free}\\
 x_2 = -\frac{7}{3}\\
 x_3 = -4
-\end{cases}$
+\end{cases}
+```
 
-e. $\begin{cases}
+e.
+```math
+\begin{cases}
 x_1 = -3\\
 x_2 = 0\\
 x_3 = 0
-\end{cases}$
+\end{cases}
+```
 
-f. $\begin{cases}
+f.
+```math
+\begin{cases}
 x_1 \text{ free}\\
 x_2 \text{ free}\\
 x_3 = \frac{1}{2}
-\end{cases}$
+\end{cases}
+```
 
 
 </details>
