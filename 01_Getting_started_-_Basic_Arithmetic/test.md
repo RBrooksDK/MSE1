@@ -187,8 +187,7 @@ b. Use row operations to get the reduced row echelon form of the matrix and writ
 ### Exercise 5: Row Reduction
 Solve the systems whose augmented matrices are given below. Write down the general solution, i.e. write the basic variables in terms of the free variables. 
 
-a. $\begin{bmatrix} 1 & 2 & 3 & 4\\
-                    4 & 8 & 9 & 4\end{bmatrix}$
+<img src="src/7.5a.png" alt="Description of the image" width="150"/>
 
 <details>
 
