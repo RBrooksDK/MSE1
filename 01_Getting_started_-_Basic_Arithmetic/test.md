@@ -48,18 +48,10 @@ $0.333 = 33.3 \%$
 
 
 ### Exercise 2: Echelon and Reduced Echelon Form
-a. $\begin{pmatrix} 1 & 0 & 2 & 1\\ 
-                    0 & 1 & -3 & 0\end{pmatrix}$
-
-b. $\left[\begin{array}{cccc} 1 & 2 & -2 & 5 \\ 0 & 1 & 0 & -1 \\ 0 & 0 & 1 & 3 \\ 0 & 0 & 0 & 1 \end{array}\right]$
-
-c. $\left[\begin{array}{cc} -1 & 0 \\ 0 & 4 \\ 0 & 0 \end{array}\right]$
-
-d. $\left[\begin{array}{ccccc} 1 & 0 & 1 & 0 & -1 \\ 0 & 1 & 1 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 1 & -1 \end{array}\right]$
-
-e. $\left[\begin{array}{cccc} 0 & 3 & 0 & 4 \\ 0 & 0 & -2 & -2 \\ 0 & 0 & 0 & 7 \end{array}\right]$
-
-f. $\left[\begin{array}{cccc} 1 & 0 & 0 & 1 \\ 0 & 0 & 1 & -2 \\ 0 & 0 & 0 & 1 \end{array}\right]$
+\begin{figure}[H]
+\centering
+\includegraphics[width=400px]{07_Linear_Equations_in_Linear_Algebra/src/7.1.png}
+\end{figure}
 
 <details>
 
