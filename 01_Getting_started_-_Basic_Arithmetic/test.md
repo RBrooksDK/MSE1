@@ -51,6 +51,25 @@ $0.333 = 33.3 \%$
 <img src="src/7.1.png" alt="Description of the image" width="200"/>
 
 
+a.
+
+
+```math
+\begin{bmatrix}
+    0 & 3 & -2 & 1\\
+    0 & 0  & -1 & 4\\
+    0 & 0  & 0 & 0
+\end{bmatrix}
+```
+
+$$
+\begin{bmatrix}
+    0 & 3 & -2 & 1\\
+    0 & 0  & -1 & 4\\
+    0 & 0  & 0 & 0
+\end{bmatrix}
+$$
+
 <details>
 
 <br>
