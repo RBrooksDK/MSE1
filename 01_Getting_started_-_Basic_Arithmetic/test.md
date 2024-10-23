@@ -132,17 +132,7 @@ Swap: $r_2 \leftrightarrow r_3$
 </details>
 <br>
 
-f. $\begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    0 & 1 & 1 & 2 \\
-    0 & -2 & -11 & -6 \\
-    \end{bmatrix}
-    \sim
-    \begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    0 & 1 & 1 & 2 \\
-    0 & 0 & -9 & -2 \\
-    \end{bmatrix}$
+<img src="src/7.3f.png" alt="Description of the image" width="350"/>
 
 <details>
 <br>
