@@ -76,18 +76,7 @@ f. echelon form
 ### Exercise 3: Row operations
 Explain which row operations are used in the calculations below.
 
-a. $\begin{bmatrix}
-    4 & -3 & 1 & 2 \\
-    3 & 1 & -5 & 6 \\
-    1 & 1 & 2 & 4 \\
-    \end{bmatrix}
-    \sim
-\begin{bmatrix}
-    1 & 1 & 2 & 4 \\
-    3 & 1 & -5 & 6 \\
-    4 & -3 & 1 & 2 \\
-    \end{bmatrix}$
-
+<img src="src/7.3a.png" alt="Description of the image" width="350"/>
 <details>
 <br>
 <summary></summary>
