@@ -78,13 +78,15 @@ x_1 + x_3 &= 3 \\
 \end{align*}
 $$
 
-$$
-\begin{align*}
-2x_1 - 4x_2 + 6x_3 &= 2 \\
-x_1 + x_3 &= 3 \\
--4x_1 + 2x_2 &= 2
-\end{align*}
-$$
+$
+\left[
+\begin{array}{cccc}
+        0 & 3 & -2 & 1\\
+        0 & 0  & -1 & 4\\
+        0 & 0  & 0 & 0
+\end{array}
+\right]
+$
 
 <details>
 
