@@ -48,7 +48,8 @@ $0.333 = 33.3 \%$
 
 
 ### Exercise 2: Echelon and Reduced Echelon Form
-![Linear Equations in Linear Algebra](07_Linear_Equations_in_Linear_Algebra/src/7.1.png)
+<img src="src/7.1.png" alt="Description of the image" width="500"/>
+
 
 <details>
 
