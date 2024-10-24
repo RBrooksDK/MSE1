@@ -311,7 +311,7 @@ RREF:
 \begin{bmatrix}  1 & 0 & 0 & 1\\
                         0 & 1 & 0 & 3\\
                         0 & 0 & 1 & 2
-                        \end{bmatrix}$
+                        \end{bmatrix}
 ```
 Solution:
 ```math
@@ -328,25 +328,34 @@ Solution:
 ### Exercise 5: Row Reduction
 Solve the systems whose augmented matrices are given below. Write down the general solution, i.e. write the basic variables in terms of the free variables. 
 
-<img src="src/7.5a.png" alt="Description of the image" width="150"/>
+a.
+```math	
+\begin{bmatrix} 1 & 2 & 3 & 4\\
+                    4 & 8 & 9 & 4\end{bmatrix}
+```
 
 <details>
 
 <br>
 <summary> </summary>
 
-$\begin{cases}
+```math
+\begin{cases}
 x_1 = -8-2x_2\\
 x_2 \text{ free}\\
 x_3 = 4
-\end{cases}$
+\end{cases}
+```
 
 </details>
 
 <br>
 
-b. $\begin{bmatrix} 1 & -1 & -2 & 3\\
-                    4 & -2 & -8 & 2\end{bmatrix}$
+b.
+```math	
+\begin{bmatrix} 1 & -1 & -2 & 3\\
+                    4 & -2 & -8 & 2\end{bmatrix}
+```
 
 
 <details>
@@ -354,31 +363,37 @@ b. $\begin{bmatrix} 1 & -1 & -2 & 3\\
 <br>
 <summary> </summary>
 
-$\begin{cases}
+```math
+\begin{cases}
 x_1 = -4+4x_3\\
 x_2 = -7+2x_3\\
 x_3 \text{ free}
-\end{cases}$
-
+\end{cases}
+```
 
 </details>
 
 <br>
 
-c. $\begin{bmatrix} -2 & 4 & -3 & 0\\
+c.
+```math	
+\begin{bmatrix} -2 & 4 & -3 & 0\\
                     4 & -8 & 6& 0\\
-                    -6& 12& -9 & 0\end{bmatrix}$
+                    -6& 12& -9 & 0\end{bmatrix}
+```
 
 <details>
 
 <br>
 <summary> </summary>
 
-$\begin{cases}
+```math
+\begin{cases}
 x_1 = 2x_2 - \frac{3}{2}x_3\\
 x_2 \text{ free}\\
 x_3 \text{ free}
-\end{cases}$
+\end{cases}
+```
 
 
 </details>
@@ -489,8 +504,6 @@ x_2 \text{ free}\\
 x_3 = \frac{1}{2}
 \end{cases}
 ```
-
-
 </details>
 
 <br>
@@ -514,9 +527,11 @@ a. How much butter, apple, and oats do you need to eat to get 50 g of protein, 7
 <br>
 <summary> </summary>
 
-$\begin{cases}  54.7 \text{ g butter}\\
+```math
+\begin{cases}  54.7 \text{ g butter}\\
                 522.8\text{ g apple}\\
-                345.2 \text{ g oats}\end{cases}$
+                345.2 \text{ g oats}\end{cases}
+```
 
 </details>
 
