@@ -46,8 +46,7 @@ $0.333 = 33.3 \%$
 
 <br>
 
-
-```markdown
+### Exercise 2: Echelon and Reduced Echelon Form
 Determine whether the following matrices are in reduced echelon form, echelon form, or neither.
 
 a.
