@@ -119,7 +119,7 @@ f. echelon form
 Explain which row operations are used in the calculations below.
 
 a.
-$$
+```math	
 \begin{bmatrix}
     4 & -3 & 1 & 2 \\
     3 & 1 & -5 & 6 \\
@@ -131,7 +131,10 @@ $$
     3 & 1 & -5 & 6 \\
     4 & -3 & 1 & 2 \\
     \end{bmatrix}
-$$
+```
+
+
+
 <details>
 <br>
 <summary></summary>
