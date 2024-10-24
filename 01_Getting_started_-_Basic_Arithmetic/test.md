@@ -119,7 +119,7 @@ f. echelon form
 Explain which row operations are used in the calculations below.
 
 a.
-```math	
+```math
 \begin{bmatrix}
     4 & -3 & 1 & 2 \\
     3 & 1 & -5 & 6 \\
@@ -133,8 +133,6 @@ a.
     \end{bmatrix}
 ```
 
-
-
 <details>
 <br>
 <summary></summary>
@@ -144,8 +142,20 @@ Swap: $r_1 \leftrightarrow r_3$
 </details>
 <br>
 
-<img src="src/7.3b.png" alt="Description of the image" width="350"/>
-
+b.
+```math
+\begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    3 & 1 & -5 & 6 \\
+    4 & -3 & 1 & 2 \\
+    \end{bmatrix}
+    \sim
+    \begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    0 & -2 & -11 & -6 \\
+    4 & -3 & 1 & 2 \\
+    \end{bmatrix}
+```
 
 <details>
 <br>
@@ -156,7 +166,20 @@ Replacement: $r_2 \rightarrow r_2 - 3r_1$
 </details>
 <br>
 
-<img src="src/7.3c.png" alt="Description of the image" width="350"/>
+c.
+```math
+\begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    0 & -2 & -11 & -6 \\
+    4 & -3 & 1 & 2 \\
+    \end{bmatrix}
+    \sim
+    \begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    0 & -2 & -11 & -6 \\
+    0 & -7 & -7 & -14 \\
+    \end{bmatrix}
+```
 
 <details>
 <br>
@@ -167,7 +190,20 @@ Replacement: $r_3 \rightarrow r_3 - 4r_1$
 </details>
 <br>
 
-<img src="src/7.3d.png" alt="Description of the image" width="350"/>
+d.
+```math
+\begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    0 & -2 & -11 & -6 \\
+    0 & -7 & -7 & -14 \\
+    \end{bmatrix}
+    \sim
+    \begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    0 & -2 & -11 & -6 \\
+    0 & 1 & 1 & 2 \\
+    \end{bmatrix}
+```
 
 <details>
 <br>
@@ -178,7 +214,20 @@ Scaling: $r_3 \rightarrow -\frac{1}{7}r_3$
 </details>
 <br>
 
-<img src="src/7.3e.png" alt="Description of the image" width="350"/>
+e.
+```math
+\begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    0 & -2 & -11 & -6 \\
+    0 & 1 & 1 & 2 \\
+    \end{bmatrix}
+    \sim
+    \begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    0 & 1 & 1 & 2 \\
+    0 & -2 & -11 & -6 \\
+    \end{bmatrix}
+```
 
 <details>
 <br>
@@ -189,7 +238,20 @@ Swap: $r_2 \leftrightarrow r_3$
 </details>
 <br>
 
-<img src="src/7.3f.png" alt="Description of the image" width="350"/>
+f.
+```math
+\begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    0 & 1 & 1 & 2 \\
+    0 & -2 & -11 & -6 \\
+    \end{bmatrix}
+    \sim
+    \begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    0 & 1 & 1 & 2 \\
+    0 & 0 & -9 & -2 \\
+    \end{bmatrix}
+```
 
 <details>
 <br>
@@ -200,7 +262,7 @@ Replacement: $r_3 \rightarrow r_3 + 2r_2$
 </details>
 <br>
 
-g. The reduced matrix in (f) is the augmented matrix for a system of linear equations. Does this system have no solution, a unique solution, or infinitely many solutions?
+g. The matrix is the augmented matrix for a system of linear equations. Does this system have no solution, a unique solution, or infinitely many solutions?
 
 <details>
 <br>
@@ -211,21 +273,19 @@ The system has a unique solution, since there is a pivot in each column of the c
 </details>
 <br>
 
-### Exercise 4: System of linear equations
-Given the following system of linear equations:
-
-$2x_1 - 4x_2 + 6x_3 = 2$  
-$x_1 + x_3 = 3$  
-$-4x_1 + 2x_2 = 2$
-
 
 a. Write down the augmented matrix for the system.
-
 <details>
 <br>
 <summary> </summary>
 
-<img src="src/7.4a.png" alt="Description of the image" width="150"/>
+```math
+\begin{bmatrix}
+    2 & -4 & 6 & 2\\
+    1 & 0  & 1 & 3\\
+    -4& 2  & 0 & 2
+\end{bmatrix}
+```
 
 </details>
 <br>
@@ -236,7 +296,21 @@ b. Use row operations to get the reduced row echelon form of the matrix and writ
 <br>
 <summary></summary>
 
-<img src="src/7.4b.png" alt="Description of the image" width="200"/>
+RREF:
+```math	
+\begin{bmatrix}  1 & 0 & 0 & 1\\
+                        0 & 1 & 0 & 3\\
+                        0 & 0 & 1 & 2
+                        \end{bmatrix}$
+```
+Solution:
+```math
+\begin{cases}
+                x_1 = 1\\
+                x_2 = 3\\
+                x_3 = 2
+\end{cases}
+```
 
 </details>
 <br>
