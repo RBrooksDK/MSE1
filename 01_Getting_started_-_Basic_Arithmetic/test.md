@@ -48,55 +48,51 @@ $0.333 = 33.3 \%$
 
 
 ### Exercise 2: Echelon and Reduced Echelon Form
-<img src="src/7.1.png" alt="Description of the image" width="200"/>
-
+Determine whether the following matrices are in reduced echelon form, echelon form, or neither.
 
 a.
-
-
-```math
-\begin{bmatrix}
-    0 & 3 & -2 & 1\\
-    0 & 0  & -1 & 4\\
-    0 & 0  & 0 & 0
-\end{bmatrix}
-```
-
 $$
-\begin{bmatrix}
-    0 & 3 & -2 & 1\\
-    0 & 0  & -1 & 4\\
-    0 & 0  & 0 & 0
-\end{bmatrix}
+\begin{bmatrix} 1 & 0 & 2 & 1\\ 
+                    0 & 1 & -3 & 0\end{bmatrix}
 $$
 
+b.
 $$
-\begin{align*}
-2x_1 - 4x_2 + 6x_3 &= 2 \\
-x_1 + x_3 &= 3 \\
--4x_1 + 2x_2 &= 2
-\end{align*}
-$$
-
-$$
-\left[
-\begin{array}{cccc}
-        0 & 3 & -2 & 1\\
-        0 & 0  & -1 & 4\\
-        0 & 0  & 0 & 0
-\end{array}
-\right]
+\begin{bmatrix} 1 & 2 & -2 & 5\\
+                    0 & 1 &  0 & -1\\
+                    0 & 0 &  1 & 3 \\
+                    0 & 0 &  0 & 1\end{bmatrix}
 $$
 
-$
-\begin{aligned}
-\begin{bmatrix}
-    0 & 3 & -2 & 1\\
-    0 & 0  & -1 & 4\\
-    0 & 0  & 0 & 0
-\end{bmatrix}
-\end{aligned}
-$
+c.
+$$
+\begin{bmatrix} -1 & 0\\
+                    0 & 4\\
+                    0 & 0 \end{bmatrix}
+$$
+
+d.
+$$
+\begin{bmatrix} 1 & 0 & 1 & 0 & -1\\
+                    0 & 1 & 1 & 0 & 0\\
+                    0 & 0 & 0 & 0 & 0\\
+                    0 & 0 & 0 & 1 & -1\end{bmatrix}
+$$
+
+e.
+$$
+\begin{bmatrix} 0 & 3 & 0 & 4\\
+                    0 & 0 & -2 & -2\\
+                    0 & 0 & 0 & 7\end{bmatrix}
+$$
+
+f.
+$$
+\begin{bmatrix} 1 & 0 & 0 & 1\\
+                    0 & 0 & 1 & -2\\
+                    0 & 0 & 0 & 1\end{bmatrix}
+$$
+
 
 <details>
 
@@ -120,11 +116,24 @@ f. echelon form
 <br>
 
 
+
 ### Exercise 3: Row operations
 Explain which row operations are used in the calculations below.
 
-<img src="src/7.3a.png" alt="Description of the image" width="350"/>
-
+a.
+$$
+\begin{bmatrix}
+    4 & -3 & 1 & 2 \\
+    3 & 1 & -5 & 6 \\
+    1 & 1 & 2 & 4 \\
+    \end{bmatrix}
+    \sim
+\begin{bmatrix}
+    1 & 1 & 2 & 4 \\
+    3 & 1 & -5 & 6 \\
+    4 & -3 & 1 & 2 \\
+    \end{bmatrix}
+$$
 <details>
 <br>
 <summary></summary>
