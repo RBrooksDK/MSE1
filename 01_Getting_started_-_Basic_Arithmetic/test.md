@@ -277,9 +277,11 @@ The system has a unique solution, since there is a pivot in each column of the c
 Given the following system of linear equations:
 
 $$
-2x_1 - 4x_2 + 6x_3 = 2 \\
-x_1 + x_3 = 3 \\
--4x_1 + 2x_2 = 2
+\begin{aligned}
+2x_1 - 4x_2 + 6x_3 &= 2 \\
+x_1 + x_3 &= 3 \\
+-4x_1 + 2x_2 &= 2
+\end{aligned}
 $$
 
 a. Write down the augmented matrix for the system.
