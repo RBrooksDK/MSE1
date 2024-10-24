@@ -37,4 +37,4 @@ This session introduces the fundamental concepts of linear algebra, focusing on 
 
 --------------------------
 
-[Exercises for recitation]()
+[Exercises for recitation](07_Exercises.md)
