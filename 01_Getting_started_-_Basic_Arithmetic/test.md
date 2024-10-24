@@ -25,7 +25,7 @@ b. What is the probability that a random person from town is guilty given that t
 <br>
 <summary> </summary>
 
-$ 0.00498 = 0.498\% $
+$0.00498 = 0.498\%$
 
 </details>
 
@@ -40,7 +40,7 @@ c. What is the probability that a random person from town is guilty given that t
 <br>
 <summary> </summary>
 
-$ 0.333 = 33.3\% $
+$0.333 = 33.3\%$
 
 </details>
 
