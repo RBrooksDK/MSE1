@@ -2,13 +2,14 @@
 
 You are given the augmented matrix
 
-$$ A=
+```math
+A=
 \begin{bmatrix}
     1 &  -2 &  0 &  -1 & 1\\
     -4 &  8 &  2 &  4 & -8\\
     -2 &  4 &  0 &  1 &  -2
 \end{bmatrix}
-$$
+```
 ​
 
 (a) What is the size of the matrix?
@@ -45,11 +46,13 @@ For each of the following systems of linear equations write it as (i) an augment
 
 
 (a) 
-$$\begin{cases}
+```math
+\begin{cases}
     2x_1 +3x_2 - 4x_3 =8\\
     -x_2 +x_3 + 2x_4 = -2\\
     -x_1 + 2x_4 = 3
-\end{cases}$$
+\end{cases}
+```
 
 <details>
 
@@ -58,16 +61,16 @@ $$\begin{cases}
 
 
 (i) Augmented matrix:
-$$
+```math	
 \begin{bmatrix}
      2 & 3 & -4 & 0 &  8\\
      0 & -1&  1 & 2 & -2\\
      -1& 0 & 0 & 2 & 3 
 \end{bmatrix}
-$$
+```
 
 (ii) Vector equation:
-$$
+```math	
 x_1
 \begin{bmatrix}
      2\\0\\-1
@@ -88,7 +91,7 @@ x_1
 \begin{bmatrix}
      8\\-2\\3
 \end{bmatrix}
-$$
+```math
 
 (iii) Matrix equation:
 $$
