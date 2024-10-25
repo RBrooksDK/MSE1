@@ -74,23 +74,33 @@ $$
 $$
 x_1
 \begin{bmatrix}
-     2\\0\\-1
+     2\\\
+     0\\\
+    -1
 \end{bmatrix}
 + x_2
 \begin{bmatrix}
-     3\\-1\\0
+     3\\\
+    -1\\\
+     0
 \end{bmatrix}
 + x_3
 \begin{bmatrix}
-     -4\\1\\0
+    -4\\\
+     1\\\
+     0
 \end{bmatrix}
 + x_4
 \begin{bmatrix}
-     0\\2\\2
+     0\\\
+     2\\\
+     2
 \end{bmatrix}
 =
 \begin{bmatrix}
-     8\\-2\\3
+     8\\\
+    -2\\\
+     3
 \end{bmatrix}
 $$
 
@@ -323,13 +333,15 @@ where $x_2$ is a free variable. Write the solution in parametric vector form.
 
 (b) A system of equations has been found to have the solution
 
-$
-x_1 = 5+4x_4\\
-x_2 = 2\\
-x_3 = x_3\\
-x_4 = x_4\\
-x_5 = -8+x_3-7x_4
-$
+$$
+\begin{aligned}
+x_1 &= 5 + 4x_4 \\
+x_2 &= 2 \\
+x_3 &= x_3 \\
+x_4 &= x_4 \\
+x_5 &= -8 + x_3 - 7x_4
+\end{aligned}
+$$
 
 where $x_3$ and $x_4$ are free variables. Write the solution in parametric vector form.
 
