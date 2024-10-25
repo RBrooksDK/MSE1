@@ -233,7 +233,7 @@ $$
 ### Exercise 3: Linear combinations
 Let
 
-$\mathbf{v}_1=\begin{bmatrix}1\\\-2\\\4\end{bmatrix}$, $\mathbf{v}_2=\begin{bmatrix}3\\\0\\\2\end{bmatrix}$ and $\mathbf{v}_3=\begin{bmatrix}-1\\\5\\\1\end{bmatrix}$.
+$\mathbf{v}_1=\begin{bmatrix}1\\\ -2\\\4\end{bmatrix}$, $\mathbf{v}_2=\begin{bmatrix}3\\\0\\\2\end{bmatrix}$ and $\mathbf{v}_3=\begin{bmatrix}-1\\\5\\\1\end{bmatrix}$.
 
 Calculate the linear combinations below.
 
