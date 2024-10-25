@@ -307,11 +307,13 @@ is to write the solution on parametric vector form.
 
 (a) A system has beed found to have the solution
 
-$
-x_1 =4-x_2\\
-x_2 = x_2\\
-x_3 = -1+3x_2
-$
+$$
+\begin{aligned}
+x_1 &= 4 - x_2 \\
+x_2 &= x_2 \\
+x_3 &= -1 + 3x_2
+\end{aligned}
+$$
 
 where $x_2$ is a free variable. Write the solution in parametric vector form.
 
