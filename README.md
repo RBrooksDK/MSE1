@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h1 align="center">MSE1</h1>
 
 This repository contains resources for the [Mathematics for Software Engineering](https://en.via.dk/tmh-courses/mathematics-for-software-engineering?education=ict) course at VIA University College, Horsens, Denmark.
