@@ -376,24 +376,24 @@ a. For $$\mathbf{a}_1 =
             3 \\\
             0
         \end{bmatrix}$$,
-    \\(\mathbf{a}_2 = 
+    $$\mathbf{a}_2 = 
         \begin{bmatrix}
             1\\\
             2\\\
             -5
-        \end{bmatrix}\\),
-    $\mathbf{a}_3 = 
+        \end{bmatrix}$$,
+    $$\mathbf{a}_3 = 
         \begin{bmatrix}
             4\\\
             1\\\
             2
-        \end{bmatrix}$, and
-    $\mathbf{b} = 
+        \end{bmatrix}$$, and
+    $$\mathbf{b} = 
         \begin{bmatrix}
             8\\\
             6\\\
             12
-        \end{bmatrix}$ 
+        \end{bmatrix}$$ 
 determine if $\mathbf{b}$ is a linear combination of $\mathbf{a}_1,\mathbf{a}_2$ and $\mathbf{a}_3$.
 
 <details>
