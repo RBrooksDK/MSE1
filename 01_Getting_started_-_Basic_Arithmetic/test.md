@@ -2,14 +2,12 @@
 
 You are given the augmented matrix
 
-$$
-A=
+$$A=
 \begin{bmatrix}
     1 &  -2 &  0 &  -1 & 1\\
     -4 &  8 &  2 &  4 & -8\\
     -2 &  4 &  0 &  1 &  -2
-\end{bmatrix}
-$$
+\end{bmatrix}$$
 ​
 
 (a) What is the size of the matrix?
