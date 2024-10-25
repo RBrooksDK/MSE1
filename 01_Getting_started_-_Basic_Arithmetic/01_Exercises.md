@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Exercises: Basic Arithmetic and Functions
 
 ### Exercise 1:
