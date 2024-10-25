@@ -431,7 +431,7 @@ c. For $A = \begin{bmatrix}2  & -6 & 5\\
                         1  & -5  & 1\\
                         -2 & 6  & p\\
                         \end{bmatrix}$ and
-        $\mathbf{b}= \begin{bmatrix}3 \\ 0 \\ q\end{bmatrix}$ 
+        $\mathbf{b}= \begin{bmatrix}3 \\\ 0 \\\ q\end{bmatrix}$ 
     determine the values of $p$ and $q$ such that $\mathbf{b}$ is a not a linear combination of the columns of $A$.
     
 <details>
