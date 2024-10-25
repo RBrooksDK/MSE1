@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ### Exercise 1: Recap
 
 You are given the augmented matrix 1
