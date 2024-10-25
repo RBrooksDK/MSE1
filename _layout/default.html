@@ -33,11 +33,9 @@
         {{ content }}
       </section>
     </div>
-  </body>
-</html>
 
-<!-- enable inline eqn and add new macro definitions -->
-<script>
+  <!-- enable inline eqn and add new macro definitions -->
+  <script>
   MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
@@ -49,12 +47,11 @@
     fontCache: 'global'
   }
   };
-</script>
+  </script>
 
-<!-- load MathJax -->
-<script type="text/javascript" id="MathJax-script" async
+  <!-- load MathJax -->
+  <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
-<!-- load custom js script -->
-<script src="{{ site.baseurl}}/assets/js/script.js"></script>
+  </script>
+  </body>
+</html>

@@ -1,23 +1,3 @@
-<!-- enable inline eqn and add new macro definitions -->
-<script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      macros: {
-        indep: "{\\perp \\!\\!\\! \\perp}",
-      }
-    },
-    svg: {
-    fontCache: 'global'
-  }
-  };
-</script>
-
-<!-- load MathJax -->
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
 ### Exercise 1: Recap
 
 You are given the augmented matrix 1
