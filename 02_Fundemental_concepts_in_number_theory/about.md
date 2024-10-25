@@ -319,7 +319,7 @@ $45000$
 
 Find the remainder after division.
 
-a. $10 \mod 4$
+a. $10\mod 4$
 
 <details> <br>
   <summary> </summary>
@@ -330,7 +330,7 @@ $2$
 
 <br>
 
-b. $10 \mod 5$
+b. $10\mod 5$
 
 <details> <br>
   <summary> </summary>
@@ -341,7 +341,7 @@ $0$
 
 <br>
 
-c. $53 \mod 4$
+c. $53\mod 4$
 
 <details> <br>
   <summary> </summary>
@@ -352,7 +352,7 @@ $1$
 
 <br>
 
-d. $55 \mod 4$
+d. $55\mod 4$
 
 <details> <br>
   <summary> </summary>
@@ -363,7 +363,7 @@ $3$
 
 <br>
 
-e. $332 \mod 12$
+e. $332\mod 12$
 
 <details> <br>
   <summary> </summary>
