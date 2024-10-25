@@ -368,7 +368,7 @@ $$
 
 
 
-### Exercise 4: Linear Independence
+### Exercise 6: Linear Independence
 
 a. For 
     $\mathbf{a}_1 = 
@@ -411,7 +411,7 @@ Yes, since $\mathbf{b}=3\mathbf{a}_1-2\mathbf{a}_2+\mathbf{a}_3$
 b.
 Let $$A = \begin{bmatrix}1  & -2 & 4 \\\
                         0  & 4  & -5 \\\
-                        -3 & 6  & -12 \\\
+                        -3 & 6  & -12
                         \end{bmatrix}$$ and
     $\mathbf{b}=\begin{bmatrix}1 \\\ -4 \\\ -1\end{bmatrix}$ be given.
      Determine whether $\mathbf{b}$ is a linear combination of the columns in $A$.
@@ -429,7 +429,7 @@ No $\mathbf{b}$ is not a linear combination of the columns of $A$
 
 c. For $A = \begin{bmatrix}2  & -6 & 5 \\\
                         1  & -5  & 1 \\\
-                        -2 & 6  & p \\\
+                        -2 & 6  & p
                         \end{bmatrix}$ and
         $\mathbf{b}= \begin{bmatrix}3 \\\ 0 \\\ q\end{bmatrix}$ 
     determine the values of $p$ and $q$ such that $\mathbf{b}$ is a not a linear combination of the columns of $A$.
