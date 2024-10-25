@@ -12,18 +12,18 @@ Click on a session below to access a plan of a specific session and additional r
 
 | Session | Week | Topic |
 |---------|------|-------|
-| 01      | 36   | [Introduction: Basic Arithmetic and Functions](https://github.com/RBrooksDK/MSE1/blob/main/01_Getting_started_-_Basic_Arithmetic/README.md) |
-| 02      | 37   | [Fundamental Concepts in Number Theory](02_Fundemental_concepts_in_number_theory/README.md) |
-| 03      | 38   | [Numeral Systems](https://github.com/RBrooksDK/MSE1/blob/main/03_Numeral_systems/README.md) |
-| 04      | 39   | [Boolean Algebra](https://github.com/RBrooksDK/MSE1/blob/main/04_Boolean_Algebra/README.md) |
-| 05      | 40   | [Introduction to Combinatorics and Probability Theory](https://github.com/RBrooksDK/MSE1/blob/main/05_Combinatorics_and_Probability_Theory/README.md) |
-| 06      | 41   | [Conditional Probability and Bayes Theorem](https://github.com/RBrooksDK/MSE1/blob/main/06_Conditional_Probability_and_Bayes_Theorem/README.md) |
+| 01      | 36   | [Introduction: Basic Arithmetic and Functions](/01_Getting_started_-_Basic_Arithmetic/README.md) |
+| 02      | 37   | [Fundamental Concepts in Number Theory](/02_Fundemental_concepts_in_number_theory/README.md) |
+| 03      | 38   | [Numeral Systems](/03_Numeral_systems/README.md) |
+| 04      | 39   | [Boolean Algebra](/04_Boolean_Algebra/README.md) |
+| 05      | 40   | [Introduction to Combinatorics and Probability Theory](/05_Combinatorics_and_Probability_Theory/README.md) |
+| 06      | 41   | [Conditional Probability and Bayes Theorem](/06_Conditional_Probability_and_Bayes_Theorem/README.md) |
 | 07      | 43   | [Linear Equations in Linear Algebra](/07_Linear_Equations_in_Linear_Algebra/README.md) |
 | 08      | 44   | [Vectors and Matrices](/08_Vectors_and_Matrices/README.md) |
 | 09      | 45   | [Matrix Algebra, Determinants, and Eigenvalues](/09_Eigenvalues_and_Eigenvectors/README.md) |
-| 10      | 46   | [Asymptotic analysis and Big O notation](https://github.com/RBrooksDK/MSE1/blob/main/10_Asymptotic_analysis_and_Big_O_notation/README.md) |
-| 11      | 47   | [Functions and Loops in Programming](https://github.com/RBrooksDK/MSE1/blob/main/11_Functions_and_Loops_in_Programming/README.md) |
-| 12      | 48   | [Exam Preparation and Q/A](https://github.com/RBrooksDK/MSE1/blob/main/12_Exam_Preparation_and_Q/A/README.md) |
+| 10      | 46   | [Asymptotic analysis and Big O notation](/10_Asymptotic_analysis_and_Big_O_notation/README.md) |
+| 11      | 47   | [Functions and Loops in Programming](/11_Functions_and_Loops_in_Programming/README.md) |
+| 12      | 48   | [Exam Preparation and Q/A](/12_Exam_Preparation_and_Q_A/README.md) |
 
 
 
