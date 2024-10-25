@@ -368,7 +368,7 @@ $$
 
 
 
-### Exercise 6: Linear Independence
+### Exercise 6: Linear Independence1
 
 a. For $$\mathbf{a}_1 = 
         \begin{bmatrix}
