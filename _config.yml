@@ -10,10 +10,3 @@ kramdown:
   math_engine: mathjax
   parse_block_html: true
 
-baseurl: "/MSE1" # Add your repository name if necessary
-
-defaults:
-  - scope:
-      path: "" # Applies to all files
-    values:
-      layout: "default"
