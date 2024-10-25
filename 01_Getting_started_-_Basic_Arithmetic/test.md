@@ -409,9 +409,9 @@ Yes, since $\mathbf{b}=3\mathbf{a}_1-2\mathbf{a}_2+\mathbf{a}_3$
 <br>
 
 b.
-Let $A = \begin{bmatrix}1  & -2 & 4\\\
-                        0  & 4  & -5\\\
-                        -3 & 6  & -12\\\
+Let $A = \begin{bmatrix}1  & -2 & 4 \\\
+                        0  & 4  & -5 \\\
+                        -3 & 6  & -12 \\\
                         \end{bmatrix}$ and
     $\mathbf{b}=\begin{bmatrix}1 \\\ -4 \\\ -1\end{bmatrix}$ be given.
      Determine whether $\mathbf{b}$ is a linear combination of the columns in $A$.
