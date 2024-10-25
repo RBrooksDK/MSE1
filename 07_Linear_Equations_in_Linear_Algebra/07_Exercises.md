@@ -365,8 +365,8 @@ b.
 
 ```math
 \begin{cases}
-x_1 = -4+4x_3\\
-x_2 = -7+2x_3\\
+x_1 = -2+2x_3\\
+x_2 = -5\\
 x_3 \text{ free}
 \end{cases}
 ```
