@@ -1,3 +1,8 @@
+---
+title: Exercises
+layout: template
+filename: 02_Exercises.md
+--- 
 ## Exercises: Fundamental Concepts in Number Theory
 
 ### Exercise 1: Divisors
