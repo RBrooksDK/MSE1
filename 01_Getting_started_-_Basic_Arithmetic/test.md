@@ -370,13 +370,12 @@ $$
 
 ### Exercise 6: Linear Independence
 
-a. For 
-    $\mathbf{a}_1 = 
+a. For $$\mathbf{a}_1 = 
         \begin{bmatrix}
             2 \\\
             3 \\\
             0
-        \end{bmatrix}$,
+        \end{bmatrix}$$,
     $\mathbf{a}_2 = 
         \begin{bmatrix}
             1\\\
