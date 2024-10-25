@@ -165,16 +165,13 @@ $$
 x_1\begin{bmatrix}
      1\\0\\0
 \end{bmatrix}
-+ x_2
-\begin{bmatrix}
++ x_2\begin{bmatrix}
      0\\1\\0
 \end{bmatrix}
-+x_3
-\begin{bmatrix}
++x_3\begin{bmatrix}
      0\\0\\1
 \end{bmatrix}
-=
-\begin{bmatrix}
+=\begin{bmatrix}
      4\\-1\\10
 \end{bmatrix}
 $$
