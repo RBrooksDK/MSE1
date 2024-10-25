@@ -117,18 +117,7 @@ $$
 
 (ii) Vector equation:
 $$
-x_1
-\begin{bmatrix}
-     1\\1
-\end{bmatrix}
-+ x_2
-\begin{bmatrix}
-     1\\-1
-\end{bmatrix}
-=
-\begin{bmatrix}
-     2\\4
-\end{bmatrix}
+x_1\begin{bmatrix}1\\1\end{bmatrix}+ x_2\begin{bmatrix}1\\-1\end{bmatrix}=\begin{bmatrix}2\\4\end{bmatrix}
 $$
 
 (iii) Matrix equation:
