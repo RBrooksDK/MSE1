@@ -376,12 +376,12 @@ a. For $$\mathbf{a}_1 =
             3 \\\
             0
         \end{bmatrix}$$,
-    $\mathbf{a}_2 = 
+    \\(\mathbf{a}_2 = 
         \begin{bmatrix}
             1\\\
             2\\\
             -5
-        \end{bmatrix}$,
+        \end{bmatrix}\\),
     $\mathbf{a}_3 = 
         \begin{bmatrix}
             4\\\
