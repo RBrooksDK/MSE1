@@ -162,8 +162,7 @@ $$
 
 (ii) Vector equation:
 $$
-x_1
-\begin{bmatrix}
+x_1\begin{bmatrix}
      1\\0\\0
 \end{bmatrix}
 + x_2
