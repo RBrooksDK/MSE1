@@ -5,4 +5,4 @@ title: Mathematics for Software Engineering
 description: Click <a href='/MSE1'>here</a> to return to the main page
 markdown: kramdown
 kramdown:
-    math_engine: katex
+    math_engine: mathjax
