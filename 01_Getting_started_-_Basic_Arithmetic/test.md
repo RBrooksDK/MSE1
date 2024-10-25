@@ -1,6 +1,6 @@
 ### Exercise 1: Recap
 
-You are given the augmented matrix
+You are given the augmented matrix 1
 
 $$ A=
 \begin{bmatrix}
