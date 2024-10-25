@@ -1,3 +1,14 @@
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$', '$$']],
+      processEscapes: true,
+    }
+  });
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 ## Exercises: Fundamental Concepts in Number Theory
 
 ### Exercise 1: Divisors
