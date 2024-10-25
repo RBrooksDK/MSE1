@@ -15,7 +15,7 @@
 
 Find all the divisors of the following numbers:
 
-a. $10$
+a. $ 10 $
 <details>
 
 <br>
