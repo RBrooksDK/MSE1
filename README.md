@@ -20,7 +20,7 @@ Click on a session below to access a plan of a specific session and additional r
 | 06      | 41   | [Conditional Probability and Bayes Theorem](/06_Conditional_Probability_and_Bayes_Theorem/README.md) |
 | 07      | 43   | [Linear Equations in Linear Algebra](/07_Linear_Equations_in_Linear_Algebra/README.md) |
 | 08      | 44   | [Vectors and Matrices](/08_Vectors_and_Matrices/README.md) |
-| 09      | 45   | [Matrix Algebra, Determinants, and Eigenvalues](/09_Eigenvalues_and_Eigenvectors/README.md) |
+| 09      | 45   | [Matrix Algebra, Determinants, and Eigenvalues](/09_Matrix_Algebra_Determinants_Eigenvalues/) |
 | 10      | 46   | [Asymptotic analysis and Big O notation](/10_Asymptotic_analysis_and_Big_O_notation/README.md) |
 | 11      | 47   | [Functions and Loops in Programming](/11_Functions_and_Loops_in_Programming/README.md) |
 | 12      | 48   | [Exam Preparation and Q/A](/12_Exam_Preparation_and_Q_A/README.md) |
