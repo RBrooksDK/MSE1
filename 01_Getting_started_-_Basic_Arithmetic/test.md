@@ -127,7 +127,7 @@ $$
 \end{bmatrix}
 $$
 
-(ii) Vector equation1:
+(ii) Vector equation:
 $$
 x_1\begin{bmatrix}2\\\ 0\\\ -1\end{bmatrix} + x_2\begin{bmatrix}3\\\ -1\\\ 0\end{bmatrix}+ x_3\begin{bmatrix}-4\\\ 1\\\ 0\end{bmatrix}+ x_4\begin{bmatrix}0\\\ 2\\\ 2\end{bmatrix}=\begin{bmatrix}8\\\ -2\\\ 3\end{bmatrix}
 $$
@@ -291,14 +291,13 @@ $\begin{bmatrix}4\\\4\\\6\end{bmatrix}$
 <br>
 
 (d) Find the solution to the linear system described by the augmented matrix
-
-$
+$$
 \begin{bmatrix}
      1 & 3 & -1 & 10\\\
      -2 & 0 & 5 & 1\\\
      4 & 2 & 1 & 15
 \end{bmatrix}
-$
+$$
 
 
 <details>
