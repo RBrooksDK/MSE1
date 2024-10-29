@@ -422,6 +422,17 @@ $$
 \end{bmatrix}
 $$
 
+<details>
+
+<br>
+<summary> </summary>
+
+$\mathbf{x}=x_2\left[\begin{array}{l}2 \\ 1\end{array}\right]$
+
+</details>
+
+<br>
+
 (b)
 $$
 \begin{bmatrix}
@@ -431,6 +442,15 @@ $$
 \end{bmatrix}
 $$
 
+<br>
+<summary> </summary>
+
+$\mathbf{x}=x_3\left[\begin{array}{l}2 \\ 1 \\ 1\end{array}\right]$
+
+</details>
+
+<br>
+
 (c)
 $$
 \begin{bmatrix}
@@ -438,6 +458,15 @@ $$
 1 & -5 & 3
 \end{bmatrix}
 $$
+
+<br>
+<summary> </summary>
+
+$\mathbf{x}=x_2\left[\begin{array}{l}5 \\ 1 \\ 0\end{array}\right]+x_3\left[\begin{array}{c}-3 \\ 0 \\ 1\end{array}\right]$
+
+</details>
+
+<br>
 
 (d) For the exercises (a)-(c) give a geometric interpretation of the solution set.
 
