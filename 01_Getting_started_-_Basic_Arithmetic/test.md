@@ -291,11 +291,10 @@ $\begin{bmatrix}4\\\4\\\6\end{bmatrix}$
 <br>
 
 (d) Find the solution to the linear system described by the augmented matrix
- 
 $$
 \begin{bmatrix}
-     1 & 3 & -1 & 10\\\
-     -2 & 0 & 5 & 1\\\
+     1 & 3 & -1 & 10\\
+     -2 & 0 & 5 & 1\\
      4 & 2 & 1 & 15
 \end{bmatrix}
 $$
