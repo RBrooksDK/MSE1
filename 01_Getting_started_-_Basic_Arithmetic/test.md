@@ -6,7 +6,7 @@ layout: default
 
 You are given the augmented matrix 1
 
-$$ A=
+$$ 
 \begin{bmatrix}
     1 &  -2 &  0 &  -1 & 1\\
     -4 &  8 &  2 &  4 & -8\\
