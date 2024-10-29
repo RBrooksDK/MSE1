@@ -340,6 +340,31 @@ $$
 
 where $x_2$ is a free variable. Write the solution in parametric vector form.
 
+<details>
+
+<br>
+<summary> </summary>
+
+$$
+\left[\begin{array}{l}
+x_1 \\
+x_2 \\
+x_3
+\end{array}\right]=\left[\begin{array}{c}
+4 \\
+0 \\
+-1
+\end{array}\right]+x_2\left[\begin{array}{c}
+-1 \\
+1 \\
+3
+\end{array}\right]
+$$
+
+</details>
+
+<br>
+
 (b) A system of equations has been found to have the solution
 
 $$
