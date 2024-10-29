@@ -258,7 +258,7 @@ Calculate the linear combinations below.
 <br>
 <summary> </summary>
 
-\begin{bmatrix}10\\1\\15\end{bmatrix}$
+$\begin{bmatrix}10\\\1\\\15\end{bmatrix}$
 
 </details>
 
@@ -272,7 +272,7 @@ Calculate the linear combinations below.
 <br>
 <summary> </summary>
 
-$\begin{bmatrix}2\\-7\\3\end{bmatrix}$
+$\begin{bmatrix}2\\\-7\\\3\end{bmatrix}$
 
 </details>
 
@@ -285,7 +285,7 @@ $\begin{bmatrix}2\\-7\\3\end{bmatrix}$
 <br>
 <summary> </summary>
 
-$\begin{bmatrix}4\\4\\6\end{bmatrix}$
+$\begin{bmatrix}4\\\4\\\6\end{bmatrix}$
 
 </details>
 
