@@ -322,13 +322,13 @@ is to write the solution on parametric vector form.
 
 (a) A system has been found to have the solution
 
-$
+$$
 \begin{align*}
 x_1 &= 4 - x_2 \\\
 x_2 &= x_2 \\\
 x_3 &= -1 + 3x_2
 \end{align*}
-$
+$$
 
 where $x_2$ is a free variable. Write the solution in parametric vector form.
 
