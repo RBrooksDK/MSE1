@@ -41,8 +41,8 @@ Note. There are many ways to reduce the matrix to echelon form. Here is one way 
 
 $$  
 \begin{bmatrix}
-1 & -2 & 0 & -1 & 1 \\
-0 & 0 & 2 & 0 & -4 \\
+1 & -2 & 0 & -1 & 1\\
+0 & 0 & 2 & 0 & -4\\
 0 & 0 & 0 & -1 & 0
 \end{bmatrix}
 $$
