@@ -52,15 +52,53 @@ $$
 <br>
 
 (c) Use the echelon form to find the basic variables and free variables
+<details>
+
+<br>
+<summary> </summary>
+
+The basic variables are $x_1$, $x_3$ and $x_4$ and the free variable is $x_2$
+
+</details>
+
+<br>
 
 (d) Find the general solution to the system and write the basic variables in terms of the free variables
 
+<details>
+
+<br>
+<summary> </summary>
+
+Express $x_1, x_3$, and $x_4$ in terms of the free variable $x_2$ :
+1. From Row 1: $x_1-2 x_2=1 \Rightarrow x_1=2 x_2+1$
+2. From Row 2: $x_3=-2$
+3. From Row 3: $x_4=0$
+</details>
+
+<br>
+
+
 (e) Mark each of the following statements as TRUE or FALSE
 
-    (i) The matrix A describes a system of five equations and three variables
-    (ii) The matrix A describes a consistent system of equations
-    (iii) A 3x5 augmented matrix can not have a unique solution
-    (iV) A 3x5 augmented matrix will always be consistent
+(i)  The matrix A describes a system of five equations and three variables  
+(ii)  The matrix A describes a consistent system of equations  
+(iii)  A 3x5 augmented matrix can not have a unique solution  
+(iv)  A 3x5 augmented matrix will always be consistent  
+
+<details>
+
+<br>
+<summary> </summary>
+
+(i)  The matrix A describes a system of five equations and three variables FALSE  
+(ii)  The matrix A describes a consistent system of equations TRUE  
+(iii)  A 3x5 augmented matrix can not have a unique solution TRUE  
+(iv)  A 3x5 augmented matrix will always be consistent FALSE  
+
+</details>
+
+<br>
 
 
 ### Exercise 2: Matrix and vector equations
