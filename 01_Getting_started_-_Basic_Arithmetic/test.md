@@ -37,13 +37,13 @@ $3\times5$
 <br>
 <summary> </summary>
 
-Note. There are many ways to reduce the matrix to echelon form. Here is one way to do it.1
+Note. There are many ways to reduce the matrix to echelon form. Here is one way to do it.
 
 $$  
 \begin{bmatrix}
-1 & -2 & 0 & -1 & 1\\
-0 & 0 & 2 & 0 & -4\\
-0 & 0 & 0 & -1 & 0
+    1 & -2 & 0 & -1 & 1\\
+    0 & 0 & 2 & 0 & -4\\
+    0 & 0 & 0 & -1 & 0
 \end{bmatrix}
 $$
 
