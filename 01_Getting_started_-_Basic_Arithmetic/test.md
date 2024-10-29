@@ -431,13 +431,13 @@ $\mathbf{x}=x_2\left[\begin{array}{l}2 \\\ 1\end{array}\right]$
 <br>
 
 (b)
-$
+$$
 \begin{bmatrix}
     4 & -9 & 1 \\\
     2 & -5 & 1 \\\
     -3 & 1 & 5
 \end{bmatrix}
-$
+$$
 
 <details>
 
@@ -450,12 +450,12 @@ $\mathbf{x}=x_3\left[\begin{array}{l}2 \\\ 1 \\\ 1\end{array}\right]$
 <br>
 
 (c)
-$
+$$
 \begin{bmatrix}
 2 & -10 & 6 \\\
 1 & -5 & 3
 \end{bmatrix}
-$
+$$
 
 <details>
 
