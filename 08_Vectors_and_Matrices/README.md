@@ -32,4 +32,5 @@ By the end of the session, we'll have built a strong foundation in these core co
 
 --------------------------
 I had to change the site since regular Github does not render matrices properly. So I am giving you the pages version instead.
+
 [Exercises for recitation](https://rbrooksdk.github.io/MSE1/08_Vectors_and_Matrices/08_Exercises)
