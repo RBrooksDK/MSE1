@@ -127,7 +127,7 @@ $$
 \end{bmatrix}
 $$
 
-(ii) Vector equation:
+(ii) Vector equation1:
 $$
 x_1\begin{bmatrix}2\\\ 0\\\ -1\end{bmatrix} + x_2\begin{bmatrix}3\\\ -1\\\ 0\end{bmatrix}+ x_3\begin{bmatrix}-4\\\ 1\\\ 0\end{bmatrix}+ x_4\begin{bmatrix}0\\\ 2\\\ 2\end{bmatrix}=\begin{bmatrix}8\\\ -2\\\ 3\end{bmatrix}
 $$
