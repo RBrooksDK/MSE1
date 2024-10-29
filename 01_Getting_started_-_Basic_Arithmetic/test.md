@@ -272,7 +272,7 @@ $\begin{bmatrix}10\\\1\\\15\end{bmatrix}$
 <br>
 <summary> </summary>
 
-$\begin{bmatrix}2\\\-7\\\3\end{bmatrix}$
+$\begin{bmatrix}2\\\ -7\\\3\end{bmatrix}$
 
 </details>
 
