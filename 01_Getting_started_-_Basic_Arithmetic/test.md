@@ -30,7 +30,26 @@ $3\times5$
 
 
 
-(b) Reduce the matrix to echelon form (either by hand or by doing seperate row operations in Python) 
+(b) Reduce the matrix to echelon form (either by hand or by doing seperate row operations in Python)
+
+<details>
+
+<br>
+<summary> </summary>
+
+Note. There are many ways to reduce the matrix to echelon form. Here is one way to do it.
+
+$$
+\left[\begin{array}{ccccc}
+1 & -2 & 0 & -1 & 1 \\
+0 & 0 & 2 & 0 & -4 \\
+0 & 0 & 0 & -1 & 0
+\end{array}\right]
+$$
+
+</details>
+
+<br>
 
 (c) Use the echelon form to find the basic variables and free variables
 
