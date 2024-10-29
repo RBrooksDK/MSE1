@@ -326,8 +326,8 @@ is to write the solution on parametric vector form.
 
 $
 \begin{aligned}
-x_1 &= 4 - x_2 \\\
-x_2 &= x_2 \\\
+x_1 &= 4 - x_2 \\\\
+x_2 &= x_2 \\\\
 x_3 &= -1 + 3x_2
 \end{aligned}
 $
