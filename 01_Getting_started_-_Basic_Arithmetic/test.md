@@ -307,11 +307,11 @@ $$
 <br>
 <summary> </summary>
 
-$\begin{cases}
+$$\begin{cases}
 x_1 = 2\\
 x_2 = 3\\
 x_3 = 1
-\end{cases}$
+\end{cases}$$
 
 </details>
 
