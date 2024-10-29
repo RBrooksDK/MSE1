@@ -471,6 +471,17 @@ $\mathbf{x}=x_2\left[\begin{array}{l}5 \\\ 1 \\\ 0\end{array}\right]+x_3\left[\b
 
 (d) For the exercises (a)-(c) give a geometric interpretation of the solution set.
 
+<details>
+
+<br>
+<summary> </summary>
+
+(a) The solution set is a line in $\mathbb{R}^2$, as it has one free variable, representing a one-dimensional subspace.  
+(b) The solution set is a line in $\mathbb{R}^3$, as it has one free variable, representing a one-dimensional subspace.  
+(c) The solution set is a plane in $\mathbb{R}^3$, as it has two free variables, representing a two-dimensional subspace.
+
+</details>
+<br>
 
 
 ### Exercise 6: Linear Independence
