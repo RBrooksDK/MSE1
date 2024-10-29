@@ -373,7 +373,42 @@ $$
 
 where $x_3$ and $x_4$ are free variables. Write the solution in parametric vector form.
 
+<details>
 
+<br>
+<summary> </summary>
+
+$$
+\left[\begin{array}{l}
+x_1 \\
+x_2 \\
+x_3 \\
+x_4 \\
+x_5
+\end{array}\right]=\left[\begin{array}{c}
+5 \\
+2 \\
+0 \\
+0 \\
+-8
+\end{array}\right]+x_3\left[\begin{array}{l}
+0 \\
+0 \\
+1 \\
+0 \\
+1
+\end{array}\right]+x_4\left[\begin{array}{c}
+4 \\
+0 \\
+0 \\
+1 \\
+-7
+\end{array}\right]
+$$
+
+</details>
+
+<br>
 
 
 ### Exercise 5: Homogenous equation
