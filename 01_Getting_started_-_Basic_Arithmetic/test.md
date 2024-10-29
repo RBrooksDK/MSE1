@@ -37,7 +37,7 @@ $3\times5$
 <br>
 <summary> </summary>
 
-Note. There are many ways to reduce the matrix to echelon form. Here is one way to do it.
+Note. There are many ways to reduce the matrix to echelon form. Here is one way to do it.9
 
 $$  
 \begin{bmatrix}
