@@ -4,9 +4,9 @@ layout: default
 
 ### Exercise 1: Recap
 
-You are given the augmented matrix 1
+You are given the augmented matrix 
 
-$$ 
+$$ A =
 \begin{bmatrix}
     1 &  -2 &  0 &  -1 & 1\\
     -4 &  8 &  2 &  4 & -8\\
