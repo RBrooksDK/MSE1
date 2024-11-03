@@ -1,12 +1,12 @@
 # 1. Introduction: Basic Arithmetic and Functions
 
-**Session Preparation:**
+### Session Preparation:
 
 Brooks: [Chapter 1](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing).
 
 We will not be going through the arithmetic part, but we will be doing examples and exercises in arithmetic. So you need to prepare this on your own before classes.
 
-**Session Material:**
+### Session Material:
 
 [Session notes](https://drive.google.com/file/d/1IXTVyUP_TeX4co_uwSSlf6AHYYrln1fL/view?usp=drive_link)
 
@@ -18,7 +18,7 @@ In this first session, we will lay the groundwork for our study of mathematics w
 
 The focus will be on understanding and applying the power rules, radicals, exponents, and logarithms. We will also explore the definition and types of functions, delving into their domains, codomains, and ranges. Finally, we'll introduce the concepts of inverse and composite functions, which will be important for later discussions.
 
-#### Key Concepts:
+### Key Concepts:
 - Introduction to the course
 - Review of basic calculation rules
 - Power rules
@@ -34,4 +34,4 @@ The focus will be on understanding and applying the power rules, radicals, expon
 
 [Notes from recitation](https://drive.google.com/file/d/1wDoPLD34pPfCy0JqtNpFQ9sGq8FMTWM2/view?usp=sharing)
 
-[Exercises for recitation](01_Exercises.md)
+### [Exercises for recitation](01_Exercises_Basic_Arithmetic_and_Functions.md)

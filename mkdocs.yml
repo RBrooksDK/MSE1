@@ -1,0 +1,157 @@
+# Project information
+site_name: Mathematics for Software Engineering
+site_url: https://rbrooksdk.github.io/MSE1
+site_author: Richard Brooks
+site_description: This is the spot for all things related to Mathematics for Software Engineering.
+docs_dir: .
+site_dir: ../site
+
+# Repository information
+repo_name: Github
+repo_url: https://github.com/RBrooksDK/rbrooksdk.github.io
+
+# Copyright
+copyright: Copyright &copy; 2024 Richard Brooks
+
+# Configurations
+theme:
+  name: material
+  # custom_dir: overrides
+  favicon: figures/logo.png
+  logo: figures/logo.png
+  icon:
+    repo: fontawesome/brands/github
+    annotation: material/chevron-right-circle
+  font:
+    text: Roboto
+    code: Red Hat Mono
+  features:
+    - announce.dismiss
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+
+plugins:
+  - same-dir
+  - blog
+  - search
+  
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/mkdocs.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: material/email
+      link: mailto:rib@via.dk
+    - icon: fontawesome/brands/github
+      link: https://github.com/RBrooksDK/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rbrooks-dk/
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: README.md
+  - Overview: /pages/sessions.md
+  - 01 Basic Arithmetic: 01_Getting_started_-_Basic_Arithmetic/README.md
+  - 02 Fundamental Concepts in Number Theory: 02_Fundamental_concepts_in_number_theory/README.md
+  - 03 Numeral Systems: 03_Numeral_systems/README.md
+  - 04 Boolean Algebra: 04_Boolean_Algebra/README.md
+  - 05 Combinatorics and Probability Theory: 05_Combinatorics_and_Probability_Theory/README.md
+  - 06 Conditional Probability and Bayes' Theorem: 06_Conditional_Probability_and_Bayes_Theorem/README.md
+  - 07 Linear Equations in Linear Algebra: 07_Linear_Equations_in_Linear_Algebra/README.md
+  - 08 Vectors and Matrices: 08_Vectors_and_Matrices/README.md
+  - 09 Matrix Algebra and Deteminants: 09_Matrix_Algebra_and_Determinants/README.md
+  - 10 Asymptotic Analysis and Big-O Notation: 10_Asymptotic_analysis_and_Big_O_notation/README.md
+  - 11 Functions and Loops in Programming: 11_Functions_and_Loops_in_Programming/README.md
+  - 12 Exam Preparation and Q & A: 12_Exam_Preparation_and_Q_A/README.md 
+
+  - Handins: /pages/handins.md
+  - FAQ: /pages/faq.md
