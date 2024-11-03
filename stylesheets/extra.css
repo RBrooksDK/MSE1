@@ -1,0 +1,45 @@
+:root {
+    --md-primary-fg-color:        #017802;
+  }
+
+/* Apply the primary color to all Markdown headers */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+    color: var(--md-primary-fg-color);
+}
+
+/* Change the border color for the "answer" admonition */
+.md-typeset .admonition.answer,
+.md-typeset details.answer {
+  border-color: rgb(43, 155, 70); /* Green border for "answer" */
+  outline: none; /* Remove any focus outline */
+  box-shadow: none; /* Remove any default box shadow */
+}
+
+/* Change the background color of the title for "answer" admonitions */
+.md-typeset .answer > .admonition-title,
+.md-typeset .answer > summary {
+  background-color: rgba(43, 155, 70, 0.1); /* Light green background for title */
+  outline: none; /* Remove any focus outline */
+  box-shadow: none; /* Remove any default box shadow */
+}
+
+/* Change the icon color for "answer" admonitions */
+.md-typeset .answer > .admonition-title::before,
+.md-typeset .answer > summary::before {
+  background-color: rgb(43, 155, 70); /* Green icon color */
+  -webkit-mask-image: var(--md-admonition-icon--question); /* Default icon */
+          mask-image: var(--md-admonition-icon--question);
+}
+
+/* Change color for collapsible indicator in "answer" */
+.md-typeset details[open].answer summary::after,
+.md-typeset details.answer summary::after {
+  color: rgb(43, 155, 70); /* Green for collapsible indicator */
+}
+
+
