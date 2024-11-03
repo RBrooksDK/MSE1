@@ -148,5 +148,5 @@ $$
 \end{aligned}
 $$
 
-1. $-2 A, B-2 A, A C, C D$
-2. $A+3 B, 2 C-3 E, D B, E C$
+a. $-2 A, B-2 A, A C, C D$
+b. $A+3 B, 2 C-3 E, D B, E C$
