@@ -608,6 +608,24 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#exercise-5" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exercise 5
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exercise-6" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exercise 6
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -820,6 +838,24 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#exercise-5" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exercise 5
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exercise-6" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exercise 6
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -865,34 +901,9 @@
 </ul>
 <hr />
 <h3 id="exercises-for-recitation">Exercises for recitation<a class="headerlink" href="#exercises-for-recitation" title="Permanent link">&para;</a></h3>
-<p>[P] Means that you are advised to use Python to solve the exercise.</p>
+<p><strong>[P]</strong> Means that you are advised to use Python to solve the exercise.</p>
 <h4 id="exercise-1">Exercise 1<a class="headerlink" href="#exercise-1" title="Permanent link">&para;</a></h4>
-<p class="annotate">a. Find the value of <span class="arithmatex">\(h\)</span> for which the vectors are linearly dependent. (1)</p>
-<ol>
-<li>
-<div class="arithmatex">\[h = -4\]</div>
-</li>
-</ol>
-<div class="arithmatex">\[
-\left[\begin{array}{r}
-2 \\
--2 \\
-4
-\end{array}\right],\left[\begin{array}{r}
-4 \\
--6 \\
-7
-\end{array}\right],\left[\begin{array}{r}
--2 \\
-2 \\
-h
-\end{array}\right]
-\]</div>
-<details class="answer">
-<summary>&nbsp;</summary>
-<p><span class="arithmatex">\(h = -4\)</span></p>
-</details>
-<p class="annotate">b. Determine <em>by inspection</em> whether the following sets of vectors are linearly independent or dependent. Justify each answer.</p>
+<p class="annotate">a. Determine <em>by inspection</em> whether the following sets of vectors are linearly independent or dependent. Justify each answer.</p>
 <p class="annotate">i. <span class="arithmatex">\(\left[\begin{array}{l}5 \\ 1\end{array}\right],\left[\begin{array}{l}2 \\ 8\end{array}\right],\left[\begin{array}{l}1 \\ 3\end{array}\right],\left[\begin{array}{r}-1 \\ 7\end{array}\right]\)</span> (1)</p>
 <ol>
 <li>Dependent</li>
@@ -917,70 +928,8 @@ h
 <ol>
 <li>Dependent</li>
 </ol>
-<details class="answer">
-<summary>&nbsp;</summary>
-<p>i. Linearly dependent</p>
-<p>ii. Linearly dependent</p>
-<p>iii. Linearly dependent</p>
-<p>iv. Linearly dependent</p>
-<p>v. Linearly independent</p>
-<p>vi. Linearly dependent</p>
-</details>
-<p>c. Let <span class="arithmatex">\(A = \left[\begin{array}{cccccc}1 &amp; -4 &amp; -2 &amp; 0 &amp; 3 &amp; -5 \\ 0 &amp; 0 &amp; 1 &amp; 0 &amp; 0 &amp; -1 \\ 0 &amp; 0 &amp; 0 &amp; 0 &amp; 1 &amp; -4 \\ 0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 &amp; 0\end{array}\right]\)</span></p>
-<p class="annotate">Describe all solutions to <span class="arithmatex">\(A \mathbf{x}=\mathbf{0}\)</span> in parametric form. (1)</p>
-<ol>
-<li>
-<p>To describe all solutions to <span class="arithmatex">\(A\mathbf{x}=\mathbf{0}\)</span> in parametric form, we first write the (coefficient) matrix and then reduce it to reduced echelon form:</p>
-<div class="arithmatex">\[
-\left[\begin{array}{cccccc}
-1 &amp; -4 &amp; -2 &amp; 0 &amp; 3 &amp; -5  \\
-0 &amp; 0 &amp; 1 &amp; 0 &amp; 0 &amp; -1  \\
-0 &amp; 0 &amp; 0 &amp; 0 &amp; 1 &amp; -4  \\
-0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 
-\end{array}\right]
-\sim
-\left[\begin{array}{cccccc}
-1 &amp; -4 &amp; 0 &amp; 0 &amp; 0 &amp; 5  \\
-0 &amp; 0 &amp; 1 &amp; 0 &amp; 0 &amp; -1  \\
-0 &amp; 0 &amp; 0 &amp; 0 &amp; 1 &amp; -4  \\
-0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 
-\end{array}\right]
-\]</div>
-<p>Therefore, the solution in parametric form is:</p>
-<div class="arithmatex">\[
-\mathbf{x} = \left[\begin{array}{c}
-x_1 \\
-x_2 \\
-x_3 \\
-x_4 \\
-x_5 \\
-x_6
-\end{array}\right] = x_2 \left[\begin{array}{c}
-4 \\
-1 \\
-0 \\
-0 \\
-0 \\
-0
-\end{array}\right] + x_4 \left[\begin{array}{c}
-0 \\
-0 \\
-0 \\
-1 \\
-0 \\
-0
-\end{array}\right] + x_6 \left[\begin{array}{c}
--5 \\
-0 \\
-1 \\
-0 \\
-4 \\
-1
-\end{array}\right]
-\]</div>
-<p>where <span class="arithmatex">\(x_2\)</span>, <span class="arithmatex">\(x_4\)</span>, and <span class="arithmatex">\(x_6\)</span> are free variables.</p>
-</li>
-</ol>
+<p>b. Let <span class="arithmatex">\(A = \left[\begin{array}{cccccc}1 &amp; -4 &amp; -2 &amp; 0 &amp; 3 &amp; -5 \\ 0 &amp; 0 &amp; 1 &amp; 0 &amp; 0 &amp; -1 \\ 0 &amp; 0 &amp; 0 &amp; 0 &amp; 1 &amp; -4 \\ 0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 &amp; 0\end{array}\right]\)</span></p>
+<p>Describe all solutions to <span class="arithmatex">\(A \mathbf{x}=\mathbf{0}\)</span> in parametric form.</p>
 <details class="answer">
 <summary>&nbsp;</summary>
 <p>To describe all solutions to <span class="arithmatex">\(A\mathbf{x}=\mathbf{0}\)</span> in parametric form, we first write the (coefficient) matrix and then reduce it to reduced echelon form:</p>
@@ -1033,14 +982,8 @@ x_6
 \]</div>
 <p>where <span class="arithmatex">\(x_2\)</span>, <span class="arithmatex">\(x_4\)</span>, and <span class="arithmatex">\(x_6\)</span> are free variables.</p>
 </details>
-<p class="annotate">d. [P] Use as many columns of <span class="arithmatex">\(A\)</span> as possible to construct a matrix <span class="arithmatex">\(B\)</span> with the property that the equation <span class="arithmatex">\(B \mathbf{x}=\mathbf{0}\)</span> has only the trivial solution. Solve <span class="arithmatex">\(B \mathbf{x}=\mathbf{0}\)</span> to verify your work. (1)</p>
-<ol>
-<li>
-<p>When reduced to echelon form, you will have pivots in columns, 1, 2, and 4. Therefore, you   can  use columns 1, 2, and 4 to construct matrix B.</p>
-<p>You can verify your work by solving the equation <span class="arithmatex">\(B \mathbf{x}=\mathbf{0}\)</span> which is done by finding reduced echelon form of <span class="arithmatex">\(B\)</span>. This will give you the trivial solution.</p>
-</li>
-</ol>
-<div class="arithmatex">\[A = \left[\begin{array}{rrrrr}3 &amp; -4 &amp; 10 &amp; 7 &amp; -4 \\ -5 &amp; -3 &amp; -7 &amp; -11 &amp; 15 \\ 4 &amp; 3 &amp; 5 &amp; 2 &amp; 1 \\ 8 &amp; -7 &amp; 23 &amp; 4 &amp; 15\end{array}\right]\]</div>
+<p>c. <strong>[P]</strong> Use as many columns of <span class="arithmatex">\(A\)</span> as possible to construct a matrix <span class="arithmatex">\(B\)</span> with the property that the equation <span class="arithmatex">\(B \mathbf{x}=\mathbf{0}\)</span> has only the trivial solution. Solve <span class="arithmatex">\(B \mathbf{x}=\mathbf{0}\)</span> to verify your work.</p>
+<p><span class="arithmatex">\(A=\left[\begin{array}{rrrrr}3 &amp; -4 &amp; 10 &amp; 7 &amp; -4 \\ -5 &amp; -3 &amp; -7 &amp; -11 &amp; 15 \\ 4 &amp; 3 &amp; 5 &amp; 2 &amp; 1 \\ 8 &amp; -7 &amp; 23 &amp; 4 &amp; 15\end{array}\right]\)</span></p>
 <details class="answer">
 <summary>&nbsp;</summary>
 <p>When reduced to echelon form, you will have pivots in columns, 1, 2, and 4. Therefore, you can use columns 1, 2, and 4 to construct matrix B.</p>
@@ -1069,7 +1012,7 @@ x_6
 \end{array}\right]
 \end{aligned}
 \]</div>
-<p>a. <span class="arithmatex">\(-2 A, B-2 A, A C, C D\)</span></p>
+<p>a. <span class="arithmatex">\(-2 A, \; B-2 A, \; A C, \; C D\)</span></p>
 <details class="answer">
 <summary>&nbsp;</summary>
 <p><span class="arithmatex">\(-2 A=(-2)\left[\begin{array}{rrr}2 &amp; 0 &amp; -1 \\ 4 &amp; -5 &amp; 2\end{array}\right]=\left[\begin{array}{rrr}-4 &amp; 0 &amp; 2 \\ -8 &amp; 10 &amp; -4\end{array}\right]\)</span>. Next, use <span class="arithmatex">\(B-2 A=B+(-2 A)\)</span> :</p>
@@ -1087,7 +1030,7 @@ x_6
 \]</div>
 <p>The product <span class="arithmatex">\(A C\)</span> is not defined because the number of columns of <span class="arithmatex">\(A\)</span> does not match the number of rows of <span class="arithmatex">\(C . C D=\left[\begin{array}{rr}1 &amp; 2 \\ -2 &amp; 1\end{array}\right]\left[\begin{array}{rr}3 &amp; 5 \\ -1 &amp; 4\end{array}\right]=\left[\begin{array}{rr}1 \cdot 3+2(-1) &amp; 1 \cdot 5+2 \cdot 4 \\ -2 \cdot 3+1(-1) &amp; -2 \cdot 5+1 \cdot 4\end{array}\right]=\left[\begin{array}{rr}1 &amp; 13 \\ -7 &amp; -6\end{array}\right]\)</span>. For mental computation, the row-column rule is probably easier to use than the definition.</p>
 </details>
-<p>b. [P] <span class="arithmatex">\(A+3 B, 2 C-3 E, D B, E C\)</span></p>
+<p>b. <strong>[P]</strong> <span class="arithmatex">\(A+3 B, \; 2 C-3 E, \; D B, \; E C\)</span></p>
 <details class="answer">
 <summary>&nbsp;</summary>
 <div class="arithmatex">\[
@@ -1123,7 +1066,7 @@ D B=\left[\begin{array}{rr}
 \]</div>
 <p>The product <span class="arithmatex">\(E C\)</span> is not defined because the number of columns of <span class="arithmatex">\(E\)</span> does not match the number of rows of <span class="arithmatex">\(C\)</span>.</p>
 </details>
-<p>c. Let <span class="arithmatex">\(A=\left[\begin{array}{rr}3 &amp; -6 \\ -1 &amp; 2\end{array}\right], B=\left[\begin{array}{rr}-1 &amp; 1 \\ 3 &amp; 4\end{array}\right]\)</span>, and <span class="arithmatex">\(C= \left[\begin{array}{rr}-3 &amp; -5 \\ 2 &amp; 1\end{array}\right]\)</span>. Verify that <span class="arithmatex">\(A B=A C\)</span> and yet <span class="arithmatex">\(B \neq C\)</span>.</p>
+<p>c. <strong>[P]</strong> Let <span class="arithmatex">\(A=\left[\begin{array}{rr}3 &amp; -6 \\ -1 &amp; 2\end{array}\right], B=\left[\begin{array}{rr}-1 &amp; 1 \\ 3 &amp; 4\end{array}\right]\)</span>, and <span class="arithmatex">\(C= \left[\begin{array}{rr}-3 &amp; -5 \\ 2 &amp; 1\end{array}\right]\)</span>. Verify that <span class="arithmatex">\(A B=A C\)</span> and yet <span class="arithmatex">\(B \neq C\)</span>.</p>
 <details class="answer">
 <summary>&nbsp;</summary>
 <p>To verify that <span class="arithmatex">\( AB = AC \)</span> but <span class="arithmatex">\( B \neq C \)</span>, we compute <span class="arithmatex">\( AB \)</span> and <span class="arithmatex">\( AC \)</span> and compare them.</p>
@@ -1142,16 +1085,7 @@ AC = \left[\begin{array}{rr} 3 &amp; -6 \\ -1 &amp; 2 \end{array}\right] \left[\
 <p>Since <span class="arithmatex">\( AB = \left[\begin{array}{rr} -21 &amp; -21 \\ 7 &amp; 7 \end{array}\right] = AC \)</span>, we conclude <span class="arithmatex">\( AB = AC \)</span>.</p>
 <p>Thus, <span class="arithmatex">\( AB = AC \)</span> but <span class="arithmatex">\( B \neq C \)</span>.</p>
 </details>
-<p>d. Let <span class="arithmatex">\(A=\left[\begin{array}{rr}3 &amp; -6 \\ -2 &amp; 4\end{array}\right]\)</span>. Construct a <span class="arithmatex">\(2 \times 2\)</span> matrix <span class="arithmatex">\(B\)</span> such that <span class="arithmatex">\(A B\)</span> is the zero matrix. Use two different nonzero columns for <span class="arithmatex">\(B\)</span>.</p>
-<details class="answer">
-<summary>&nbsp;</summary>
-<p>Multiple solutions exists for this problem.</p>
-<p>Consider <span class="arithmatex">\(B=\left[\begin{array}{ll}\mathbf{b}_1 &amp; \mathbf{b}_2\end{array}\right]\)</span>. To make <span class="arithmatex">\(A B=0\)</span>, one needs <span class="arithmatex">\(A \mathbf{b}_1=\mathbf{0}\)</span> and <span class="arithmatex">\(A \mathbf{b}_2=\mathbf{0}\)</span>. By inspection of <span class="arithmatex">\(A\)</span>, a suitable <span class="arithmatex">\(\mathbf{b}_1\)</span> is <span class="arithmatex">\(\left[\begin{array}{l}2 \\ 1\end{array}\right]\)</span>, or any multiple of <span class="arithmatex">\(\left[\begin{array}{l}2 \\ 1\end{array}\right]\)</span>. Example: <span class="arithmatex">\(B=\left[\begin{array}{ll}2 &amp; 6 \\ 1 &amp; 3\end{array}\right]\)</span>.</p>
-<p>We see this since:</p>
-<p>Solving <span class="arithmatex">\( A \begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 0 \\ 0 \end{bmatrix} \)</span>, we get:</p>
-<p><span class="arithmatex">\(3x - 6y = 0 \quad \Rightarrow \quad x = 2y\)</span></p>
-</details>
-<p>e. If <span class="arithmatex">\(A=\left[\begin{array}{rr}1 &amp; -3 \\ -3 &amp; 5\end{array}\right]\)</span> and <span class="arithmatex">\(A B=\left[\begin{array}{rr}-3 &amp; -11 \\ 1 &amp; 17\end{array}\right]\)</span>, determine the matrix <span class="arithmatex">\(B\)</span>.</p>
+<p>d. <strong>[P]</strong> If <span class="arithmatex">\(A=\left[\begin{array}{rr}1 &amp; -3 \\ -3 &amp; 5\end{array}\right]\)</span> and <span class="arithmatex">\(A B=\left[\begin{array}{rr}-3 &amp; -11 \\ 1 &amp; 17\end{array}\right]\)</span>, determine the matrix <span class="arithmatex">\(B\)</span>.</p>
 <details class="answer">
 <summary>&nbsp;</summary>
 <p>Since <span class="arithmatex">\(\left[\begin{array}{rr}-3 &amp; -11 \\ 1 &amp; 17\end{array}\right]=A B=\left[\begin{array}{ll}A \mathbf{b}_1 &amp; A \mathbf{b}_2\end{array}\right]\)</span>, the first column of <span class="arithmatex">\(B\)</span> satisfies the equation <span class="arithmatex">\(A \mathbf{x}=\left[\begin{array}{r}-1 \\ 6\end{array}\right]\)</span>. Row reduction: <span class="arithmatex">\(\left[\begin{array}{ll}A &amp; A \mathbf{b}_1\end{array}\right] \sim\left[\begin{array}{rrr}1 &amp; -3 &amp; -3 \\ -3 &amp; 5 &amp; 1\end{array}\right] \sim\left[\begin{array}{lll}1 &amp; 0 &amp; 3 \\ 0 &amp; 1 &amp; 2\end{array}\right]\)</span>. So <span class="arithmatex">\(\mathbf{b}_1=\left[\begin{array}{l}3 \\ 2\end{array}\right]\)</span>. Similarly, <span class="arithmatex">\(\left[\begin{array}{ll}A &amp; A \mathbf{b}_2\end{array}\right] \sim\left[\begin{array}{rrr}1 &amp; -3 &amp; -11 \\ -3 &amp; 5 &amp; 17\end{array}\right] \sim\left[\begin{array}{lll}1 &amp; 0 &amp; 1 \\ 0 &amp; 1 &amp; 4\end{array}\right]\)</span> and <span class="arithmatex">\(\mathbf{b}_2=\left[\begin{array}{l}1 \\ 4\end{array}\right]\)</span>.</p>
@@ -1164,7 +1098,7 @@ AC = \left[\begin{array}{rr} 3 &amp; -6 \\ -1 &amp; 2 \end{array}\right] \left[\
 <p><span class="arithmatex">\(\left[\begin{array}{ll}8 &amp; 6 \\ 5 &amp; 4\end{array}\right]^{-1}=\frac{1}{32-30}\left[\begin{array}{rr}4 &amp; -6 \\ -5 &amp; 8\end{array}\right]=\left[\begin{array}{cr}2 &amp; -3 \\ -5 / 2 &amp; 4\end{array}\right]\)</span></p>
 <p><span class="arithmatex">\(\left[\begin{array}{ll}3 &amp; 2 \\ 8 &amp; 5\end{array}\right]^{-1}=\frac{1}{15-16}\left[\begin{array}{rr}5 &amp; -2 \\ -8 &amp; 3\end{array}\right]=\left[\begin{array}{cc}-5 &amp; 2 \\ 8 &amp; -3\end{array}\right]\)</span></p>
 </details>
-<p>b. [P] Use the inverse found in Exercise 3.a to solve the system</p>
+<p>b. <strong>[P]</strong> Use the inverse found in Exercise 3.a to solve the system</p>
 <p><span class="arithmatex">\(\begin{aligned}
 &amp; 8 x_1+6 x_2=2 \\
 &amp; 5 x_1+4 x_2=-1
@@ -1173,7 +1107,7 @@ AC = \left[\begin{array}{rr} 3 &amp; -6 \\ -1 &amp; 2 \end{array}\right] \left[\
 <summary>&nbsp;</summary>
 <p>The system is equivalent to <span class="arithmatex">\(A \mathbf{x}=\mathbf{b}\)</span>, where <span class="arithmatex">\(A=\left[\begin{array}{ll}8 &amp; 6 \\ 5 &amp; 4\end{array}\right]\)</span> and <span class="arithmatex">\(\mathbf{b}=\left[\begin{array}{r}2 \\ -1\end{array}\right]\)</span>, and the solution is <span class="arithmatex">\(\mathbf{x}=A^{-1} \mathbf{b}=\left[\begin{array}{cr}2 &amp; -3 \\ -5 / 2 &amp; 4\end{array}\right]\left[\begin{array}{r}2 \\ -1\end{array}\right]=\left[\begin{array}{r}7 \\ -9\end{array}\right]\)</span>. Thus <span class="arithmatex">\(x_1=7\)</span> and <span class="arithmatex">\(x_2=-9\)</span>.</p>
 </details>
-<p>c. [P] Find the inverse of the matrix. Use the algorithm for finding the inverse of a <span class="arithmatex">\(n \times n\)</span> matrix.</p>
+<p>c. <strong>[P]</strong> Find the inverse of the matrix. Use the algorithm for finding the inverse of a <span class="arithmatex">\(n \times n\)</span> matrix.</p>
 <p><span class="arithmatex">\(\left[\begin{array}{rrr}
 1 &amp; 0 &amp; -2 \\
 -3 &amp; 1 &amp; 4 \\
@@ -1221,10 +1155,63 @@ A &amp; I
 <ol>
 <li>True</li>
 </ol>
-<p>b. If the columns of <span class="arithmatex">\(A\)</span> span <span class="arithmatex">\(\mathbb{R}^n\)</span>, then the columns are linearly independent.</p>
-<p>c. If <span class="arithmatex">\(A\)</span> is an <span class="arithmatex">\(n \times n\)</span> matrix, then the equation <span class="arithmatex">\(A \mathbf{x}=\mathbf{b}\)</span> has at least one solution for each <span class="arithmatex">\(\mathbf{b}\)</span> in <span class="arithmatex">\(\mathbb{R}^n\)</span>.</p>
-<p>d. If the equation <span class="arithmatex">\(A \mathbf{x}=\mathbf{0}\)</span> has a nontrivial solution, then <span class="arithmatex">\(A\)</span> has fewer than <span class="arithmatex">\(n\)</span> pivot positions.</p>
-<p>e. If <span class="arithmatex">\(A^T\)</span> is not invertible, then <span class="arithmatex">\(A\)</span> is not invertible.</p>
+<p class="annotate">b. If the columns of <span class="arithmatex">\(A\)</span> span <span class="arithmatex">\(\mathbb{R}^n\)</span>, then the columns are linearly independent.  (1)</p>
+<ol>
+<li>True</li>
+</ol>
+<p class="annotate">c. If <span class="arithmatex">\(A\)</span> is an <span class="arithmatex">\(n \times n\)</span> matrix, then the equation <span class="arithmatex">\(A \mathbf{x}=\mathbf{b}\)</span> has at least one solution for each <span class="arithmatex">\(\mathbf{b}\)</span> in <span class="arithmatex">\(\mathbb{R}^n\)</span>. (1)</p>
+<ol>
+<li>False</li>
+</ol>
+<p class="annotate">d. If the equation <span class="arithmatex">\(A \mathbf{x}=\mathbf{0}\)</span> has a nontrivial solution, then <span class="arithmatex">\(A\)</span> has fewer than <span class="arithmatex">\(n\)</span> pivot positions. (1)</p>
+<ol>
+<li>True</li>
+</ol>
+<p class="annotate">e. If <span class="arithmatex">\(A^T\)</span> is not invertible, then <span class="arithmatex">\(A\)</span> is not invertible.  (1)</p>
+<ol>
+<li>True</li>
+</ol>
+<h4 id="exercise-5">Exercise 5<a class="headerlink" href="#exercise-5" title="Permanent link">&para;</a></h4>
+<p><strong>[P]</strong> Given</p>
+<p><span class="arithmatex">\(A=\left[\begin{array}{ccc}1 &amp; 0 &amp; 0 \\ 0 &amp; 3 &amp; 0 \\ 0 &amp; 0 &amp; -3\end{array}\right]\)</span> and <span class="arithmatex">\(B=\left[\begin{array}{ccc}1 &amp; 1 &amp; 1 \\ 1 &amp; 1 &amp; 1 \\ 1 &amp; 1 &amp; 1\end{array}\right]\)</span>.</p>
+<p>Solve the matrix equation <span class="arithmatex">\(X+A=2(X-B)\)</span>.</p>
+<details class="answer">
+<summary>&nbsp;</summary>
+<p>The matrix equation <span class="arithmatex">\(X+A=2(X-B)\)</span> can be rewritten as <span class="arithmatex">\(X+A=2 X-2 B\)</span>. Rearranging terms, we get <span class="arithmatex">\(X-2 X=-A-2 B\)</span>. Simplifying, we have <span class="arithmatex">\(-X=-A-2 B\)</span>. Multiplying by <span class="arithmatex">\(-1\)</span>, we get <span class="arithmatex">\(X=A+2 B\)</span>.</p>
+<p>Substituting the given matrices <span class="arithmatex">\(A\)</span> and <span class="arithmatex">\(B\)</span> into the equation, we have:</p>
+<div class="arithmatex">\[
+X=\left[\begin{array}{ccc}1 &amp; 0 &amp; 0 \\ 0 &amp; 3 &amp; 0 \\ 0 &amp; 0 &amp; -3\end{array}\right]+2\left[\begin{array}{ccc}1 &amp; 1 &amp; 1 \\ 1 &amp; 1 &amp; 1 \\ 1 &amp; 1 &amp; 1\end{array}\right]=\left[\begin{array}{ccc}1+2 &amp; 0+2 &amp; 0+2 \\ 0+6 &amp; 3+2 &amp; 0+2 \\ 0-6 &amp; 0+2 &amp; -3+2\end{array}\right]=\left[\begin{array}{ccc}3 &amp; 2 &amp; 2 \\ 6 &amp; 5 &amp; 2 \\ -6 &amp; 2 &amp; -1\end{array}\right]
+\]</div>
+<p>Therefore, the solution to the matrix equation <span class="arithmatex">\(X+A=2(X-B)\)</span> is <span class="arithmatex">\(X=\left[\begin{array}{ccc}3 &amp; 2 &amp; 2 \\ 6 &amp; 5 &amp; 2 \\ -6 &amp; 2 &amp; -1\end{array}\right]\)</span>.</p>
+</details>
+<h4 id="exercise-6">Exercise 6<a class="headerlink" href="#exercise-6" title="Permanent link">&para;</a></h4>
+<p><strong>[P]</strong> Let the matrix <span class="arithmatex">\(A\)</span> be given by</p>
+<p><span class="arithmatex">\(A=\left[\begin{array}{cc}
+3-2 q &amp; 1 \\
+4 &amp; 3+2 q
+\end{array}\right]\)</span></p>
+<p>where <span class="arithmatex">\(q\)</span> is a scalar. Calculate <span class="arithmatex">\(q\)</span> so that</p>
+<p><span class="arithmatex">\(A^2=\left[\begin{array}{cc}
+29 &amp; 6 \\
+24 &amp; 125
+\end{array}\right]\)</span></p>
+<details class="answer">
+<summary>&nbsp;</summary>
+<p>Let
+<span class="arithmatex">\(A = \begin{bmatrix} 3 - 2q &amp; 1 \\ 4 &amp; 3 + 2q \end{bmatrix}.\)</span></p>
+<p>Then,
+<span class="arithmatex">\(A^2 = \begin{bmatrix} (3 - 2q)^2 + 4 &amp; 6 \\ 24 &amp; (3 + 2q)^2 + 4 \end{bmatrix}.\)</span>
+Since <span class="arithmatex">\( A^2 = \begin{bmatrix} 29 &amp; 6 \\ 24 &amp; 125 \end{bmatrix} \)</span>, we have:</p>
+<p><span class="arithmatex">\((3 - 2q)^2 + 4 = 29 \Rightarrow \)</span>  <span class="arithmatex">\((3 - 2q)^2 = 25 \Rightarrow 3 - 2q = \pm 5\)</span></p>
+<p><strong>Case 1:</strong> <span class="arithmatex">\(3 - 2q = 5 \Rightarrow q = -1\)</span>.</p>
+<p><strong>Case 2:</strong> <span class="arithmatex">\(3 - 2q = -5 \Rightarrow q = 4\)</span>.</p>
+<p>Check:
+For <span class="arithmatex">\(q = -1\)</span>, we have:
+<span class="arithmatex">\(A^2=\left[\begin{array}{ll}5 &amp; 1 \\ 4 &amp; 1\end{array}\right]\left[\begin{array}{ll}5 &amp; 1 \\ 4 &amp; 1\end{array}\right]=\left[\begin{array}{ll}29 &amp; 6 \\ 24 &amp; 9\end{array}\right]\)</span></p>
+<p>For <span class="arithmatex">\(q = 4\)</span>, we have:
+<span class="arithmatex">\(A^2=\left[\begin{array}{cc}-5 &amp; 1 \\ 4 &amp; 11\end{array}\right]\left[\begin{array}{cc}-5 &amp; 1 \\ 4 &amp; 11\end{array}\right]=\left[\begin{array}{cc}29 &amp; 6 \\ 24 &amp; 125\end{array}\right]\)</span></p>
+<p>So only <span class="arithmatex">\(q = 4\)</span> satisfies the equation.</p>
+</details>
 
 
 
