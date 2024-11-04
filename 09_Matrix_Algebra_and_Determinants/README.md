@@ -28,34 +28,10 @@ In this session, we will delve into the foundational aspects of matrix algebra. 
 
 ### Exercises for recitation
 
-[P] Means that you are advised to use Python to solve the exercise.
+**[P]** Means that you are advised to use Python to solve the exercise.
 
 #### Exercise 1
-a. Find the value of $h$ for which the vectors are linearly dependent. (1)
-{ .annotate }
-
-1. $$h = -4$$
-
-$$
-\left[\begin{array}{r}
-2 \\
--2 \\
-4
-\end{array}\right],\left[\begin{array}{r}
-4 \\
--6 \\
-7
-\end{array}\right],\left[\begin{array}{r}
--2 \\
-2 \\
-h
-\end{array}\right]
-$$
-
-??? answer "&nbsp;"
-    $h = -4$
-
-b. Determine *by inspection* whether the following sets of vectors are linearly independent or dependent. Justify each answer.
+a. Determine *by inspection* whether the following sets of vectors are linearly independent or dependent. Justify each answer.
 { .annotate }
 
 i. $\left[\begin{array}{l}5 \\ 1\end{array}\right],\left[\begin{array}{l}2 \\ 8\end{array}\right],\left[\begin{array}{l}1 \\ 3\end{array}\right],\left[\begin{array}{r}-1 \\ 7\end{array}\right]$ (1)
@@ -88,78 +64,9 @@ vi. $\left[\begin{array}{r}1 \\ 4 \\ -7\end{array}\right],\left[\begin{array}{r}
 
 1. Dependent
 
-??? answer "&nbsp;"
+b. Let $A = \left[\begin{array}{cccccc}1 & -4 & -2 & 0 & 3 & -5 \\ 0 & 0 & 1 & 0 & 0 & -1 \\ 0 & 0 & 0 & 0 & 1 & -4 \\ 0 & 0 & 0 & 0 & 0 & 0\end{array}\right]$
 
-    i. Linearly dependent
-
-    ii. Linearly dependent
-
-    iii. Linearly dependent
-
-    iv. Linearly dependent
-
-    v. Linearly independent
-
-    vi. Linearly dependent
-
-c. Let $A = \left[\begin{array}{cccccc}1 & -4 & -2 & 0 & 3 & -5 \\ 0 & 0 & 1 & 0 & 0 & -1 \\ 0 & 0 & 0 & 0 & 1 & -4 \\ 0 & 0 & 0 & 0 & 0 & 0\end{array}\right]$
-
-Describe all solutions to $A \mathbf{x}=\mathbf{0}$ in parametric form. (1)
-{ .annotate }
-
-1.  To describe all solutions to $A\mathbf{x}=\mathbf{0}$ in parametric form, we first write the (coefficient) matrix and then reduce it to reduced echelon form:
-
-    $$
-    \left[\begin{array}{cccccc}
-    1 & -4 & -2 & 0 & 3 & -5  \\
-    0 & 0 & 1 & 0 & 0 & -1  \\
-    0 & 0 & 0 & 0 & 1 & -4  \\
-    0 & 0 & 0 & 0 & 0 & 0 
-    \end{array}\right]
-    \sim
-    \left[\begin{array}{cccccc}
-    1 & -4 & 0 & 0 & 0 & 5  \\
-    0 & 0 & 1 & 0 & 0 & -1  \\
-    0 & 0 & 0 & 0 & 1 & -4  \\
-    0 & 0 & 0 & 0 & 0 & 0 
-    \end{array}\right]
-    $$
-
-    Therefore, the solution in parametric form is:
-
-    $$
-    \mathbf{x} = \left[\begin{array}{c}
-    x_1 \\
-    x_2 \\
-    x_3 \\
-    x_4 \\
-    x_5 \\
-    x_6
-    \end{array}\right] = x_2 \left[\begin{array}{c}
-    4 \\
-    1 \\
-    0 \\
-    0 \\
-    0 \\
-    0
-    \end{array}\right] + x_4 \left[\begin{array}{c}
-    0 \\
-    0 \\
-    0 \\
-    1 \\
-    0 \\
-    0
-    \end{array}\right] + x_6 \left[\begin{array}{c}
-    -5 \\
-    0 \\
-    1 \\
-    0 \\
-    4 \\
-    1
-    \end{array}\right]
-    $$
-
-    where $x_2$, $x_4$, and $x_6$ are free variables.
+Describe all solutions to $A \mathbf{x}=\mathbf{0}$ in parametric form.
 
 ??? answer "&nbsp;"
 
@@ -217,15 +124,9 @@ Describe all solutions to $A \mathbf{x}=\mathbf{0}$ in parametric form. (1)
 
     where $x_2$, $x_4$, and $x_6$ are free variables.
 
-d. [P] Use as many columns of $A$ as possible to construct a matrix $B$ with the property that the equation $B \mathbf{x}=\mathbf{0}$ has only the trivial solution. Solve $B \mathbf{x}=\mathbf{0}$ to verify your work. (1)
-{ .annotate }
+c. **[P]** Use as many columns of $A$ as possible to construct a matrix $B$ with the property that the equation $B \mathbf{x}=\mathbf{0}$ has only the trivial solution. Solve $B \mathbf{x}=\mathbf{0}$ to verify your work.
 
-   1. When reduced to echelon form, you will have pivots in columns, 1, 2, and 4. Therefore, you   can  use columns 1, 2, and 4 to construct matrix B.
-
-    You can verify your work by solving the equation $B \mathbf{x}=\mathbf{0}$ which is done by finding reduced echelon form of $B$. This will give you the trivial solution.
-
-
-$$A = \left[\begin{array}{rrrrr}3 & -4 & 10 & 7 & -4 \\ -5 & -3 & -7 & -11 & 15 \\ 4 & 3 & 5 & 2 & 1 \\ 8 & -7 & 23 & 4 & 15\end{array}\right]$$
+$A=\left[\begin{array}{rrrrr}3 & -4 & 10 & 7 & -4 \\ -5 & -3 & -7 & -11 & 15 \\ 4 & 3 & 5 & 2 & 1 \\ 8 & -7 & 23 & 4 & 15\end{array}\right]$
 
 ??? answer "&nbsp;"
 
@@ -259,7 +160,7 @@ $$
 \end{aligned}
 $$
 
-a. $-2 A, B-2 A, A C, C D$
+a. $-2 A, \; B-2 A, \; A C, \; C D$
 
 ??? answer "&nbsp;"
 
@@ -282,7 +183,7 @@ a. $-2 A, B-2 A, A C, C D$
     The product $A C$ is not defined because the number of columns of $A$ does not match the number of rows of $C . C D=\left[\begin{array}{rr}1 & 2 \\ -2 & 1\end{array}\right]\left[\begin{array}{rr}3 & 5 \\ -1 & 4\end{array}\right]=\left[\begin{array}{rr}1 \cdot 3+2(-1) & 1 \cdot 5+2 \cdot 4 \\ -2 \cdot 3+1(-1) & -2 \cdot 5+1 \cdot 4\end{array}\right]=\left[\begin{array}{rr}1 & 13 \\ -7 & -6\end{array}\right]$. For mental computation, the row-column rule is probably easier to use than the definition.
 
 
-b. [P] $A+3 B, 2 C-3 E, D B, E C$
+b. **[P]** $A+3 B, \; 2 C-3 E, \; D B, \; E C$
 
 ??? answer "&nbsp;"
 
@@ -322,7 +223,7 @@ b. [P] $A+3 B, 2 C-3 E, D B, E C$
 
     The product $E C$ is not defined because the number of columns of $E$ does not match the number of rows of $C$.
 
-c. Let $A=\left[\begin{array}{rr}3 & -6 \\ -1 & 2\end{array}\right], B=\left[\begin{array}{rr}-1 & 1 \\ 3 & 4\end{array}\right]$, and $C= \left[\begin{array}{rr}-3 & -5 \\ 2 & 1\end{array}\right]$. Verify that $A B=A C$ and yet $B \neq C$.
+c. **[P]** Let $A=\left[\begin{array}{rr}3 & -6 \\ -1 & 2\end{array}\right], B=\left[\begin{array}{rr}-1 & 1 \\ 3 & 4\end{array}\right]$, and $C= \left[\begin{array}{rr}-3 & -5 \\ 2 & 1\end{array}\right]$. Verify that $A B=A C$ and yet $B \neq C$.
 
 ??? answer "&nbsp;"
 
@@ -350,21 +251,7 @@ c. Let $A=\left[\begin{array}{rr}3 & -6 \\ -1 & 2\end{array}\right], B=\left[\be
 
     Thus, \( AB = AC \) but \( B \neq C \).
 
-d. Let $A=\left[\begin{array}{rr}3 & -6 \\ -2 & 4\end{array}\right]$. Construct a $2 \times 2$ matrix $B$ such that $A B$ is the zero matrix. Use two different nonzero columns for $B$.
-
-??? answer "&nbsp;"
-
-    Multiple solutions exists for this problem.
-
-    Consider $B=\left[\begin{array}{ll}\mathbf{b}_1 & \mathbf{b}_2\end{array}\right]$. To make $A B=0$, one needs $A \mathbf{b}_1=\mathbf{0}$ and $A \mathbf{b}_2=\mathbf{0}$. By inspection of $A$, a suitable $\mathbf{b}_1$ is $\left[\begin{array}{l}2 \\ 1\end{array}\right]$, or any multiple of $\left[\begin{array}{l}2 \\ 1\end{array}\right]$. Example: $B=\left[\begin{array}{ll}2 & 6 \\ 1 & 3\end{array}\right]$.
-
-    We see this since:
-
-    Solving \( A \begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 0 \\ 0 \end{bmatrix} \), we get:
-
-    $3x - 6y = 0 \quad \Rightarrow \quad x = 2y$
-
-e. If $A=\left[\begin{array}{rr}1 & -3 \\ -3 & 5\end{array}\right]$ and $A B=\left[\begin{array}{rr}-3 & -11 \\ 1 & 17\end{array}\right]$, determine the matrix $B$.
+d. **[P]** If $A=\left[\begin{array}{rr}1 & -3 \\ -3 & 5\end{array}\right]$ and $A B=\left[\begin{array}{rr}-3 & -11 \\ 1 & 17\end{array}\right]$, determine the matrix $B$.
 
 ??? answer "&nbsp;"
 
@@ -382,7 +269,7 @@ a. Find the inverses of $\begin{array}{cc}{\left[\begin{array}{l}8 \\ 5\end{arra
     
     $\left[\begin{array}{ll}3 & 2 \\ 8 & 5\end{array}\right]^{-1}=\frac{1}{15-16}\left[\begin{array}{rr}5 & -2 \\ -8 & 3\end{array}\right]=\left[\begin{array}{cc}-5 & 2 \\ 8 & -3\end{array}\right]$
 
-b. [P] Use the inverse found in Exercise 3.a to solve the system
+b. **[P]** Use the inverse found in Exercise 3.a to solve the system
 
 $\begin{aligned}
 & 8 x_1+6 x_2=2 \\
@@ -392,7 +279,7 @@ $\begin{aligned}
 ??? answer "&nbsp;"
     The system is equivalent to $A \mathbf{x}=\mathbf{b}$, where $A=\left[\begin{array}{ll}8 & 6 \\ 5 & 4\end{array}\right]$ and $\mathbf{b}=\left[\begin{array}{r}2 \\ -1\end{array}\right]$, and the solution is $\mathbf{x}=A^{-1} \mathbf{b}=\left[\begin{array}{cr}2 & -3 \\ -5 / 2 & 4\end{array}\right]\left[\begin{array}{r}2 \\ -1\end{array}\right]=\left[\begin{array}{r}7 \\ -9\end{array}\right]$. Thus $x_1=7$ and $x_2=-9$.
 
-c. [P] Find the inverse of the matrix. Use the algorithm for finding the inverse of a $n \times n$ matrix.
+c. **[P]** Find the inverse of the matrix. Use the algorithm for finding the inverse of a $n \times n$ matrix.
 
 $\left[\begin{array}{rrr}
 1 & 0 & -2 \\
@@ -445,10 +332,81 @@ a. If the equation $A \mathbf{x}=\mathbf{0}$ has only the trivial solution, then
 
 1. True
 
-b. If the columns of $A$ span $\mathbb{R}^n$, then the columns are linearly independent.
+b. If the columns of $A$ span $\mathbb{R}^n$, then the columns are linearly independent.  (1)
+{ .annotate }
 
-c. If $A$ is an $n \times n$ matrix, then the equation $A \mathbf{x}=\mathbf{b}$ has at least one solution for each $\mathbf{b}$ in $\mathbb{R}^n$.
+1. True
 
-d. If the equation $A \mathbf{x}=\mathbf{0}$ has a nontrivial solution, then $A$ has fewer than $n$ pivot positions.
+c. If $A$ is an $n \times n$ matrix, then the equation $A \mathbf{x}=\mathbf{b}$ has at least one solution for each $\mathbf{b}$ in $\mathbb{R}^n$. (1)
+{ .annotate }
 
-e. If $A^T$ is not invertible, then $A$ is not invertible.
+1. False
+
+d. If the equation $A \mathbf{x}=\mathbf{0}$ has a nontrivial solution, then $A$ has fewer than $n$ pivot positions. (1)
+{ .annotate }
+
+1. True
+
+e. If $A^T$ is not invertible, then $A$ is not invertible.  (1)
+{ .annotate }
+
+1. True
+
+#### Exercise 5
+**[P]** Given
+
+$A=\left[\begin{array}{ccc}1 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & -3\end{array}\right]$ and $B=\left[\begin{array}{ccc}1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1\end{array}\right]$.
+
+Solve the matrix equation $X+A=2(X-B)$.
+
+??? answer "&nbsp;"
+
+    The matrix equation $X+A=2(X-B)$ can be rewritten as $X+A=2 X-2 B$. Rearranging terms, we get $X-2 X=-A-2 B$. Simplifying, we have $-X=-A-2 B$. Multiplying by $-1$, we get $X=A+2 B$.
+
+    Substituting the given matrices $A$ and $B$ into the equation, we have:
+
+    $$
+    X=\left[\begin{array}{ccc}1 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & -3\end{array}\right]+2\left[\begin{array}{ccc}1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1\end{array}\right]=\left[\begin{array}{ccc}1+2 & 0+2 & 0+2 \\ 0+6 & 3+2 & 0+2 \\ 0-6 & 0+2 & -3+2\end{array}\right]=\left[\begin{array}{ccc}3 & 2 & 2 \\ 6 & 5 & 2 \\ -6 & 2 & -1\end{array}\right]
+    $$
+
+    Therefore, the solution to the matrix equation $X+A=2(X-B)$ is $X=\left[\begin{array}{ccc}3 & 2 & 2 \\ 6 & 5 & 2 \\ -6 & 2 & -1\end{array}\right]$.
+
+#### Exercise 6
+
+**[P]** Let the matrix $A$ be given by
+
+$A=\left[\begin{array}{cc}
+3-2 q & 1 \\
+4 & 3+2 q
+\end{array}\right]$
+
+where $q$ is a scalar. Calculate $q$ so that
+
+$A^2=\left[\begin{array}{cc}
+29 & 6 \\
+24 & 125
+\end{array}\right]$
+
+??? answer "&nbsp;"
+
+    Let
+    $A = \begin{bmatrix} 3 - 2q & 1 \\ 4 & 3 + 2q \end{bmatrix}.$
+
+    Then,
+    $A^2 = \begin{bmatrix} (3 - 2q)^2 + 4 & 6 \\ 24 & (3 + 2q)^2 + 4 \end{bmatrix}.$
+    Since \( A^2 = \begin{bmatrix} 29 & 6 \\ 24 & 125 \end{bmatrix} \), we have:
+
+    \((3 - 2q)^2 + 4 = 29 \Rightarrow \)  $(3 - 2q)^2 = 25 \Rightarrow 3 - 2q = \pm 5$
+    
+    **Case 1:** \(3 - 2q = 5 \Rightarrow q = -1\).
+
+    **Case 2:** \(3 - 2q = -5 \Rightarrow q = 4\).
+
+    Check:
+    For \(q = -1\), we have:
+    $A^2=\left[\begin{array}{ll}5 & 1 \\ 4 & 1\end{array}\right]\left[\begin{array}{ll}5 & 1 \\ 4 & 1\end{array}\right]=\left[\begin{array}{ll}29 & 6 \\ 24 & 9\end{array}\right]$
+
+    For \(q = 4\), we have:
+    $A^2=\left[\begin{array}{cc}-5 & 1 \\ 4 & 11\end{array}\right]\left[\begin{array}{cc}-5 & 1 \\ 4 & 11\end{array}\right]=\left[\begin{array}{cc}29 & 6 \\ 24 & 125\end{array}\right]$
+
+    So only \(q = 4\) satisfies the equation.
