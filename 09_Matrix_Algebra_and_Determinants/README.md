@@ -363,13 +363,25 @@ Solve the matrix equation $X+A=2(X-B)$.
 
     The matrix equation $X+A=2(X-B)$ can be rewritten as $X+A=2 X-2 B$. Rearranging terms, we get $X-2 X=-A-2 B$. Simplifying, we have $-X=-A-2 B$. Multiplying by $-1$, we get $X=A+2 B$.
 
-    Substituting the given matrices $A$ and $B$ into the equation, we have:
+    Substituting the given matrices $A$ and $2B$ into the equation, we have:
 
-    $$
-    X=\left[\begin{array}{ccc}1 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & -3\end{array}\right]+2\left[\begin{array}{ccc}1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1\end{array}\right]=\left[\begin{array}{ccc}1+2 & 0+2 & 0+2 \\ 0+6 & 3+2 & 0+2 \\ 0-6 & 0+2 & -3+2\end{array}\right]=\left[\begin{array}{ccc}3 & 2 & 2 \\ 6 & 5 & 2 \\ -6 & 2 & -1\end{array}\right]
-    $$
+    \[
+    X=A+2 B=\left[\begin{array}{ccc}
+    1 & 0 & 0 \\
+    0 & 3 & 0 \\
+    0 & 0 & -3
+    \end{array}\right]+\left[\begin{array}{lll}
+    2 & 2 & 2 \\
+    2 & 2 & 2 \\
+    2 & 2 & 2
+    \end{array}\right]=\left[\begin{array}{ccc}
+    3 & 2 & 2 \\
+    2 & 5 & 2 \\
+    2 & 2 & -1
+    \end{array}\right]
+    \]
 
-    Therefore, the solution to the matrix equation $X+A=2(X-B)$ is $X=\left[\begin{array}{ccc}3 & 2 & 2 \\ 6 & 5 & 2 \\ -6 & 2 & -1\end{array}\right]$.
+    Therefore, the solution to the matrix equation $X+A=2(X-B)$ is $X=\left[\begin{array}{ccc}3 & 2 & 2 \\ 2 & 5 & 2 \\ 2 & 2 & -1\end{array}\right]$.
 
 #### Exercise 6
 
