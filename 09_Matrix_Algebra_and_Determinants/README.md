@@ -28,7 +28,7 @@ In this session, we will delve into the foundational aspects of matrix algebra. 
 
 ### Exercises for recitation
 
-**[P]** Means that you are advised to use Python to solve the exercise. You can find the Python solutions [here](/09_Matrix_Algebra_and_Determinants/Python_solutions_for_exercises_09.ipynb)
+**[P]** Means that you are advised to use Python to solve the exercise. You can find the Python solutions [here](09_Matrix_Algebra_and_Determinants/Python_solutions_for_exercises_09.ipynb)
 
 #### Exercise 1
 a. Determine *by inspection* whether the following sets of vectors are linearly independent or dependent. Justify each answer.
