@@ -41,7 +41,7 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.prune
-    - navigation.sections
+    # - navigation.sections
     # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
@@ -75,7 +75,7 @@ plugins:
   - same-dir
   - blog
   - search
-  
+
 # Extensions
 markdown_extensions:
   - abbr
@@ -139,19 +139,19 @@ extra_css:
 
 nav:
   - Home: README.md
-  - Overview: /pages/sessions.md
-  - 01 Basic Arithmetic: 01_Getting_started_-_Basic_Arithmetic/README.md
-  - 02 Fundamental Concepts in Number Theory: 02_Fundamental_concepts_in_number_theory/README.md
-  - 03 Numeral Systems: 03_Numeral_systems/README.md
-  - 04 Boolean Algebra: 04_Boolean_Algebra/README.md
-  - 05 Combinatorics and Probability Theory: 05_Combinatorics_and_Probability_Theory/README.md
-  - 06 Conditional Probability and Bayes' Theorem: 06_Conditional_Probability_and_Bayes_Theorem/README.md
-  - 07 Linear Equations in Linear Algebra: 07_Linear_Equations_in_Linear_Algebra/README.md
-  - 08 Vectors and Matrices: 08_Vectors_and_Matrices/README.md
-  - 09 Matrix Algebra and Deteminants: 09_Matrix_Algebra_and_Determinants/README.md
-  - 10 Asymptotic Analysis and Big-O Notation: 10_Asymptotic_analysis_and_Big_O_notation/README.md
-  - 11 Functions and Loops in Programming: 11_Functions_and_Loops_in_Programming/README.md
-  - 12 Exam Preparation and Q & A: 12_Exam_Preparation_and_Q_A/README.md 
-
+  - Sessions:
+    - README.md
+    - 01 Basic Arithmetic: 01_Getting_started_-_Basic_Arithmetic/README.md
+    - 02 Fundamental Concepts in Number Theory: 02_Fundemental_concepts_in_number_theory/README.md
+    - 03 Numeral Systems: 03_Numeral_systems/README.md
+    - 04 Boolean Algebra: 04_Boolean_Algebra/README.md
+    - 05 Combinatorics and Probability Theory: 05_Combinatorics_and_Probability_Theory/README.md
+    - 06 Conditional Probability and Bayes' Theorem: 06_Conditional_Probability_and_Bayes_Theorem/README.md
+    - 07 Linear Equations in Linear Algebra: 07_Linear_Equations_in_Linear_Algebra/README.md
+    - 08 Vectors and Matrices: 08_Vectors_and_Matrices/README.md
+    - 09 Matrix Algebra and Deteminants: 09_Matrix_Algebra_and_Determinants/README.md
+    - 10 Asymptotic Analysis and Big-O Notation: 10_Asymptotic_analysis_and_Big_O_notation/README.md
+    - 11 Functions and Loops in Programming: 11_Functions_and_Loops_in_Programming/README.md
+    - 12 Exam Preparation and Q & A: 12_Exam_Preparation_and_Q_A/README.md 
   - Handins: /pages/handins.md
   - FAQ: /pages/faq.md
