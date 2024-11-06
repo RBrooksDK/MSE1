@@ -22,7 +22,7 @@
       
       
       <link rel="icon" href="../figures/logo.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.43">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.44">
     
     
       
@@ -1178,11 +1178,23 @@ A &amp; I
 <details class="answer">
 <summary>&nbsp;</summary>
 <p>The matrix equation <span class="arithmatex">\(X+A=2(X-B)\)</span> can be rewritten as <span class="arithmatex">\(X+A=2 X-2 B\)</span>. Rearranging terms, we get <span class="arithmatex">\(X-2 X=-A-2 B\)</span>. Simplifying, we have <span class="arithmatex">\(-X=-A-2 B\)</span>. Multiplying by <span class="arithmatex">\(-1\)</span>, we get <span class="arithmatex">\(X=A+2 B\)</span>.</p>
-<p>Substituting the given matrices <span class="arithmatex">\(A\)</span> and <span class="arithmatex">\(B\)</span> into the equation, we have:</p>
+<p>Substituting the given matrices <span class="arithmatex">\(A\)</span> and <span class="arithmatex">\(2B\)</span> into the equation, we have:</p>
 <div class="arithmatex">\[
-X=\left[\begin{array}{ccc}1 &amp; 0 &amp; 0 \\ 0 &amp; 3 &amp; 0 \\ 0 &amp; 0 &amp; -3\end{array}\right]+2\left[\begin{array}{ccc}1 &amp; 1 &amp; 1 \\ 1 &amp; 1 &amp; 1 \\ 1 &amp; 1 &amp; 1\end{array}\right]=\left[\begin{array}{ccc}1+2 &amp; 0+2 &amp; 0+2 \\ 0+6 &amp; 3+2 &amp; 0+2 \\ 0-6 &amp; 0+2 &amp; -3+2\end{array}\right]=\left[\begin{array}{ccc}3 &amp; 2 &amp; 2 \\ 6 &amp; 5 &amp; 2 \\ -6 &amp; 2 &amp; -1\end{array}\right]
+X=A+2 B=\left[\begin{array}{ccc}
+1 &amp; 0 &amp; 0 \\
+0 &amp; 3 &amp; 0 \\
+0 &amp; 0 &amp; -3
+\end{array}\right]+\left[\begin{array}{lll}
+2 &amp; 2 &amp; 2 \\
+2 &amp; 2 &amp; 2 \\
+2 &amp; 2 &amp; 2
+\end{array}\right]=\left[\begin{array}{ccc}
+3 &amp; 2 &amp; 2 \\
+2 &amp; 5 &amp; 2 \\
+2 &amp; 2 &amp; -1
+\end{array}\right]
 \]</div>
-<p>Therefore, the solution to the matrix equation <span class="arithmatex">\(X+A=2(X-B)\)</span> is <span class="arithmatex">\(X=\left[\begin{array}{ccc}3 &amp; 2 &amp; 2 \\ 6 &amp; 5 &amp; 2 \\ -6 &amp; 2 &amp; -1\end{array}\right]\)</span>.</p>
+<p>Therefore, the solution to the matrix equation <span class="arithmatex">\(X+A=2(X-B)\)</span> is <span class="arithmatex">\(X=\left[\begin{array}{ccc}3 &amp; 2 &amp; 2 \\ 2 &amp; 5 &amp; 2 \\ 2 &amp; 2 &amp; -1\end{array}\right]\)</span>.</p>
 </details>
 <h4 id="exercise-6">Exercise 6<a class="headerlink" href="#exercise-6" title="Permanent link">&para;</a></h4>
 <p><strong>[P]</strong> Let the matrix <span class="arithmatex">\(A\)</span> be given by</p>
