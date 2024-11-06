@@ -8,7 +8,7 @@ site_dir: ../site
 
 # Repository information
 repo_name: Github
-repo_url: https://github.com/RBrooksDK/rbrooksdk.github.io
+repo_url: https://github.com/RBrooksDK/MSE1
 
 # Copyright
 copyright: Copyright &copy; 2024 Richard Brooks
@@ -138,6 +138,7 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
+  - Richard Brooks: https://rbrooksdk.github.io
   - Home: README.md
   - Sessions:
     - README.md
@@ -153,3 +154,5 @@ nav:
     - 10 Asymptotic Analysis and Big-O Notation: 10_Asymptotic_analysis_and_Big_O_notation/README.md
     - 11 Functions and Loops in Programming: 11_Functions_and_Loops_in_Programming/README.md
     - 12 Exam Preparation and Q & A: 12_Exam_Preparation_and_Q_A/README.md
+  - Hand ins: pages/handins.md
+  - FAQ: pages/faq.md
