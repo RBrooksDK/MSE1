@@ -141,7 +141,7 @@ nav:
   - Richard Brooks: https://rbrooksdk.github.io
   - Home: README.md
   - Sessions:
-    - README.md
+    - Sessions/README.md
     - 01 Basic Arithmetic: 01_Getting_started_-_Basic_Arithmetic/README.md
     - 02 Fundamental Concepts in Number Theory: 02_Fundemental_concepts_in_number_theory/README.md
     - 03 Numeral Systems: 03_Numeral_systems/README.md
