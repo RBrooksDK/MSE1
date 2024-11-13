@@ -170,7 +170,7 @@ b. Is \( 2^{2n} = O(2^n) \)? Explain why or why not. If not, what is then the co
     2^{2 n} \neq O\left(2^n\right)
     $$
 
-    Is is in fact \( 2^{2n} = O(4^n) \) because \( 2^{2n} = (2^2)^n = 4^n \).
+    but is in fact \( 2^{2n} = O(4^n) \) because \( 2^{2n} = (2^2)^n = 4^n \).
 
 #### Exercise 7: Coding Exercise
 
