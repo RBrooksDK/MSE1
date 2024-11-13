@@ -47,8 +47,8 @@ $$
     2. \( \log n \)
     3. \( n \)
     4. \( n \log n \)
-    5. \( \frac{n^2}{\log n} \)
-    6. \( n \sqrt{n} \)
+    5. \( n \sqrt{n} \)
+    6. \( \frac{n^2}{\log n} \)
     7. \( n^2 \)
     8. \( 2^n \)
     9.  \( n! \)
@@ -57,7 +57,7 @@ $$
     So, in Big $\mathcal{O}$ order:
 
     \[
-    \log \log n \prec \log n \prec n \prec n \log n \prec \frac{n^2}{\log n} \prec n^2 \prec n \sqrt{n} \prec 2^n \prec n!\prec n^n
+    \log \log n \prec \log n \prec n \prec n \log n \prec n \sqrt{n} \prec \frac{n^2}{\log n} \prec n^2 \prec 2^n \prec n!\prec n^n
     \]
 
 
