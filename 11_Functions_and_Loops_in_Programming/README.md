@@ -4,6 +4,8 @@
 
 Brooks: [Chapter 11](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing). You should begin reading before class as it will aid your understanding as the topics get more complex.
 
+Brooks: MSE_in_SEP1 (in Session Material)
+
 **Session Material:**
 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EnwGIx3PNuJHmDljj0r5POsB2j5n658Vxcqrw0s2iVcznQ?e=p5WKpf)
