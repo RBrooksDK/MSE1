@@ -136,6 +136,9 @@ a. linear
 
 b. $O(n \log n)$
 
+Solution:
+
+
 c. quadratic
 
 d. cubic
@@ -145,7 +148,7 @@ d. cubic
     
     $\text {Linear: } n \approx 12,000,000$
 
-    $O(n \log n): n \approx 2,440$
+    $O(n \log n): n \approx 3,660,000
     
     $\text {Quadratic: } n \approx 34,641$
     
