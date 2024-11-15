@@ -148,7 +148,7 @@ d. cubic
     
     $\text {Linear: } n \approx 12,000,000$
 
-    $O(n \log n): n \approx 3,660,000 (Hard problem, skip if you want)
+    $O(n \log n): n \approx 3,660,000$ (Hard problem, skip if you want. You need to use approximation to solve this.)
     
     $\text {Quadratic: } n \approx 34,641$ 
     
