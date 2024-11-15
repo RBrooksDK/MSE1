@@ -145,7 +145,7 @@ d. cubic
     
     $\text {Linear: } n \approx 12,000,000$
 
-    $O(n \log n): n \approx 3,660,000$ (see (Python Solution)[https://github.com/RBrooksDK/MSE1/blob/main/10_Asymptotic_analysis_and_Big_O_notation/Solution%205b.ipynb])
+    $O(n \log n): n \approx 3,660,000$ (see [Python Solution](https://github.com/RBrooksDK/MSE1/blob/main/10_Asymptotic_analysis_and_Big_O_notation/Solution%205b.ipynb))
     
     $\text {Quadratic: } n \approx 34,641$ 
     
