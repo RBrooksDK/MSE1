@@ -134,10 +134,7 @@ An algorithm takes 0.5 ms for input size 100. How large a problem (i.e. the size
 
 a. linear
 
-b. $O(n \log n)$
-
-Solution:
-
+b. $O(n \log n)$  (Hard problem, skip if you want. You need to use approximation to solve this.)
 
 c. quadratic
 
@@ -148,7 +145,7 @@ d. cubic
     
     $\text {Linear: } n \approx 12,000,000$
 
-    $O(n \log n): n \approx 3,660,000$ (Hard problem, skip if you want. You need to use approximation to solve this.)
+    $O(n \log n): n \approx 3,660,000$
     
     $\text {Quadratic: } n \approx 34,641$ 
     
