@@ -145,7 +145,7 @@ d. cubic
     
     $\text {Linear: } n \approx 12,000,000$
 
-    $O(n \log n): n \approx 3,660,000$
+    $O(n \log n): n \approx 3,660,000$ (see (Python Solution)[])
     
     $\text {Quadratic: } n \approx 34,641$ 
     
