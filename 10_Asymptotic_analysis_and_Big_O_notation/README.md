@@ -150,7 +150,7 @@ d. cubic
 
     $O(n \log n): n \approx 3,660,000
     
-    $\text {Quadratic: } n \approx 34,641$
+    $\text {Quadratic: } n \approx 34,641$ (Hard problem, skip if you want)
     
     $\text {Cubic: } n \approx 4,932$
 
