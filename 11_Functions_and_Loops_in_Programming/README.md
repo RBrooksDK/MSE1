@@ -8,6 +8,8 @@ Brooks: MSE_in_SEP1 (in Session Material)
 
 **Session Material:**
 
+[Notes: Loop Analysis](https://drive.google.com/file/d/112ojchm4x7U1SV6b31_cUMcfJROmNvnZ/view?usp=sharing)
+
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EnwGIx3PNuJHmDljj0r5POsB2j5n658Vxcqrw0s2iVcznQ?e=p5WKpf)
 
 --------------------------
