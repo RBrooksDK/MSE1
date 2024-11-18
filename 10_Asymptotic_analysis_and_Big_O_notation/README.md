@@ -112,7 +112,7 @@ Write the following using $\Theta$ notation:
 
     \[
     \begin{array}{ll}
-    \text{a. } \Theta(n^3) & \text{f. } \Theta(\log_2^7 n) \\
+    \text{a. } \Theta(n^3) & \text{f. } \Theta(n) \\
     \text{b. } \Theta(2^n) & \text{g. } \Theta(2^n) \\
     \text{c. } \Theta(n \sqrt{n}) & \text{h. } \Theta(n^3 \log_2 n) \\
     \text{d. } \Theta(n^2) & \text{i. } \Theta(n^2) \\
