@@ -91,6 +91,12 @@ b. Determine whether the following statements are true or false:
 
 #### Exercise 2: Lucky Loops
 
+Note: Loop 4 is a challenge exercise. In order to solve it, you will need the following approximation:
+
+\[
+\sum_{i=0}^n \sqrt{2i} \approx \sqrt{2} \int_0^n \sqrt{x} d x=\frac{2\sqrt{2}}{3} n^{3 / 2}
+\]
+
 ![Description of the image](src/ex2.png)
 
 For each of the above algorithms, state its execution time as a function of $n$ in $\Theta$-notation.
