@@ -33,25 +33,7 @@ All literature will be made available to the student.
 
 ## Software
 
-Before session 07, make sure you install a working version of Jupyter Notebook and Python version 3.7 or higher. The easiest way to install Python and Jupyter is using [Anaconda Distribution](https://www.anaconda.com/products/distribution). You can choose whichever framework you want to work in as long as it can handle Jupyter Notebooks. Installing VS Code with a Jupyter Notebook extension seems to be a popular choice..
-
-## Hand-ins
-
-All hand-ins will be made during the recitations and must be handed in at the end of recitation.
-
-| Hand-in          | Solution        | Manual Solution         |
-|------------------|-----------------|-------------------------|
-| [Hand_in_1](/Hand_ins/Hand_in_01/MSE_Hand_in_1.pdf)    | [Solution 1](/Hand_ins/Hand_in_01/MSE_Hand_in_1-%20solution.pdf)  | [Solution 1 - Manual](/Hand_ins/Hand_in_01/Løsning_Aflevering1.pdf) |
-| [Hand_in_2](/Hand_ins/Hand_in_02/MSE_Hand_in_2.pdf)    | [Solution 2](/Hand_ins/Hand_in_02/MSE_Hand_in_2_solutions.pdf)  | [Solution 2 - Manual](/Hand_ins/Hand_in_02/Løsning_aflevering2.pdf) |
-| [Hand_in_3](/Hand_ins/Hand_in_03/Hand_in_03.pdf)    | [Solution 3](/Hand_ins/Hand_in_03/Hand_in_03_solution.pdf)  | [Solution 3 - Manual]() |
-| [Hand_in_4](/Hand_ins/Hand_in_04/Hand_in_4.pdf)    | [Solution 4]()  | [Solution 4 - Manual]() |
-| [Hand_in_5]()    | [Solution 5]()  | [Solution 5 - Manual]() |
-| [Hand_in_6]()    | [Solution 6]()  | [Solution 6 - Manual]() |
-| [Hand_in_7]()    | [Solution 7]()  | [Solution 7 - Manual]() |
-| [Hand_in_8]()    | [Solution 8]()  | [Solution 8 - Manual]() |
-| [Hand_in_9]()    | [Solution 9]()  | [Solution 9 - Manual]() |
-| [Hand_in_10]()   | [Solution 10]() | [Solution 10 - Manual]() |
-
+Before session 07, make sure you install a working version of Jupyter Notebook and Python version 3.7 or higher. The easiest way to install Python and Jupyter is using [Anaconda Distribution](https://www.anaconda.com/products/distribution). You can choose whichever framework you want to work in as long as it can handle Jupyter Notebooks. Installing VS Code with a Jupyter Notebook extension seems to be a popular choice.
 
 
 
