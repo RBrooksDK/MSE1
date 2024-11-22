@@ -28,6 +28,8 @@ In this session, we focus on two fundamental concepts in programming: functions 
 
 ### Exercises for recitation
 
+Manual solutions for loops: [Loop Analysis](https://drive.google.com/file/d/1wsupXIbqnTGKTXrjxd8VqlP7SFKAxuW_/view?usp=sharing)
+
 #### Exercise 1: Asymptotic Notation
 
 a. Order the following by their $\mathcal{O}(\cdot)$ ranking. $\log n$ is the logarithm of $n$ to the base 2.
