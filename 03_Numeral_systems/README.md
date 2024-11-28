@@ -75,7 +75,7 @@ f. How is the prime factorization linked to the concept of $\varphi(n)$?
 
 ??? answer "&nbsp;"
 
-   If $n = pq$, where $p$ and $q$ are prime, then $\varphi(n) = (p-1)(q-1)$?
+    If $n = pq$, where $p$ and $q$ are prime, then $\varphi(n) = (p-1)(q-1)$?
 
 #### Exercise 2: Binary to Decimal
 
@@ -103,46 +103,36 @@ a. $49_{10}$
 
 ??? answer "&nbsp;"
 
-   $1\cdot2^5 + 1\cdot2^4 + 0\cdot2^3 + 0\cdot 2^2 + 0\cdot 2^1 + 1\cdot2^0$
+    $1\cdot2^5 + 1\cdot2^4 + 0\cdot2^3 + 0\cdot 2^2 + 0\cdot 2^1 + 1\cdot2^0$
 
-   $110001$
+    $110001$
 
 b. $212_{10}$
 
 ??? answer "&nbsp;"
 
-   $1\cdot 2^7 + 1\cdot 2^6 + 1 \cdot 2^4 + 1 \cdot 2^2$
+    $1\cdot 2^7 + 1\cdot 2^6 + 1 \cdot 2^4 + 1 \cdot 2^2$
 
-   $11010100_2$
+    $11010100_2$
 
 #### Exercise 4: Convert to Decimal
 State the hexadecimal expansion of the following values and then state the number in decimal. 
 
 a. $37D_{16}$
 
-<details> <br>
-  <summary> </summary>
+??? answer "&nbsp;"
 
-$3 \cdot 16^2 + 7 \cdot 16^1 + 13 \cdot 16^0$
+    $3 \cdot 16^2 + 7 \cdot 16^1 + 13 \cdot 16^0$
 
-$893_{10}$
-
-</details>
-
-<br>
+    $893_{10}$
 
 b. $1 A 9_{16}$
 
-<details> <br>
-  <summary> </summary>
+??? answer "&nbsp;"
 
-$1 \cdot 16^2 + 10 \cdot 16^1 + 9 \cdot 16^0$
+    $1 \cdot 16^2 + 10 \cdot 16^1 + 9 \cdot 16^0$
 
-$425$
-
-</details>
-
-<br>
+    $425$
 
 #### Exercise 5: Hex and Binary
 
@@ -151,49 +141,26 @@ Solve the “crossbins” below. The clues are in hexadecimal, and the answers s
 
 <img src="crossbin1.png" alt="Crossbin 1" width="400"/>
 
-<details> <br>
-  <summary> </summary>
+??? answer "&nbsp;"
 
-<img src="crossbin1sol-1.jpg" alt="Crossbin 1" width="400"/>
-
-</details>
-
-<br>
+    <img src="crossbin1sol-1.jpg" alt="Crossbin 1" width="400"/>
 
 <img src="crossbin2.png" alt="Crossbin 2" width="350"/>
 
-<details> <br>
-  <summary> </summary>
+??? answer "&nbsp;"
 
-<img src="crossbinsol-1 1.jpg" alt="Crossbin 2" width="350"/>
-
-</details> 
-
-<br>
-
+    <img src="crossbinsol-1 1.jpg" alt="Crossbin 2" width="350"/>
 
 #### Exercise 6: Hex and Binary
 
 Let $S$ be the set of all binary numbers with 7 characters, and let $f$ be a function from $S$ to $\mathbb{Z}$ given by $f(x_2) = x_{10}$.
 
-a. Determine $f(111010)$.
+a. Determine $f(111010)$.(1)
+{ .annotate }
 
-<details> <br>
-  <summary> </summary>
+1. 58
 
-58
+b. The order of a set is the number of elements in a set. For instance the order of ${1, 5, 7, 19, 27, 39}$ is 6. Determine the order of the set $S$. (1)
+{ .annotate }
 
-</details> 
-
-<br>
-
-b. The order of a set is the number of elements in a set. For instance the order of ${1, 5, 7, 19, 27, 39}$ is 6. Determine the order of the set $S$.
-
-<details> <br>
-  <summary> </summary>
-
-128
-
-</details> 
-
-<br>
+1. 128
