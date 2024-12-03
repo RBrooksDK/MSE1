@@ -136,7 +136,7 @@ c. Arrives on time, given that it did not depart on time (1)
 </details>
 <br>
 
-### Exercises 5: Independence and Contingency Tables
+#### Exercises 5: Independence and Contingency Tables
 A survey was conducted to determine the employment rate of recently graduated engineering students. The survey was conducted one year after graduation and was made for ICT Engineers, Civil Engineers, Mechanical Engineers, and Global Business Engineers. The graduates were classified in one of two employment categories: (1) employed/studying and (2) unemployed. 40% of the respondents had studied ICT Engineering and of these 85% were employed/studying. Of all the respondents, 20% were unemployed. Of the 100 former civil engineering students who took part in the survey, 20% were unemployed. The proportion of unemployed Mechanical and Civil engineering students was the same and the survey included exactly 9 unemployed mechanical engineering students. 300 students took part in the survey.
 
 a. Based on this information, construct a 2 x 4 contingency table for the survey results.
@@ -165,7 +165,7 @@ d. Is being unemployed independent from being a former ICT student? (1)
 
     $P(\text{ICT} \mid \text{Unemployed}) = \dfrac{3}{10} \neq \dfrac{2}{5} = P(\text{ICT})$
 
-### Exercise 6: Bayes' Theorem
+#### Exercise 6: Bayes' Theorem
 Disease $A$ occurs with probability 0.1, and disease $B$ occurs with probability 0.2. It is not possible to have both diseases. You have a single test. This test reports positive with probability 0.8 for a patient with disease $A$, with probability 0.5 for a patient with disease $B$, and with probability 0.01 for a patient with no disease - call the latter event $W$. Stating your answer as correct to four decimal places, if the test comes back positive, what is the probability you have either:
 
 a. Disease $A$
