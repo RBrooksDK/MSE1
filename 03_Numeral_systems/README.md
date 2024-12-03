@@ -12,6 +12,7 @@ Brooks: [Chapter 3](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FF
 
 --------------------------
 
+### Topic Description
 Numeral systems are methods for expressing numbers using a consistent set of symbols. The four most commonly used numeral systems in computing and mathematics are decimal, binary, octal, and hexadecimal.
 
 1. **Decimal (Base 10):**
@@ -29,7 +30,7 @@ Numeral systems are methods for expressing numbers using a consistent set of sym
 
 These numeral systems are used to simplify data representation, processing, and conversion.
 
-### Key Concepts:
+#### Key Concepts
 - Positional numeral systems
 - Binary expansion
 - Binary operations
@@ -139,17 +140,15 @@ b. $1 A 9_{16}$
 Solve the “crossbins” below. The clues are in hexadecimal, and the answers should be in binary.  
 **Note**: If your number is too short, add zeros in front!
 
-<img src="crossbin1.png" alt="Crossbin 1" width="400"/>
+<img src="src/crossbin1.png" alt="Crossbin 1" width="400"/>
 
 ??? answer "&nbsp;"
+    <img src="src/crossbin1sol-1.jpg" alt="Crossbin 1" width="400"/>
 
-    <img src="crossbin1sol-1.jpg" alt="Crossbin 1" width="400"/>
-
-<img src="crossbin2.png" alt="Crossbin 2" width="350"/>
+<img src="src/crossbin2.png" alt="Crossbin 2" width="350"/>
 
 ??? answer "&nbsp;"
-
-    <img src="crossbinsol-1 1.jpg" alt="Crossbin 2" width="350"/>
+    <img src="src/crossbinsol-1 1.jpg" alt="Crossbin 2" width="350"/>
 
 #### Exercise 6: Hex and Binary
 

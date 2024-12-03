@@ -12,9 +12,10 @@ Brooks: [Chapter 4](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FF
 
 --------------------------
 
+### Topic Description
 In this session, we introduce the foundational concepts of Boolean algebra, which is crucial for understanding digital logic and designing circuits. We will start with the basic Boolean operators AND, OR, and NOT, and then move on to more advanced operators such as NAND, NOR, and XOR. The session will also cover Boolean variables and functions, including how to represent them using truth tables. Additionally, we will explore Boolean identities and their applications in simplifying expressions and designing logic circuits.
 
-### Key Concepts:
+#### Key Concepts
 - Basic Boolean operators (AND, OR, NOT)
 - Advanced Boolean operators (NAND, NOR, XOR)
 - Boolean variables and functions
@@ -75,7 +76,6 @@ c. $\overline{0 \cdot (1 + 0)}$ (1)
 { .annotate }
 
 1. $1$
-
 
 d. $\overline{1} + (0 \cdot 1)$  (1)
 { .annotate }
