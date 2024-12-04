@@ -12,9 +12,10 @@ Brooks: [Chapter 9](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FF
 
 --------------------------
 
+### Topic Description
 In this session, we will delve into the foundational aspects of matrix algebra. We begin with the definitions and properties of various types of matrices, including diagonal, zero, and identity matrices. We will learn how to perform basic matrix operations such as scalar multiplication and matrix addition, and how to compute matrix multiplication using both the definition and the row-column rule. The session will also cover the concepts of powers and the transpose of a matrix. We will explore several important theorems that describe the properties of matrix operations, including the definition and properties of invertible matrices. We will learn how to compute the inverse of a matrix and understand the significance of The Invertible Matrix Theorem. Finally, we will introduce determinants for 2 x 2 matrices and provide a brief overview of eigenvalues and eigenvectors.
 
-### Key Concepts
+#### Key Concepts
 - Definitions of Diagonal Matrices, Zero Matrices, and Identity Matrices
 - Scalar Multiplication and Matrix Addition
 - Computing Matrix Multiplication (by Definition and Row-Column Rule)

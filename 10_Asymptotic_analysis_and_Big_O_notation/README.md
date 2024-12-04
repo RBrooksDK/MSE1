@@ -1,10 +1,10 @@
 # 10. Asymptotic analysis and Big O notation
 
-### Session Preparation:
+### Session Preparation
 
 Brooks: [Chapter 10](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing). You should begin reading before class as it will aid your understanding as the topics get more complex.
 
-### Session Material:
+### Session Material
 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eql9J0ssd15HumyWWOVSuEoBcnNt7n6v8APYzbEPKq8kvw?e=eg8aH3)
 
@@ -12,14 +12,14 @@ Brooks: [Chapter 10](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5F
 
 In this session, we delve into the foundational concepts of algorithms and their analysis. We will begin by exploring what algorithms are and why they are central to computer science and mathematics. The session will introduce asymptotic notation, which is crucial for describing the efficiency of algorithms. We will examine time complexity, focusing on how to analyse the performance of algorithms as the input size grows. Additionally, we will cover growth functions to understand how different algorithms scale and how to perform asymptotic analysis using limits.
 
-### Key Concepts:
+#### Key Concepts
 - Introduction to Algorithms
 - Asymptotic Notation
 - Time Complexity
 - Asymptotic Analysis and Limits
 --------------------------
 
-### Exercises for Recitation:
+### Exercises for Recitation
 
 #### Exercise 1: Asymptotic Notation
 Order the following by their $\mathcal{O}(\cdot)$ ranking
