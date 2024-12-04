@@ -14,7 +14,7 @@ Note: Please make sure you have a working version of Python 3.7 (or higher) and 
 
 [”Get started with Jupyter Notebooks in less than 4 minutes”](https://www.youtube.com/watch?v=h1sAzPojKMg)
 
-Session Material
+### Session Material
 
 [Session notes](https://drive.google.com/file/d/1sCxNPidcijgYbLLYf5Y51u1fOjVbV59Y/view?usp=sharing)
 
