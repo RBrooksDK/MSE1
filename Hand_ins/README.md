@@ -13,5 +13,5 @@ All hand-ins will be made during the recitations and must be handed in at the en
 | [Hand_in_7](Hand_in_07/Hand_in_7.pdf)    | [Solution 7](Hand_in_07/hand_in_7_sol.pdf)  | [Solution 7 - Manual](Hand_in_07/Aflevering7_loesning.pdf) |        |
 | [Hand_in_8](Hand_in_08/Hand_in_08.pdf)    | [Solution 8](Hand_in_08/Hand_in_08%20-%20with answers.pdf)  |  | [Python Solution 8](https://github.com/RBrooksDK/MSE1/blob/main/Hand_ins/Hand_in_08/Hand_in_8_solution.ipynb)       |
 | [Hand_in_9](Hand_in_09/Hand_in_09.pdf)    | [Solution 9](Hand_in_09/Hand_in_09_with_answers.pdf)  | |    |
-| [Hand_in_10](Hand_in_10/hand_in_10.pdf)   | [Solution 10](Hand_in_10/hand_in_10_ans.pdf) | [Solution 10 - Manual]()| [Python Solution 10]()      |
+| [Hand_in_10](Hand_in_10/hand_in_10.pdf)   | [Solution 10](Hand_in_10/hand_in_10_sol.pdf) | [Solution 10 - Answers](Hand_in_10/hand_in_10_ans.pdf)| [Python Solution 10]()      |
 
