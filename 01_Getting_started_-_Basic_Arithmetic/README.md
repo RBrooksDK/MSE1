@@ -13,6 +13,7 @@ We will not be going through the arithmetic part, but we will be doing examples 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtdW6vDKB6FHsPZdtO6XUhMB5n3uwC00IoyfXj5g1O6JlA?e=vAY78F)
 
 --------------------------
+## Quiz
 
 ### Topic Description
 In this first session, we will lay the groundwork for our study of mathematics within the context of software engineering. The session will begin with an overview of the course structure, objectives, and expectations. Following this, we will review and practice essential calculation rules and the basic properties of functions. These fundamental concepts are critical as they form the basis for more advanced topics that will be covered later in the course.

@@ -75,6 +75,7 @@ plugins:
   - same-dir
   - blog
   - search
+  - mkdocs_quiz
 
 # Extensions
 markdown_extensions:
